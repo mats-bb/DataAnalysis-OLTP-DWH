@@ -5,3 +5,8 @@ Explore site
 Entity collection
 Create ERD
 Build DBMS
+
+Stretch
+    - Build webscraper to pull actual data from komplett
+    - Populate tables with data
+    - Query data 
