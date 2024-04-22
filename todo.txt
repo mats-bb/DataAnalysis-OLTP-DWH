@@ -9,4 +9,6 @@ Build DBMS
 Stretch
     - Build webscraper to pull actual data from komplett
     - Populate tables with data
-    - Query data 
+    - Query data
+
+Build user tables
