@@ -1,0 +1,7 @@
+Mission statement
+    - Reverse engineer komplett.no to build a DBMS to fit the needs of the site
+    
+Explore site
+Entity collection
+Create ERD
+Build DBMS
