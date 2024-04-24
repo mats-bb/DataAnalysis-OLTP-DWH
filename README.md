@@ -1,5 +1,5 @@
 # About
-"Reverse engineering" Komplett.no to get a deeper understanding of datamodeling concepts. See .svg file for current ERD progress.
+"Reverse engineering" Komplett.no to get a deeper understanding of datamodeling concepts. See raw .svg file for current ERD progress.
 
 ## Ideas
 - Build OLTP system
