@@ -7,4 +7,5 @@
 - Connect Power Bi to OLAP for analysis
 - Scrape actual product data from Komplett to populate DB
 - Populate other tables with dummy-data
+- Build GUI to emulate placing orders etc
 - Run queries
