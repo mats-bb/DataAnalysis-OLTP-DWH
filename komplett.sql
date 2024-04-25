@@ -29,7 +29,7 @@ wishlist_product
 card_info
 */
 
---
+-- PRODUCT
 
 drop table if exists producer;
 create table producer (
@@ -120,4 +120,152 @@ create table product_inventory (
 	quantity int default 0,
 	created_date date not null,
 	product_id int references product (id)
+	);
+
+-- ORDERS
+
+drop table if exists payment_provider;
+create table payment_provider (
+	id serial primary key,
+	name varchar(30) unique not null
+	);
+
+drop table if exists delivery_option;
+create table delivery_option (
+	id serial primary key,
+	type varchar(30) unique not null,
+	price decimal(3, 2) not null
+	);
+
+drop table if exists orders;
+create table orders (
+	id serial primary key,
+	order_date date not null,
+	shipped_date date default null,
+	ip_address varchar(20) not null,
+	last_update date default null,
+	pickup_msg text default null,
+	delivery_note text not null,
+	delivery_option_id int references delivery_option (id),
+	customer_id int references customer (id)
+	);
+
+drop table if exists orders_payment;
+create table orders_payment (
+	id serial primary key,
+	total_amount decimal(6, 2) not null,
+	payment_date date not null,
+	status varchar(20) default null,
+	orders_id int references orders (id),
+	payment_provider_id int references payment_provider (id)
+	);
+
+drop table if exists orders_product;
+create table orders_product (
+	id serial primary key,
+	quantity int not null,
+	orders_id int references orders (id),
+	product_id int references product (id)
+	);
+
+-- CUSTOMER
+
+drop table if exists customer;
+create table customer (
+	id serial primary key,
+	first_name varchar(20) not null,
+	middle_name varchar(20) default null,
+	last_name varchar(20) not null,
+	email varchar(50) unique not null,
+	password varchar(50) not null,
+	mobile_num varchar(8) unique not null,
+	created_date date not null,
+	last_modified date 
+	);
+
+drop table if exists state;
+create table state (
+	id serial primary key,
+	state_name varchar(40) unique not null
+	);
+
+drop table if exists city;
+create table city (
+	id serial primary key,
+	city_name varchar(20) unique not null
+	);
+
+drop table if exists address;
+create table address (
+	id serial primary key,
+	street_address varchar(35) not null,
+	zip_code int not null,
+	city_id int not null references city (id)
+	);
+
+drop table if exists customer_address;
+create table customer_address (
+	id serial primary key,
+	customer_id int not null references customer (id),
+	address_id int not null references address (id)
+	);
+
+drop table if exists card_info;
+create table card_info (
+	id serial primary key,
+	card_number int unique not null,
+	cardholder_first_name varchar(20) not null,
+	cardholder_last_name varchar(20) not null,
+	expiration_date date not null,
+	cvv int not null,
+	customer_id int references customer (id)
+	);
+
+-- CART
+
+drop table if exists cart;
+create table cart (
+	id serial primary key,
+	created_date date not null,
+	customer_id int not null references customer (id)
+	);
+
+drop table if exists cart_product;
+create table cart_product (
+	id serial primary key,
+	quantity int not null,
+	cart_id int not null references cart (id),
+	product_id int not null references product (id)
+	);
+
+-- WISHLIST
+
+drop table if exists wishlist;
+create table wishlist (
+	id serial primary key,
+	wishlist_name varchar(70) not null,
+	created_date date not null,
+	note text default null,
+	customer_id int not null references customer (id)
+	);
+
+drop table if exists wishlist_product;
+create table wishlist_product (
+	id serial primary key,
+	quantity int not null,
+	wishlist_id int not null references wishlist (id),
+	product_id int not null references product (id)
+	);
+
+-- CUSTOMER_PRODUCT
+
+drop table if exists product_review;
+create table product_review (
+	id serial primary key,
+	title text not null,
+	rating int not null check (rating between 0 and 5),
+	review_date date not null,
+	review_text text default null,
+	product_id int not null references product (id),
+	customer_id int not null references customer (id)
 	);
