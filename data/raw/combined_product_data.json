@@ -1,0 +1,75 @@
+{
+    "name": "ASUS PROART Geforce RTX 4060 Ti OC",
+    "description": "Skjermkort, PCIe 4.0, 16GB GDDR6",
+    "sku": "1249267",
+    "mpn": "90YV0JH2-M0NA00",
+    "producer": "ASUS",
+    "price": "6499.00",
+    "categories": {
+        "main_category": "Datautstyr",
+        "type_category": "PC-komponenter",
+        "product_category": "Skjermkort"
+    },
+    "spec_sheet": [
+        {
+            "caption": "generelt",
+            "produktserie": "asus proart",
+            "modell": "geforce rtx 4060 ti 16g",
+            "garanti (måneder)": "36",
+            "ean": "4711387275504"
+        },
+        {
+            "caption": "videoutgang",
+            "antall cuda-kjerner": "4352",
+            "støttede api": "opengl 4.6",
+            "grafikkprosessor": "nvidia geforce rtx 4060 ti",
+            "type": "grafikkort",
+            "vr-klar": "ja",
+            "hdcp-kompatibel": "ja",
+            "klokkehastighetsøkning": "2655 mhz",
+            "grensesnittype": "pci express 4.0",
+            "maks. antall skjermer som støttes": "4",
+            "grafikkprosessorfabrikant": "nvidia",
+            "maks ekstern oppløsning": "7680 x 4320",
+            "utgangsporter (kompakt liste)": "hdmi, 3 x displayport",
+            "støttet videosignal": "displayport, hdmi",
+            "videoadapterfunksjoner": "nvidia reflex, 2.5-slot fan cooler, 3. generasjons ray tracing cores, 0db technology, nvidia ada lovelace gpu-teknologi, 4. generasjons tensor cores, nvidia ansel, klar for nvidia g-sync, auto-extreme-teknologi, nvidia dlss 3, nvidia broadcast, resizable bar, axial-tech fan design, dual ball bearing fans"
+        },
+        {
+            "caption": "videominne",
+            "installert størrelse": "16 gb",
+            "minnehastighet": "18 gbps",
+            "bussbredde": "128-bit",
+            "teknologi": "gddr6 sdram"
+        },
+        {
+            "caption": "programvare",
+            "type": "asus quantumcloud"
+        },
+        {
+            "caption": "systemkrav",
+            "påkrevd strømforsyning": "650 w",
+            "ekstrakrav": "8-pins pci express-strømkontakt"
+        },
+        {
+            "caption": "diverse",
+            "tilpassede standarder": "hdcp 2.3",
+            "fargekategori": "svart, gull",
+            "inkludert tilbehør til videoadapter": "krok-og-sløyfe-festeanordning, grafikkortholder, samlingskort"
+        },
+        {
+            "caption": "størrelser og vekt",
+            "dybde": "30 cm",
+            "høyde": "12 cm",
+            "bredde": "5 cm"
+        },
+        {
+            "caption": "service- og støttedetaljer",
+            "service og støtte": "begrenset garanti - 3 år"
+        },
+        {
+            "caption": "grensesnittdetaljer",
+            "grensesnittdetaljer": "hdmi, 3 x displayport (versjon 1.4a)"
+        }
+    ]
+}
