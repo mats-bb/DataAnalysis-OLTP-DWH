@@ -1,6 +1,25 @@
+# Classes to look up for item data
+
+# Name: "product-main-info-webtext1"
+# Description: "product-main-info-webtext2"
+# Producer name: "product-main-info-manufacturerName"
+# Category
+    # Main
+    # Type
+    # Product
+# Price: "product-price" priceNowRaw
+# Imgs: ""
+# Info: ""
+# Specs: ""
+# Inventory
+    # SKU: ""
+    # Quantity: ""
+
+
 import requests as req
 from bs4 import BeautifulSoup as bs
 import json
+import pandas as pd
 
 URL = "https://www.komplett.no/product/1249267/datautstyr/pc-komponenter/skjermkort/asus-proart-geforce-rtx-4060-ti-oc"
 
@@ -26,18 +45,88 @@ def save_to_json(dir_, filename, data):
 
 def get_classes(soup, class_name):
     """Returns a list of classes from soup object."""
-    classes = soup.find_all(class_=class_name)
+    classes = soup.find_all("table", class_="responsive-table fixed-layout")
 
     return classes
 
 resp = get_resp(URL, headers)
 soup = get_soup(resp)
-classes = get_classes(soup, "responsive-table fixed-layout")
 
+# Name: "product-main-info-webtext1"
+name = soup.find(class_="product-main-info-webtext1")
+print(name.find("span").text)
+
+# Description: "product-main-info-webtext2"
+description = soup.find(class_="product-main-info-webtext2")
+print(description.find("span").text)
+
+# Producer name: "product-main-info-manufacturerName"
+prod_name = soup.find(class_="product-main-info-manufacturerName")
+print(prod_name.find("a").text.strip())
+
+# Category
+    # Main
+    # Type
+    # Product
+
+
+
+
+
+# Price: "product-price" priceNowRaw
+# Imgs: ""
+# Info: ""
+# Specs: ""
+# Inventory
+    # SKU: ""
+    # Quantity: ""
+
+
+
+
+
+
+
+# Get specs
 l = []
 
-for i in classes:
-    for j in i:
-        l.append(j.text)
+tables = soup.find_all("table")
 
-print(l)
+for table in tables:
+    d = {}
+    d["caption"] = table.caption.text.lower()
+    for row in table.tbody.find_all('tr'):    
+        d[row.th.text.lower()] = row.td.text.lower()
+    
+    l.append(d)
+
+# print(l)
+# End specs
+
+def get_name():
+    pass
+
+def get_description():
+    pass
+
+def get_producer_name():
+    pass
+
+def get_category():
+    pass
+
+def get_price():
+    pass
+
+def get_imgs():
+    pass
+
+def get_info():
+    pass
+
+def get_specs():
+    pass
+
+def get_inventory():
+    pass
+

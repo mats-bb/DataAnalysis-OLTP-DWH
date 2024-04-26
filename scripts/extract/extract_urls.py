@@ -18,7 +18,6 @@ from bs4 import BeautifulSoup as bs
 import json
 
 BASE_URL = rf"https://www.komplett.no/category/10412/datautstyr/pc-komponenter/skjermkort?nlevel=10000%C2%A728003%C2%A710412&hits=288"
-# BASE_URL = "https://www.komplett.no/product/1249267/datautstyr/pc-komponenter/skjermkort/asus-proart-geforce-rtx-4060-ti-oc"
 
 RAW_DIR = rf"data\raw"
 
