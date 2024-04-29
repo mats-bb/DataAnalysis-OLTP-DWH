@@ -73,37 +73,37 @@ create table product (
 	id serial primary key,
 	product_name varchar(75) unique not null,
 	description text not null,
-	product_cat_id int references product_category (id),
-	producer_id int references producer (id)
+	product_cat_id int not null references product_category (id),
+	producer_id int not null references producer (id)
 	);
 
 drop table if exists product_discount;
 create table product_discount (
 	id serial primary key,
-	product_id int references product (id),
-	discount_id int references discount (id)
+	product_id int not null references product (id),
+	discount_id int not null references discount (id)
 	);
 
 drop table if exists price_history;
 create table price_history (
 	id serial primary key,
 	price decimal(6, 2) not null,
-	effective_date date not null,
-	product_id int references product (id)
+	effective_date date default current_date not null,
+	product_id int not null references product (id)
 	);
 
 drop table if exists product_image;
 create table product_image (
 	id serial primary key,
 	img_path text unique not null,
-	product_id int references product (id)
+	product_id int not null not null references product (id)
 	);
 
 drop table if exists product_info;
 create table product_info (
 	id serial primary key,
 	info_body jsonb not null,
-	product_id int not null references product (id)
+	product_id int not null not null references product (id)
 	);
 
 drop table if exists product_specs;
@@ -117,9 +117,10 @@ drop table if exists product_inventory;
 create table product_inventory (
 	id serial primary key,
 	SKU varchar(50) unique not null,
+	MPN varchar(50) unique not null,
 	quantity int default 0,
 	created_date date not null,
-	product_id int references product (id)
+	product_id int not null references product (id)
 	);
 
 -- ORDERS
@@ -146,8 +147,8 @@ create table orders (
 	last_update date default null,
 	pickup_msg text default null,
 	delivery_note text not null,
-	delivery_option_id int references delivery_option (id),
-	customer_id int references customer (id)
+	delivery_option_id int not null references delivery_option (id),
+	customer_id int not null references customer (id)
 	);
 
 drop table if exists orders_payment;
@@ -156,21 +157,21 @@ create table orders_payment (
 	total_amount decimal(6, 2) not null,
 	payment_date date not null,
 	status varchar(20) default null,
-	orders_id int references orders (id),
-	payment_provider_id int references payment_provider (id)
+	orders_id int not null references orders (id),
+	payment_provider_id int not null references payment_provider (id)
 	);
 
 drop table if exists orders_product;
 create table orders_product (
 	id serial primary key,
 	quantity int not null,
-	orders_id int references orders (id),
-	product_id int references product (id)
+	orders_id int not null references orders (id),
+	product_id int not null references product (id)
 	);
 
 -- CUSTOMER
 
-drop table if exists customer;
+drop table if exists customer cascade;
 create table customer (
 	id serial primary key,
 	first_name varchar(20) not null,
@@ -218,7 +219,7 @@ create table card_info (
 	cardholder_last_name varchar(20) not null,
 	expiration_date date not null,
 	cvv int not null,
-	customer_id int references customer (id)
+	customer_id int not null references customer (id)
 	);
 
 -- CART
