@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as bs
 import json
 import pandas as pd
 
-URL = "https://www.komplett.no/product/1249267/datautstyr/pc-komponenter/skjermkort/asus-proart-geforce-rtx-4060-ti-oc"
+URL = "https://www.komplett.no/product/1303149/datautstyr/pc-komponenter/skjermkort/asus-dual-geforce-rtx-4070-super-oc-hvit"
 
 RAW_DIR = rf"data\raw"
 
@@ -27,11 +27,11 @@ def save_to_json(dir_, filename, data):
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 
-def get_classes(soup, class_name):
-    """Returns a list of classes from soup object."""
-    classes = soup.find_all("table", class_="responsive-table fixed-layout")
+def load_from_json(dir_, filename):
+    """Load json file from directory."""
+    with open(fr'{dir_}/{filename}.json', 'r', encoding='utf-8') as f:
+        return json.load(f)
 
-    return classes
 
 def get_basic_data(soup):
     """Return basic product json."""
@@ -51,7 +51,10 @@ def clean_basic_data(basic_product_data):
             clean_product_data[key] = val
 
     clean_product_data["producer"] = basic_product_data["brand"]["name"]
-    clean_product_data["price"] = basic_product_data["offers"]["price"]
+    try:
+        clean_product_data["price"] = basic_product_data["offers"]["price"]
+    except KeyError:
+        clean_product_data["price"] = 0
 
     return clean_product_data
 
@@ -75,11 +78,15 @@ def get_product_spec_sheet(soup):
 
     spec_list = []
 
-    spec_tables = soup.find_all("table")
+    spec_tables = soup.find_all("table", class_="responsive-table fixed-layout")
 
     for table in spec_tables:
         table_dict = {}
-        table_dict["caption"] = table.caption.text.lower()
+
+        try:
+            table_dict["caption"] = table.caption.text.lower()
+        except AttributeError:
+            print(json.loads(soup.find("script", type="application/ld+json").string)["name"])
 
         for row in table.tbody.find_all('tr'):
             table_dict[row.th.text.lower()] = row.td.text.lower()
@@ -100,14 +107,25 @@ def combine_product_data(clean_product_data, soup):
 
     return combined_product_data
 
-def run():
-    resp = get_resp(URL, headers)
-    soup = get_soup(resp)
-    basic_product_data = get_basic_data(soup)
-    clean_product_data = clean_basic_data(basic_product_data)
-    combined_product_data = combine_product_data(clean_product_data, soup)
+def get_all_products(urls):
 
-    save_to_json(RAW_DIR, "combined_product_data", combined_product_data)
+    all_products_info = []
+    
+    for url in urls:
+        resp = get_resp(url, headers)
+        soup = get_soup(resp)
+        basic_product_data = get_basic_data(soup)
+        clean_product_data = clean_basic_data(basic_product_data)
+        combined_product_data = combine_product_data(clean_product_data, soup)
+        all_products_info.append(combined_product_data)
+
+    return all_products_info
+
+def run():
+    urls = load_from_json(RAW_DIR, "urls")
+    all_products_info = get_all_products(urls)
+
+    save_to_json(RAW_DIR, "combined_product_data", all_products_info)
 
 run()
 

@@ -61,7 +61,7 @@ def get_urls(base_url):
         classes = get_classes(soup, "product-link image-container")
 
         for class_ in classes:
-            urls.append(class_['href'])
+            urls.append(f"https://www.komplett.no{class_['href']}")
 
     return urls
 
