@@ -96,14 +96,14 @@ drop table if exists product_image;
 create table product_image (
 	id serial primary key,
 	img_path text unique not null,
-	product_id int not null not null references product (id)
+	product_id int not NULL references product (id)
 	);
 
 drop table if exists product_info;
 create table product_info (
 	id serial primary key,
 	info_body jsonb not null,
-	product_id int not null not null references product (id)
+	product_id int not null references product (id)
 	);
 
 drop table if exists product_specs;
@@ -119,7 +119,7 @@ create table product_inventory (
 	SKU varchar(50) unique not null,
 	MPN varchar(50) unique not null,
 	quantity int default 0,
-	created_date date not null,
+	created_date date DEFAULT current_date not null,
 	product_id int not null references product (id)
 	);
 
