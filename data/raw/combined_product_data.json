@@ -7,9 +7,9 @@
         "producer": "MSI",
         "price": "25865.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -27,9 +27,9 @@
         "producer": "MSI",
         "price": "14990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -106,9 +106,9 @@
         "producer": "ASUS",
         "price": "1190.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -174,9 +174,9 @@
         "producer": "ASUS",
         "price": "26990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -245,9 +245,9 @@
         "producer": "ASUS",
         "price": "4690.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -317,9 +317,9 @@
         "producer": "ASUS",
         "price": "8990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -390,9 +390,9 @@
         "producer": "MSI",
         "price": "9934.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -471,9 +471,9 @@
         "producer": "ASUS",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -541,9 +541,9 @@
         "producer": "ASUS",
         "price": "11990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -616,9 +616,9 @@
         "producer": "ASUS",
         "price": "12190.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -691,9 +691,9 @@
         "producer": "ZOTAC",
         "price": "12999.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -774,9 +774,9 @@
         "producer": "SAPPHIRE",
         "price": "3199.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -848,9 +848,9 @@
         "producer": "MSI",
         "price": "15310.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -929,9 +929,9 @@
         "producer": "ASUS",
         "price": "5959.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1000,9 +1000,9 @@
         "producer": "ASUS",
         "price": "6499.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1075,9 +1075,9 @@
         "producer": "MSI",
         "price": "3790.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1152,9 +1152,9 @@
         "producer": "ASUS",
         "price": "3799.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1221,9 +1221,9 @@
         "producer": "XFX",
         "price": "7790.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1301,9 +1301,9 @@
         "producer": "ASUS",
         "price": "11990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1372,9 +1372,9 @@
         "producer": "MSI",
         "price": "5690.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1451,9 +1451,9 @@
         "producer": "MSI",
         "price": "6990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1530,9 +1530,9 @@
         "producer": "ASUS",
         "price": "8469.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1601,9 +1601,9 @@
         "producer": "MSI",
         "price": "5799.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1680,9 +1680,9 @@
         "producer": "MSI",
         "price": "14523.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1760,9 +1760,9 @@
         "producer": "XFX",
         "price": "7590.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1841,9 +1841,9 @@
         "producer": "GAINWARD",
         "price": "4290.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1861,9 +1861,9 @@
         "producer": "MSI",
         "price": "18450.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -1939,9 +1939,9 @@
         "producer": "XFX",
         "price": "10990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2016,9 +2016,9 @@
         "producer": "XFX",
         "price": "4190.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2096,9 +2096,9 @@
         "producer": "ASUS",
         "price": "7698.75",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2167,9 +2167,9 @@
         "producer": "ASUS",
         "price": "6998.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2239,9 +2239,9 @@
         "producer": "MSI",
         "price": "26954.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2317,9 +2317,9 @@
         "producer": "ASUS",
         "price": "8763.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2388,9 +2388,9 @@
         "producer": "ASUS",
         "price": "26939.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2455,9 +2455,9 @@
         "producer": "ASUS",
         "price": "1149.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2520,9 +2520,9 @@
         "producer": "ASUS",
         "price": "12290.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2589,11 +2589,11 @@
         "sku": "1186966",
         "mpn": "90YV0GB2-M0NA10",
         "producer": "ASUS",
-        "price": "3848.00",
+        "price": "3847.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2661,9 +2661,9 @@
         "producer": "XFX",
         "price": "13853.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2739,9 +2739,9 @@
         "producer": "MSI",
         "price": "4290.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2814,9 +2814,9 @@
         "producer": "ASUS",
         "price": "26490.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2882,9 +2882,9 @@
         "producer": "GAINWARD",
         "price": "22490.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -2906,10 +2906,10 @@
                 "v-synkhastighet ved maks. oppløs. (eksternt)": "60 hz",
                 "antall cuda-kjerner": "16384",
                 "hdcp-kompatibel": "ja",
-                "støttede api": "opengl 4.6, directx 12 ultimate, vulkan 1.3",
-                "støttet videosignal": "displayport, hdmi",
-                "utgangsporter (kompakt liste)": "hdmi, 3 x displayport",
-                "videoadapterfunksjoner": "3.5-slot fan cooler, nvidia ada lovelace gpu-teknologi, vapor chamber cooling technology, nvidia studio, nvidia gpu boost, dual ball bearing fans, metallbakplate, argb sync, nvidia dlss 3, klar for nvidia g-sync, 4. generasjons tensor cores, zero rpm fan, vapor chamber combined heat-pipe design, nvidia broadcast, nvidia rtx experience, extreme cooler, argb lighting, nvidia reflex, silent extreme technology, 3. generasjons ray tracing cores"
+                "støttede api": "directx 12 ultimate, vulkan 1.3, opengl 4.6",
+                "støttet videosignal": "hdmi, displayport",
+                "utgangsporter (kompakt liste)": "3 x displayport, hdmi",
+                "videoadapterfunksjoner": "3.5-slot fan cooler, 3. generasjons ray tracing cores, argb sync, dual ball bearing fans, 4. generasjons tensor cores, zero rpm fan, nvidia studio, klar for nvidia g-sync, metallbakplate, argb lighting, nvidia broadcast, silent extreme technology, vapor chamber cooling technology, nvidia rtx experience, nvidia gpu boost, nvidia dlss 3, extreme cooler, nvidia ada lovelace gpu-teknologi, vapor chamber combined heat-pipe design, nvidia reflex"
             },
             {
                 "caption": "videominne",
@@ -2928,7 +2928,7 @@
                 "caption": "systemkrav",
                 "ekstrakrav": "16-stifs pci express-strømkontakt",
                 "påkrevd strømforsyning": "1000 w",
-                "os påkrevd": "windows 11, linux (64-bits), windows 10 64-bit edition"
+                "os påkrevd": "windows 10 64-bit edition, windows 11, linux (64-bits)"
             },
             {
                 "caption": "diverse",
@@ -2944,7 +2944,7 @@
             },
             {
                 "caption": "grensesnittdetaljer",
-                "grensesnittdetaljer": "hdmi, 3 x displayport (versjon 1.4a)"
+                "grensesnittdetaljer": "3 x displayport (versjon 1.4a), hdmi"
             },
             {
                 "caption": "programvare",
@@ -2960,9 +2960,9 @@
         "producer": "MSI",
         "price": "4299.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3037,9 +3037,9 @@
         "producer": "SAPPHIRE",
         "price": "1999.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3113,9 +3113,9 @@
         "producer": "SAPPHIRE",
         "price": "5890.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3188,9 +3188,9 @@
         "producer": "ASUS",
         "price": "2490.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3257,9 +3257,9 @@
         "producer": "GAINWARD",
         "price": "8170.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3277,9 +3277,9 @@
         "producer": "ASUS",
         "price": "4295.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3347,9 +3347,9 @@
         "producer": "PNY",
         "price": "4990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3421,9 +3421,9 @@
         "producer": "ASUS",
         "price": "790.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3489,9 +3489,9 @@
         "producer": "PNY",
         "price": "9729.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3572,9 +3572,9 @@
         "producer": "ASUS",
         "price": "2589.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3651,9 +3651,9 @@
         "producer": "MSI",
         "price": "6386.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3729,9 +3729,9 @@
         "producer": "ASUS",
         "price": "22990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3799,9 +3799,9 @@
         "producer": "ASUS",
         "price": "5790.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3874,9 +3874,9 @@
         "producer": "PNY",
         "price": "6339.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -3954,9 +3954,9 @@
         "producer": "ZOTAC",
         "price": "4490.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4029,9 +4029,9 @@
         "producer": "PNY",
         "price": "4590.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4115,9 +4115,9 @@
         "producer": "MSI",
         "price": "7532.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4193,9 +4193,9 @@
         "producer": "ASUS",
         "price": "6790.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4268,9 +4268,9 @@
         "producer": "MSI",
         "price": "9599.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4348,9 +4348,9 @@
         "producer": "MSI",
         "price": "3190.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4371,10 +4371,10 @@
                 "antall cuda-kjerner": "2560",
                 "klokkehastighetsøkning": "1807 mhz",
                 "grafikkprosessorfabrikant": "nvidia",
-                "støttet videosignal": "dvi, hdmi, displayport",
-                "utgangsporter (kompakt liste)": "hdmi, displayport, dvi",
+                "støttet videosignal": "hdmi, dvi, displayport",
+                "utgangsporter (kompakt liste)": "displayport, dvi, hdmi",
                 "støttede api": "directx 12 ultimate, opengl 4.6",
-                "videoadapterfunksjoner": "3rd gen tensor cores, klar for nvidia g-sync, custom pcb, msi zero frozr-teknologi, oc scanner, 2nd gen ray tracing cores, nvidia ampere gpu-teknologi, dual fan design"
+                "videoadapterfunksjoner": "nvidia ampere gpu-teknologi, klar for nvidia g-sync, msi zero frozr-teknologi, 3rd gen tensor cores, custom pcb, 2nd gen ray tracing cores, oc scanner, dual fan design"
             },
             {
                 "caption": "videominne",
@@ -4410,11 +4410,11 @@
             },
             {
                 "caption": "grensesnittdetaljer",
-                "grensesnittdetaljer": "displayport, hdmi, dvi-d"
+                "grensesnittdetaljer": "displayport, dvi-d, hdmi"
             },
             {
                 "caption": "programvare",
-                "type": "msi predator, msi center, msi afterburner"
+                "type": "msi afterburner, msi predator, msi center"
             }
         ]
     },
@@ -4426,9 +4426,9 @@
         "producer": "XFX",
         "price": "3495.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4450,8 +4450,8 @@
                 "type": "grafikkort",
                 "utgangsporter (kompakt liste)": "hdmi, 3 x displayport",
                 "støttet videosignal": "hdmi, displayport",
-                "videoadapterfunksjoner": "amd fidelityfx, rdna 2 architecture, amd smart access memory, dolby true hd-støtte, radeon anti-lag, 0db technology, radeon image sharpening, fixed rate link (frl), amd infinity cache, dts-hd master audio-støtte, amd eyefinity technology, amd wattman, dual fan design, amd infinity architecture, freesync technology, frame rate target control(frtc), video streaming inntil 8 k, variable refresh rate (vrr), virtual super resolution (vsr)",
-                "støttede api": "opencl, opengl, directx 12 ultimate"
+                "videoadapterfunksjoner": "amd fidelityfx, radeon image sharpening, rdna 2 architecture, freesync technology, frame rate target control(frtc), dts-hd master audio-støtte, amd infinity cache, amd smart access memory, amd eyefinity technology, dual fan design, 0db technology, video streaming inntil 8 k, radeon anti-lag, variable refresh rate (vrr), virtual super resolution (vsr), amd wattman, dolby true hd-støtte, fixed rate link (frl), amd infinity architecture",
+                "støttede api": "opengl, opencl, directx 12 ultimate"
             },
             {
                 "caption": "videominne",
@@ -4469,7 +4469,7 @@
             {
                 "caption": "diverse",
                 "fargekategori": "svart",
-                "tilpassede standarder": "rohs, dsc, displayport 1.4"
+                "tilpassede standarder": "dsc, displayport 1.4, rohs"
             },
             {
                 "caption": "størrelser og vekt",
@@ -4501,9 +4501,9 @@
         "producer": "MSI",
         "price": "6946.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4581,9 +4581,9 @@
         "producer": "ASUS",
         "price": "6990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4653,9 +4653,9 @@
         "producer": "ASUS",
         "price": "4990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4723,9 +4723,9 @@
         "producer": "ASUS",
         "price": "8390.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4794,9 +4794,9 @@
         "producer": "SAPPHIRE",
         "price": "15495.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4868,9 +4868,9 @@
         "producer": "SAPPHIRE",
         "price": "7695.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -4944,9 +4944,9 @@
         "producer": "SAPPHIRE",
         "price": "6673.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5020,9 +5020,9 @@
         "producer": "SAPPHIRE",
         "price": "7295.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5096,9 +5096,9 @@
         "producer": "SAPPHIRE",
         "price": "7199.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5121,8 +5121,8 @@
                 "klokkehastighetsøkning": "2430 mhz",
                 "utgangsporter (kompakt liste)": "2 x hdmi, 2 x displayport",
                 "støttet videosignal": "hdmi, displayport",
-                "støttede api": "vulkan, directx 12 ultimate",
-                "videoadapterfunksjoner": "amd smart technologies, amd fidelityfx super resolution 2 (fsr), microsoft directstorage, 60 amd rdna 3-dataenheter, amd noise suppression, high tg copper pcb, amd infinity cache, sikringsvern, 64 mb-hurtigminne, dual ball bearing fans, ledende polymeraluminium-kondensatorer, sapphire dual-x cooling technology, radeon super resolution (rsr), uefi ready, trixx supported, metallbakplate, trixx boost, amd link, rdna 3 gaming architecture, amd radiance display engine, angular velocity fan blade, dual fan design, 2.5-slot fan cooler, precision fan control, intelligent fan control (ifc), komposittvarmerør, premium digital power design, amd privacy view, freesync technology"
+                "støttede api": "directx 12 ultimate, vulkan",
+                "videoadapterfunksjoner": "2.5-slot fan cooler, sikringsvern, dual ball bearing fans, ledende polymeraluminium-kondensatorer, microsoft directstorage, precision fan control, angular velocity fan blade, amd privacy view, intelligent fan control (ifc), amd fidelityfx super resolution 2 (fsr), trixx boost, amd infinity cache, amd noise suppression, metallbakplate, trixx supported, radeon super resolution (rsr), amd radiance display engine, uefi ready, high tg copper pcb, sapphire dual-x cooling technology, 60 amd rdna 3-dataenheter, amd smart technologies, freesync technology, rdna 3 gaming architecture, premium digital power design, 64 mb-hurtigminne, komposittvarmerør, amd link, dual fan design"
             },
             {
                 "caption": "videominne",
@@ -5144,7 +5144,7 @@
                 "påkrevd strømforsyning": "700 w",
                 "ekstrakrav": "2 x 8 pin pci express-strømkontakt",
                 "min. ram-størrelse": "8 gb",
-                "os påkrevd": "linux, windows 10 (64-bit), windows 11"
+                "os påkrevd": "linux, windows 11, windows 10 (64-bit)"
             },
             {
                 "caption": "diverse",
@@ -5159,7 +5159,7 @@
             },
             {
                 "caption": "grensesnittdetaljer",
-                "grensesnittdetaljer": "2 x displayport, 2 x hdmi"
+                "grensesnittdetaljer": "2 x hdmi, 2 x displayport"
             }
         ]
     },
@@ -5171,9 +5171,9 @@
         "producer": "SAPPHIRE",
         "price": "6990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5247,9 +5247,9 @@
         "producer": "SAPPHIRE",
         "price": "3695.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5322,9 +5322,9 @@
         "producer": "SAPPHIRE",
         "price": "9690.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5397,9 +5397,9 @@
         "producer": "SAPPHIRE",
         "price": "13956.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5473,9 +5473,9 @@
         "producer": "SAPPHIRE",
         "price": "10995.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5547,9 +5547,9 @@
         "producer": "SPARKLE",
         "price": "4694.03",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5566,9 +5566,9 @@
         "producer": "SPARKLE",
         "price": "2090.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5585,9 +5585,9 @@
         "producer": "SPARKLE",
         "price": "1590.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5604,9 +5604,9 @@
         "producer": "SPARKLE",
         "price": "3276.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5623,9 +5623,9 @@
         "producer": "SPARKLE",
         "price": "3123.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5642,9 +5642,9 @@
         "producer": "ASUS",
         "price": "6695.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5714,9 +5714,9 @@
         "producer": "MSI",
         "price": "12926.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5794,9 +5794,9 @@
         "producer": "MSI",
         "price": "9890.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5875,9 +5875,9 @@
         "producer": "ASUS",
         "price": "9299.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -5949,9 +5949,9 @@
         "producer": "MSI",
         "price": "12276.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6028,9 +6028,9 @@
         "producer": "ASUS",
         "price": "11539.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6106,9 +6106,9 @@
         "producer": "MSI",
         "price": "8790.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6185,9 +6185,9 @@
         "producer": "MSI",
         "price": "12579.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6263,9 +6263,9 @@
         "producer": "ASUS",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6333,9 +6333,9 @@
         "producer": "ASUS",
         "price": "5190.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6409,9 +6409,9 @@
         "producer": "ASUS",
         "price": "4690.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6485,9 +6485,9 @@
         "producer": "GAINWARD",
         "price": "8899.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6505,9 +6505,9 @@
         "producer": "GAINWARD",
         "price": "15857.95",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6525,9 +6525,9 @@
         "producer": "GAINWARD",
         "price": "8583.86",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6545,9 +6545,9 @@
         "producer": "PNY",
         "price": "8418.24",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6571,8 +6571,8 @@
                 "antall cuda-kjerner": "7168",
                 "grafikkprosessor": "nvidia geforce rtx 4070 super",
                 "utgangsporter (kompakt liste)": "3 x displayport, hdmi",
-                "videoadapterfunksjoner": "4. generasjons tensor cores, hdr ready, 3. generasjons ray tracing cores, dual fan design, nvidia gpu boost, nvidia ada lovelace gpu-teknologi, dual slot fan cooler, nvidia dlss 3, variable refresh rate (vrr), nvidia broadcast",
-                "støttede api": "opengl 4.6, vulkan 1.3, directx 12 ultimate",
+                "videoadapterfunksjoner": "nvidia ada lovelace gpu-teknologi, nvidia gpu boost, 3. generasjons ray tracing cores, hdr ready, variable refresh rate (vrr), nvidia dlss 3, dual slot fan cooler, dual fan design, nvidia broadcast, 4. generasjons tensor cores",
+                "støttede api": "directx 12 ultimate, vulkan 1.3, opengl 4.6",
                 "støttet videosignal": "displayport, hdmi"
             },
             {
@@ -6591,7 +6591,7 @@
                 "caption": "systemkrav",
                 "ekstrakrav": "16-stifs pci express-strømkontakt",
                 "påkrevd strømforsyning": "650 w",
-                "os påkrevd": "linux (64-bits), windows 10 (64-bit), microsoft windows 11"
+                "os påkrevd": "microsoft windows 11, windows 10 (64-bit), linux (64-bits)"
             },
             {
                 "caption": "diverse",
@@ -6612,20 +6612,16 @@
                 "fraktbredde": "9 cm"
             },
             {
-                "caption": "service og støtte",
-                "type": "3 års garanti"
-            },
-            {
                 "caption": "service- og støttedetaljer",
                 "service og støtte": "begrenset garanti - 3 år"
             },
             {
                 "caption": "grensesnittdetaljer",
-                "grensesnittdetaljer": "hdmi, 3 x displayport"
+                "grensesnittdetaljer": "3 x displayport, hdmi"
             },
             {
                 "caption": "programvare",
-                "type": "nvidia geforce experience, nvidia studio-drivere"
+                "type": "nvidia studio-drivere, nvidia geforce experience"
             }
         ]
     },
@@ -6637,9 +6633,9 @@
         "producer": "PNY",
         "price": "8999.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6661,10 +6657,10 @@
                 "klokkehastighet": "1980 mhz",
                 "type": "grafikkort",
                 "hdcp-kompatibel": "ja",
-                "videoadapterfunksjoner": "nvidia ada lovelace gpu-teknologi, epic-x rgb, dual slot fan cooler, nvidia dlss 3, triple fan design, nvidia broadcast, 4. generasjons tensor cores, 3. generasjons ray tracing cores, klar for nvidia g-sync, nvidia reflex, nvidia gpu boost, nvidia studio",
-                "støttede api": "vulkan, directx 12 ultimate, opengl 4.6",
+                "videoadapterfunksjoner": "3. generasjons ray tracing cores, nvidia dlss 3, nvidia gpu boost, klar for nvidia g-sync, nvidia broadcast, triple fan design, nvidia ada lovelace gpu-teknologi, 4. generasjons tensor cores, epic-x rgb, nvidia studio, nvidia reflex, dual slot fan cooler",
+                "støttede api": "vulkan, opengl 4.6, directx 12 ultimate",
                 "støttet videosignal": "displayport, hdmi",
-                "utgangsporter (kompakt liste)": "3 x displayport, hdmi"
+                "utgangsporter (kompakt liste)": "hdmi, 3 x displayport"
             },
             {
                 "caption": "videominne",
@@ -6681,24 +6677,20 @@
             {
                 "caption": "systemkrav",
                 "påkrevd strømforsyning": "650 w",
-                "ekstrakrav": "16-stifs pci express-strømkontakt, 2 x 8 pin pci express-strømkontakt",
-                "os påkrevd": "windows 10, linux (64-bits), windows 11"
+                "ekstrakrav": "2 x 8 pin pci express-strømkontakt, 16-stifs pci express-strømkontakt",
+                "os påkrevd": "windows 11, linux (64-bits), windows 10"
             },
             {
                 "caption": "diverse",
                 "fargekategori": "svart",
                 "inkludert tilbehør til videoadapter": "16-stifts til 2x 8-stifts kabeladapter",
-                "tilpassede standarder": "displayport 1.4, hdcp 2.3"
+                "tilpassede standarder": "hdcp 2.3, displayport 1.4"
             },
             {
                 "caption": "størrelser og vekt",
                 "bredde": "4 cm",
                 "dybde": "30.51 cm",
                 "høyde": "11.94 cm"
-            },
-            {
-                "caption": "service og støtte",
-                "type": "3 års garanti"
             },
             {
                 "caption": "service- og støttedetaljer",
@@ -6710,7 +6702,7 @@
             },
             {
                 "caption": "programvare",
-                "type": "velocity x, geforce game ready drivers, nvidia studio-drivere"
+                "type": "nvidia studio-drivere, velocity x, geforce game ready drivers"
             }
         ]
     },
@@ -6722,9 +6714,9 @@
         "producer": "PNY",
         "price": "12054.01",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6746,9 +6738,9 @@
                 "vr-klar": "ja",
                 "type": "grafikkort",
                 "hdcp-kompatibel": "ja",
-                "videoadapterfunksjoner": "nvidia studio, nvidia ada lovelace gpu-teknologi, 4. generasjons tensor cores, nvidia gpu boost, klar for nvidia g-sync, nvidia dlss 3, 3. generasjons ray tracing cores, nvidia broadcast, epic-x rgb",
+                "videoadapterfunksjoner": "nvidia ada lovelace gpu-teknologi, klar for nvidia g-sync, nvidia gpu boost, 4. generasjons tensor cores, epic-x rgb, nvidia studio, nvidia broadcast, 3. generasjons ray tracing cores, nvidia dlss 3",
                 "støttede api": "directx 12 ultimate, vulkan 1.3, opengl 4.6",
-                "utgangsporter (kompakt liste)": "3 x displayport, hdmi",
+                "utgangsporter (kompakt liste)": "hdmi, 3 x displayport",
                 "støttet videosignal": "hdmi, displayport"
             },
             {
@@ -6767,7 +6759,7 @@
                 "caption": "systemkrav",
                 "påkrevd strømforsyning": "700 w",
                 "ekstrakrav": "2 x 8-stifts pci express-strømkontakt / 16-stifts pci express-strømkontakt",
-                "os påkrevd": "windows 10 / 11 eller nyere, linux (64-bits)"
+                "os påkrevd": "linux (64-bits), windows 10 / 11 eller nyere"
             },
             {
                 "caption": "diverse",
@@ -6788,16 +6780,12 @@
                 "frakthøyde": "19.9 cm"
             },
             {
-                "caption": "service og støtte",
-                "type": "3 års garanti"
-            },
-            {
                 "caption": "service- og støttedetaljer",
                 "service og støtte": "begrenset garanti - 3 år"
             },
             {
                 "caption": "grensesnittdetaljer",
-                "grensesnittdetaljer": "3 x displayport (versjon 1.4a), hdmi"
+                "grensesnittdetaljer": "hdmi, 3 x displayport (versjon 1.4a)"
             },
             {
                 "caption": "programvare",
@@ -6813,9 +6801,9 @@
         "producer": "PNY",
         "price": "14744.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6900,9 +6888,9 @@
         "producer": "PNY",
         "price": "13749.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -6923,10 +6911,10 @@
                 "grensesnittype": "pci express 4.0 x16",
                 "klokkehastighetsøkning": "2595 mhz",
                 "maks ekstern oppløsning": "7680 x 4320",
-                "utgangsporter (kompakt liste)": "hdmi, 3 x displayport",
+                "utgangsporter (kompakt liste)": "3 x displayport, hdmi",
                 "støttede api": "opengl 4.6, directx 12 ultimate, vulkan 1.3",
                 "støttet videosignal": "hdmi, displayport",
-                "videoadapterfunksjoner": "nvidia studio, 3. generasjons ray tracing cores, 4. generasjons tensor cores, nvidia dlss 3, 3-spors viftekjøler, triple fan design, nvidia ada lovelace gpu-teknologi"
+                "videoadapterfunksjoner": "nvidia dlss 3, triple fan design, 3-spors viftekjøler, nvidia ada lovelace gpu-teknologi, 3. generasjons ray tracing cores, nvidia studio, 4. generasjons tensor cores"
             },
             {
                 "caption": "videominne",
@@ -6964,16 +6952,12 @@
                 "fraktbredde": "10.3 cm"
             },
             {
-                "caption": "service og støtte",
-                "type": "3 års garanti"
-            },
-            {
                 "caption": "service- og støttedetaljer",
                 "service og støtte": "begrenset garanti - 3 år"
             },
             {
                 "caption": "grensesnittdetaljer",
-                "grensesnittdetaljer": "hdmi, 3 x displayport (versjon 1.4a)"
+                "grensesnittdetaljer": "3 x displayport (versjon 1.4a), hdmi"
             }
         ]
     },
@@ -6985,9 +6969,9 @@
         "producer": "PNY",
         "price": "11283.15",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7011,9 +6995,9 @@
                 "klokkehastighet": "2340 mhz",
                 "v-synkhastighet ved maks. oppløs. (eksternt)": "60 hz",
                 "utgangsporter (kompakt liste)": "hdmi, 3 x displayport",
-                "videoadapterfunksjoner": "nvidia ada lovelace gpu-teknologi, nvidia broadcast, nvidia dlss 3, triple fan design, 3. generasjons ray tracing cores, variable refresh rate (vrr), 4. generasjons tensor cores, hdr ready, 3-spors viftekjøler, nvidia gpu boost",
-                "støttede api": "directx 12 ultimate, vulkan 1.3, opengl 4.6",
-                "støttet videosignal": "hdmi, displayport"
+                "videoadapterfunksjoner": "nvidia broadcast, triple fan design, hdr ready, variable refresh rate (vrr), 3-spors viftekjøler, 3. generasjons ray tracing cores, nvidia dlss 3, nvidia ada lovelace gpu-teknologi, nvidia gpu boost, 4. generasjons tensor cores",
+                "støttede api": "vulkan 1.3, opengl 4.6, directx 12 ultimate",
+                "støttet videosignal": "displayport, hdmi"
             },
             {
                 "caption": "videominne",
@@ -7031,12 +7015,12 @@
                 "caption": "systemkrav",
                 "ekstrakrav": "16-stifs pci express-strømkontakt",
                 "påkrevd strømforsyning": "700 w",
-                "os påkrevd": "microsoft windows 11, linux (64-bits), windows 10 (64-bit)"
+                "os påkrevd": "windows 10 (64-bit), linux (64-bits), microsoft windows 11"
             },
             {
                 "caption": "diverse",
                 "fargekategori": "svart",
-                "inkludert tilbehør til videoadapter": "støttebøyle for grafikkort, 16-stifts til 2x 8-stifts kabeladapter",
+                "inkludert tilbehør til videoadapter": "16-stifts til 2x 8-stifts kabeladapter, støttebøyle for grafikkort",
                 "tilpassede standarder": "hdcp 2.3, displayport 1.4"
             },
             {
@@ -7052,20 +7036,16 @@
                 "frakthøyde": "19 cm"
             },
             {
-                "caption": "service og støtte",
-                "type": "3 års garanti"
-            },
-            {
                 "caption": "service- og støttedetaljer",
                 "service og støtte": "begrenset garanti - 3 år"
             },
             {
                 "caption": "grensesnittdetaljer",
-                "grensesnittdetaljer": "hdmi, 3 x displayport"
+                "grensesnittdetaljer": "3 x displayport, hdmi"
             },
             {
                 "caption": "programvare",
-                "type": "nvidia geforce experience, nvidia studio-drivere"
+                "type": "nvidia studio-drivere, nvidia geforce experience"
             }
         ]
     },
@@ -7077,9 +7057,9 @@
         "producer": "ZOTAC",
         "price": "10999.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7160,9 +7140,9 @@
         "producer": "ZOTAC",
         "price": "11190.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7242,9 +7222,9 @@
         "producer": "ZOTAC",
         "price": "13790.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7329,9 +7309,9 @@
         "producer": "ZOTAC",
         "price": "9649.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7410,9 +7390,9 @@
         "producer": "ZOTAC",
         "price": "10399.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7493,9 +7473,9 @@
         "producer": "ASUS",
         "price": "9999.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7565,9 +7545,9 @@
         "producer": "ASUS",
         "price": "8899.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7637,9 +7617,9 @@
         "producer": "ASUS",
         "price": "8490.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7708,9 +7688,9 @@
         "producer": "MSI",
         "price": "16890.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7731,10 +7711,10 @@
                 "maks ekstern oppløsning": "7680 x 4320",
                 "hdcp-kompatibel": "ja",
                 "klokkehastighetsøkning": "2610 mhz",
-                "støttede api": "directx 12 ultimate, opengl 4.6",
+                "støttede api": "opengl 4.6, directx 12 ultimate",
                 "utgangsporter (kompakt liste)": "3 x displayport, hdmi",
-                "støttet videosignal": "hdmi, displayport",
-                "videoadapterfunksjoner": "v-formet finnedesign, metal mesh cover, 4. generasjons tensor cores, nvidia broadcast, vapor chamber cooling technology, nvidia rtx video super resolution, custom pcb, core pipe, push pull airflow, optical flow accelerator, nvidia reflex, dual fan design, klar for nvidia g-sync, nvidia studio, die casted aluminum alloy frame, 3. generasjons ray tracing cores, drmos, msi flow frozr thermal design, nvidia ada lovelace gpu-teknologi, nvidia dlss 3, ramme i aluminiumslegering"
+                "støttet videosignal": "displayport, hdmi",
+                "videoadapterfunksjoner": "3. generasjons ray tracing cores, nvidia reflex, vapor chamber cooling technology, nvidia ada lovelace gpu-teknologi, nvidia studio, core pipe, custom pcb, skyv-trekk-luftflyt, nvidia dlss 3, klar for nvidia g-sync, metallnettingsdeksel, v-formet finnedesign, 4. generasjons tensor cores, ramme av støpt aluminiumslegering, optical flow accelerator, ramme i aluminiumslegering, drmos, nvidia broadcast, dual fan design, nvidia rtx video super resolution, msi flow frozr termisk design"
             },
             {
                 "caption": "videominne",
@@ -7756,7 +7736,7 @@
                 "caption": "diverse",
                 "tilpassede standarder": "displayport 1.4a",
                 "fargekategori": "grå",
-                "inkludert tilbehør til videoadapter": "grafikkortholder, 16-stifts til 3x 8-stifts kabeladapter"
+                "inkludert tilbehør til videoadapter": "16-stifts til 3x 8-stifts kabeladapter, grafikkortholder"
             },
             {
                 "caption": "størrelser og vekt",
@@ -7770,10 +7750,6 @@
                 "fraktvekt": "2.906 kg"
             },
             {
-                "caption": "service og støtte",
-                "type": "3 års garanti"
-            },
-            {
                 "caption": "service- og støttedetaljer",
                 "service og støtte": "begrenset garanti - 3 år"
             },
@@ -7783,7 +7759,7 @@
             },
             {
                 "caption": "programvare",
-                "type": "msi center, nvidia studio-drivere, geforce game ready drivers, msi afterburner"
+                "type": "msi afterburner, geforce game ready drivers, nvidia studio-drivere, msi center"
             }
         ]
     },
@@ -7795,9 +7771,9 @@
         "producer": "MSI",
         "price": "9495.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7819,9 +7795,9 @@
                 "grensesnittype": "pci express 4.0",
                 "grafikkprosessor": "nvidia geforce rtx 4070",
                 "utgangsporter (kompakt liste)": "hdmi, 3 x displayport",
-                "støttede api": "directx 12 ultimate, opengl 4.6",
+                "støttede api": "opengl 4.6, directx 12 ultimate",
                 "støttet videosignal": "hdmi, displayport",
-                "videoadapterfunksjoner": "torx 5.0 fans, trifrozr 3 thermal design, nvidia studio, 3. generasjons ray tracing cores, nvidia broadcast, nvidia dlss 3, airflow control-teknologi, metallbakplate, core pipe, msi zero frozr-teknologi, nvidia ada lovelace gpu-teknologi, nvidia reflex, nikkelbelagt kobberbunn"
+                "videoadapterfunksjoner": "3. generasjons ray tracing cores, msi zero frozr-teknologi, core pipe, airflow control-teknologi, nikkelbelagt kobberbunn, nvidia reflex, trifrozr 3 thermal design, nvidia broadcast, nvidia studio, nvidia dlss 3, nvidia ada lovelace gpu-teknologi, metallbakplate, torx 5.0 fans"
             },
             {
                 "caption": "videominne",
@@ -7856,7 +7832,7 @@
             },
             {
                 "caption": "programvare",
-                "type": "msi afterburner, msi center"
+                "type": "msi center, msi afterburner"
             },
             {
                 "caption": "diverse",
@@ -7872,9 +7848,9 @@
         "producer": "ASUS",
         "price": "8495.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -7943,9 +7919,9 @@
         "producer": "ZOTAC",
         "price": "14499.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8026,9 +8002,9 @@
         "producer": "MSI",
         "price": "13499.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8105,9 +8081,9 @@
         "producer": "MATROX",
         "price": "7319.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8172,9 +8148,9 @@
         "producer": "PNY",
         "price": "60143.44",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8254,9 +8230,9 @@
         "producer": "GAINWARD",
         "price": "11888.08",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8274,9 +8250,9 @@
         "producer": "GAINWARD",
         "price": "12727.38",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8294,9 +8270,9 @@
         "producer": "GAINWARD",
         "price": "12040.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8314,9 +8290,9 @@
         "producer": "MSI",
         "price": "6999.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8389,9 +8365,9 @@
         "producer": "ASUS",
         "price": "26995.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8457,9 +8433,9 @@
         "producer": "ASUS",
         "price": "9399.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8527,9 +8503,9 @@
         "producer": "PNY",
         "price": "7979.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8546,9 +8522,9 @@
         "producer": "XFX",
         "price": "10597.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8624,9 +8600,9 @@
         "producer": "XFX",
         "price": "9368.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8646,10 +8622,10 @@
                 "klokkehastighetsøkning": "2368 mhz",
                 "antall strømningsprosessorer": "5120",
                 "type": "grafikkort",
-                "støttede api": "directx 12 ultimate, opengl 4.5, opencl",
-                "videoadapterfunksjoner": "radeon anti-lag, video streaming inntil 8 k, rdna 2 architecture, amd infinity cache, amd wattman, radeon image sharpening, variable refresh rate (vrr), amd fidelityfx, amd smart access memory, dts-hd master audio-støtte, dual bios, dolby true hd-støtte, dual ball bearing fans, freesync technology, 0db technology, xfx iconic ghost thermal design, amd eyefinity technology, virtual super resolution (vsr), frame rate target control(frtc), amd fidelityfx super resolution (fsr)",
+                "støttede api": "opencl, directx 12 ultimate, opengl 4.5",
+                "videoadapterfunksjoner": "radeon anti-lag, amd infinity cache, frame rate target control(frtc), amd eyefinity technology, video streaming inntil 8 k, dual ball bearing fans, virtual super resolution (vsr), variable refresh rate (vrr), freesync technology, amd smart access memory, 0db technology, amd fidelityfx, xfx iconic ghost thermal design, dual bios, dts-hd master audio-støtte, amd wattman, dolby true hd-støtte, amd fidelityfx super resolution (fsr), rdna 2 architecture, radeon image sharpening",
                 "utgangsporter (kompakt liste)": "hdmi, 3 x displayport",
-                "støttet videosignal": "hdmi, displayport"
+                "støttet videosignal": "displayport, hdmi"
             },
             {
                 "caption": "videominne",
@@ -8662,13 +8638,13 @@
                 "caption": "systemkrav",
                 "påkrevd strømforsyning": "850 w",
                 "ekstrakrav": "2 x 8 pin pci express-strømkontakt",
-                "os påkrevd": "windows 11, windows 10"
+                "os påkrevd": "windows 10, windows 11"
             },
             {
                 "caption": "diverse",
                 "farge": "svart",
-                "fargekategori": "svart, sølv",
-                "tilpassede standarder": "rohs, displayport 1.4, dsc"
+                "fargekategori": "sølv, svart",
+                "tilpassede standarder": "dsc, displayport 1.4, rohs"
             },
             {
                 "caption": "størrelser og vekt",
@@ -8689,7 +8665,7 @@
             },
             {
                 "caption": "grensesnittdetaljer",
-                "grensesnittdetaljer": "3 x displayport, hdmi"
+                "grensesnittdetaljer": "hdmi, 3 x displayport"
             },
             {
                 "caption": "programvare",
@@ -8705,9 +8681,9 @@
         "producer": "PALIT",
         "price": "14399.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8783,9 +8759,9 @@
         "producer": "GAINWARD",
         "price": "11499.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8860,9 +8836,9 @@
         "producer": "PNY",
         "price": "1999.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8888,9 +8864,9 @@
         "producer": "MSI",
         "price": "6190.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -8968,9 +8944,9 @@
         "producer": "PALIT",
         "price": "12690.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9047,9 +9023,9 @@
         "producer": "ZOTAC",
         "price": "8645.09",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9129,9 +9105,9 @@
         "producer": "GAINWARD",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9199,9 +9175,9 @@
         "producer": "PALIT",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9268,15 +9244,15 @@
     },
     {
         "name": "ASUS GeForce RTX 3060 TUF GAMING",
-        "description": "Skjermkort, PCI-Express 4.0, 12GB GDDR6, Ampere",
+        "description": "",
         "sku": "1178870",
         "mpn": "TUF-RTX3060-12G-GAMING",
         "producer": "ASUS",
-        "price": 0,
+        "price": "0.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9330,9 +9306,9 @@
         "producer": "MSI",
         "price": "25429.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9408,9 +9384,9 @@
         "producer": "PNY",
         "price": "22739.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9463,9 +9439,9 @@
         "producer": "PNY",
         "price": "52279.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9544,9 +9520,9 @@
         "producer": "PNY",
         "price": "11689.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9592,9 +9568,9 @@
         "producer": "PALIT",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9663,9 +9639,9 @@
         "producer": "PALIT",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9739,9 +9715,9 @@
         "producer": "GAINWARD",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9815,9 +9791,9 @@
         "producer": "XFX",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9890,9 +9866,9 @@
         "producer": "ASUS",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -9959,9 +9935,9 @@
         "producer": "SAPPHIRE",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10021,9 +9997,9 @@
         "producer": "SAPPHIRE",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10087,15 +10063,15 @@
     },
     {
         "name": "ASUS GeForce RTX 3060 ROG Strix",
-        "description": "Skjermkort, PCI-Express 4.0, 12GB GDDR6, Ampere",
+        "description": "",
         "sku": "1178867",
         "mpn": "ROG-STRIX-RTX3060-12G-GAMING",
         "producer": "ASUS",
-        "price": 0,
+        "price": "0.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10160,9 +10136,9 @@
         "producer": "PALIT",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10232,9 +10208,9 @@
         "producer": "PALIT",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10298,15 +10274,15 @@
     },
     {
         "name": "ASUS GeForce RTX 3060 TUF GAMING OC",
-        "description": "Skjermkort, PCI-Express 4.0, 12GB GDDR6, Ampere",
+        "description": "",
         "sku": "1181388",
         "mpn": "TUF-RTX3060-O12G-GAMING",
         "producer": "ASUS",
-        "price": 0,
+        "price": "0.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10369,9 +10345,9 @@
         "producer": "SAPPHIRE",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10441,9 +10417,9 @@
         "producer": "ASUS",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10510,9 +10486,9 @@
         "producer": "ZOTAC",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10594,9 +10570,9 @@
         "producer": "PNY",
         "price": "31224.26",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10672,9 +10648,9 @@
         "producer": "MSI",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10745,15 +10721,15 @@
     },
     {
         "name": "ASUS GeForce RTX 3060 Ti DUAL V2",
-        "description": "Skjermkort, PCI Express 4.0, 8GB GDDR6",
+        "description": "",
         "sku": "1189232",
         "mpn": "DUAL-RTX3060TI-8G-V2",
         "producer": "ASUS",
-        "price": 0,
+        "price": "0.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10821,9 +10797,9 @@
         "producer": "GAINWARD",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10894,9 +10870,9 @@
         "producer": "XFX",
         "price": "7129.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -10970,9 +10946,9 @@
         "producer": "PNY",
         "price": "27139.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11050,9 +11026,9 @@
         "producer": "PALIT",
         "price": "23249.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11125,9 +11101,9 @@
         "producer": "ASUS",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11194,9 +11170,9 @@
         "producer": "GAINWARD",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11217,10 +11193,10 @@
                 "v-synkhastighet ved maks. oppløs. (eksternt)": "60 hz",
                 "grafikkprosessorfabrikant": "nvidia",
                 "grafikkprosessor": "nvidia geforce rtx 4090",
-                "videoadapterfunksjoner": "3. generasjons ray tracing cores, dual ball bearing fans, nvidia studio, nvidia rtx experience, silent extreme technology, extreme cooler, argb sync, argb lighting, zero rpm fan, nvidia ada lovelace gpu-teknologi, vapor chamber combined heat-pipe design, klar for nvidia g-sync, 4. generasjons tensor cores, nvidia gpu boost, nvidia broadcast, vapor chamber cooling technology, nvidia reflex, nvidia dlss 3, metallbakplate, 3.5-slot fan cooler",
-                "støttede api": "directx 12 ultimate, opengl 4.6, vulkan 1.3",
-                "utgangsporter (kompakt liste)": "3 x displayport, hdmi",
-                "støttet videosignal": "hdmi, displayport"
+                "videoadapterfunksjoner": "extreme cooler, 4. generasjons tensor cores, argb sync, klar for nvidia g-sync, metallbakplate, nvidia rtx experience, zero rpm fan, nvidia gpu boost, 3.5-slot fan cooler, argb lighting, nvidia reflex, 3. generasjons ray tracing cores, dual ball bearing fans, nvidia studio, vapor chamber combined heat-pipe design, nvidia broadcast, silent extreme technology, nvidia ada lovelace gpu-teknologi, nvidia dlss 3, vapor chamber cooling technology",
+                "støttede api": "directx 12 ultimate, vulkan 1.3, opengl 4.6",
+                "utgangsporter (kompakt liste)": "hdmi, 3 x displayport",
+                "støttet videosignal": "displayport, hdmi"
             },
             {
                 "caption": "videominne",
@@ -11239,7 +11215,7 @@
                 "caption": "systemkrav",
                 "påkrevd strømforsyning": "1000 w",
                 "ekstrakrav": "16-stifs pci express-strømkontakt",
-                "os påkrevd": "windows 11, windows 10 64-bit edition, linux (64-bits)"
+                "os påkrevd": "windows 10 64-bit edition, linux (64-bits), windows 11"
             },
             {
                 "caption": "diverse",
@@ -11271,9 +11247,9 @@
         "producer": "ZOTAC",
         "price": "5990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11345,9 +11321,9 @@
         "producer": "ZOTAC",
         "price": "5349.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11423,9 +11399,9 @@
         "producer": "ASUS",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11494,9 +11470,9 @@
         "producer": "ASUS",
         "price": 0,
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11565,9 +11541,9 @@
         "producer": "GAINWARD",
         "price": "3999.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11585,9 +11561,9 @@
         "producer": "ASUS",
         "price": "3499.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11658,9 +11634,9 @@
         "producer": "PNY",
         "price": "6285.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11737,9 +11713,9 @@
         "producer": "PNY",
         "price": "7490.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11816,9 +11792,9 @@
         "producer": "ASUS",
         "price": "6790.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11891,9 +11867,9 @@
         "producer": "MSI",
         "price": "4719.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -11971,9 +11947,9 @@
         "producer": "ASUS",
         "price": "31349.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12042,9 +12018,9 @@
         "producer": "GAINWARD",
         "price": "8799.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12116,9 +12092,9 @@
         "producer": "ASUS",
         "price": "6895.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12187,9 +12163,9 @@
         "producer": "ASUS",
         "price": "7995.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12258,9 +12234,9 @@
         "producer": "ASUS",
         "price": "7699.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12329,9 +12305,9 @@
         "producer": "ASUS",
         "price": "7395.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12400,9 +12376,9 @@
         "producer": "GAINWARD",
         "price": "15499.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12420,9 +12396,9 @@
         "producer": "ASUS",
         "price": "5495.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12491,9 +12467,9 @@
         "producer": "ASUS",
         "price": "4395.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12562,9 +12538,9 @@
         "producer": "ASUS",
         "price": "16490.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12582,9 +12558,9 @@
         "producer": "ZOTAC",
         "price": "8399.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12665,9 +12641,9 @@
         "producer": "MATROX",
         "price": "1519.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12741,9 +12717,9 @@
         "producer": "MATROX",
         "price": "3639.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12811,9 +12787,9 @@
         "producer": "MATROX",
         "price": "4229.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12880,9 +12856,9 @@
         "producer": "MATROX",
         "price": "4559.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -12949,9 +12925,9 @@
         "producer": "ASUS",
         "price": "14390.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13028,9 +13004,9 @@
         "producer": "GAINWARD",
         "price": "5690.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13106,9 +13082,9 @@
         "producer": "MSI",
         "price": "8245.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13185,9 +13161,9 @@
         "producer": "ASUS",
         "price": "14990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13256,9 +13232,9 @@
         "producer": "ASUS",
         "price": "2469.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13276,9 +13252,9 @@
         "producer": "ASUS",
         "price": "23419.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13346,9 +13322,9 @@
         "producer": "ASUS",
         "price": "6490.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13417,9 +13393,9 @@
         "producer": "ASUS",
         "price": "13290.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13443,9 +13419,9 @@
                 "maks. antall skjermer som støttes": "4",
                 "grensesnittype": "pci express 4.0",
                 "vr-klar": "ja",
-                "utgangsporter (kompakt liste)": "3 x displayport, 2 x hdmi",
-                "videoadapterfunksjoner": "resizable bar, aura sync, nvidia reflex, nvidia dlss 3, digital strømstyring, asus fanconnect ii, omvendt luftflyt, optical flow accelerator, metallbakplate, nvidia rtx video super resolution, 0db technology, dual bios, auto-extreme-teknologi, 3,15-spors fan cooler, dual ball bearing fans, nvidia ada lovelace gpu-teknologi, ventilert bakplate, eksoskjelett av metall, nvidia broadcast, 4. generasjons tensor cores, klar for nvidia g-sync, monteringsbrakett i rustfritt stål, argb lighting, axial-tech fan design, 3. generasjons ray tracing cores, triple fan design, nvidia studio",
-                "støttet videosignal": "hdmi, displayport"
+                "utgangsporter (kompakt liste)": "2 x hdmi, 3 x displayport",
+                "videoadapterfunksjoner": "nvidia broadcast, optical flow accelerator, nvidia rtx video super resolution, nvidia ada lovelace gpu-teknologi, nvidia dlss 3, nvidia studio, 3,15-spors fan cooler, aura sync, argb lighting, 0db technology, resizable bar, dual ball bearing fans, omvendt luftflyt, 4. generasjons tensor cores, axial-tech fan design, metallbakplate, triple fan design, ventilert bakplate, eksoskjelett av metall, asus fanconnect ii, nvidia reflex, dual bios, 3. generasjons ray tracing cores, digital strømstyring, klar for nvidia g-sync, auto-extreme-teknologi, monteringsbrakett i rustfritt stål",
+                "støttet videosignal": "displayport, hdmi"
             },
             {
                 "caption": "videominne",
@@ -13471,12 +13447,12 @@
             },
             {
                 "caption": "programvare",
-                "type": "asus quantumcloud, nvidia geforce experience, adobe creative cloud (1 måneds-medlemskap), asus gpu tweak iii"
+                "type": "adobe creative cloud (1 måneds-medlemskap), nvidia geforce experience, asus gpu tweak iii, asus quantumcloud"
             },
             {
                 "caption": "diverse",
-                "fargekategori": "svart, rød, blå",
-                "inkludert tilbehør til videoadapter": "takkekort, 16-stifts til 3x 8-stifts kabeladapter, rog-grafikkortholder, samlingskort, støttebøyle for grafikkort, krok-og-sløyfe-festeanordning",
+                "fargekategori": "blå, svart, rød",
+                "inkludert tilbehør til videoadapter": "takkekort, samlingskort, støttebøyle for grafikkort, krok-og-sløyfe-festeanordning, 16-stifts til 3x 8-stifts kabeladapter, rog-grafikkortholder",
                 "tilpassede standarder": "hdcp 2.3, displayport 1.4a"
             }
         ]
@@ -13489,9 +13465,9 @@
         "producer": "GAINWARD",
         "price": "14846.33",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13509,9 +13485,9 @@
         "producer": "PNY",
         "price": "4829.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13594,9 +13570,9 @@
         "producer": "ASUS",
         "price": "10399.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13665,9 +13641,9 @@
         "producer": "MSI",
         "price": "8688.19",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13685,9 +13661,9 @@
         "producer": "ASUS",
         "price": "9777.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13756,9 +13732,9 @@
         "producer": "GAINWARD",
         "price": "3999.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13833,9 +13809,9 @@
         "producer": "PNY",
         "price": "4590.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13924,9 +13900,9 @@
         "producer": "PNY",
         "price": "2299.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -13997,9 +13973,9 @@
         "producer": "GAINWARD",
         "price": "2499.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14075,9 +14051,9 @@
         "producer": "ASUS",
         "price": "3390.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14145,9 +14121,9 @@
         "producer": "ASUS",
         "price": "9399.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14219,9 +14195,9 @@
         "producer": "XFX",
         "price": "3890.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14298,9 +14274,9 @@
         "producer": "ZOTAC",
         "price": "4089.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14372,9 +14348,9 @@
         "producer": "XFX",
         "price": "6311.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14451,11 +14427,11 @@
         "sku": "1301396",
         "mpn": "912-V510-273",
         "producer": "MSI",
-        "price": "24890.00",
+        "price": "24213.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14532,9 +14508,9 @@
         "producer": "ASUS",
         "price": "16290.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14603,9 +14579,9 @@
         "producer": "MSI",
         "price": "12072.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14679,9 +14655,9 @@
         "producer": "ASUS",
         "price": "10290.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14757,9 +14733,9 @@
         "producer": "ASUS",
         "price": "9990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14829,9 +14805,9 @@
         "producer": "ASUS",
         "price": "13390.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14906,9 +14882,9 @@
         "producer": "ASUS",
         "price": "16590.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -14979,9 +14955,9 @@
         "producer": "ASUS",
         "price": "16290.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -15052,9 +15028,9 @@
         "producer": "ZOTAC",
         "price": "8799.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -15133,9 +15109,9 @@
         "producer": "PALIT",
         "price": "11990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -15211,9 +15187,9 @@
         "producer": "PALIT",
         "price": "11990.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
@@ -15289,9 +15265,9 @@
         "producer": "ZOTAC",
         "price": "14190.00",
         "categories": {
-            "main_category": "Datautstyr",
-            "type_category": "PC-komponenter",
-            "product_category": "Skjermkort"
+            "main_category": "datautstyr",
+            "type_category": "pc-komponenter",
+            "product_category": "skjermkort"
         },
         "spec_sheet": [
             {
