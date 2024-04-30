@@ -1,14 +1,18 @@
 import json
 import psycopg2
+import dotenv
+import os
 
+dotenv.load_dotenv()
 
 RAW_DIR = fr"data\raw"
 
 connection_params = {
-    "host": "localhost",
-    "database": "komplett",
-    "user": "postgres",
-    "password": "Morradi123"
+    "host": os.environ["DATABASE_IP"],
+    "database": os.environ["DATABASE_NAME"],
+    "port": os.environ["DATABASE_PORT"],
+    "user": os.environ["DATABASE_USERNAME"],
+    "password": os.environ["DATABASE_PASSWORD"]
 }
 
 def load_from_json(dir_, filename):
