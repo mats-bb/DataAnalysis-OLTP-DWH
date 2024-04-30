@@ -67,16 +67,6 @@ def clean_basic_data(basic_product_data):
 def get_product_categories(url):
     """Return product categories."""
 
-    # category_data = soup.find("script", id="breadcrumbsScript")
-    # category_data_str = category_data.get("data-model")
-    # category_data_dict = json.loads(category_data_str)
-    # category_data_list = category_data_dict["breadCrumb"].split("|")[1:]
-    # category_out_dict = {
-    #     "main_category": category_data_list[0],
-    #     "type_category": category_data_list[1],
-    #     "product_category": category_data_list[2]
-    # }
-
     categories_list = url.split("/")[5:8]
 
     category_out_dict = {
