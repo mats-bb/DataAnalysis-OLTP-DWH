@@ -8,7 +8,7 @@ connection_params = {
     "host": "localhost",
     "database": "komplett",
     "user": "postgres",
-    "password": "*"
+    "password": "Morradi123"
 }
 
 def load_from_json(dir_, filename):

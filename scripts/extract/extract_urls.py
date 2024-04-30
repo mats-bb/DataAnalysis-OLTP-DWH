@@ -9,15 +9,24 @@
 # product-link image-container
 
 
-# Full URL for now. Will figure out how to dynamically get complete URLs
-# https://www.komplett.no/category/10412/datautstyr/pc-komponenter/skjermkort?nlevel=10000%C2%A728003%C2%A710412&hits=288
+# Skjermkort
+# "https://www.komplett.no/category/10412/datautstyr/pc-komponenter/skjermkort?nlevel=10000%C2%A728003%C2%A710412&hits=288"
+
+# Prosessorer
+# "https://www.komplett.no/category/11204/datautstyr/pc-komponenter/prosessorer?nlevel=10000%C2%A728003%C2%A711204&hits=120"
+
+# RAM
+# "https://www.komplett.no/category/11209/datautstyr/pc-komponenter/minnebrikker?nlevel=10000%C2%A728003%C2%A711209&hits=216"
+
+# Hovedkort
+# "https://www.komplett.no/category/10111/datautstyr/pc-komponenter/hovedkort?nlevel=10000%C2%A728003%C2%A710111&hits=144"
 
 
 import requests as req
 from bs4 import BeautifulSoup as bs
 import json
 
-BASE_URL = rf"https://www.komplett.no/category/10412/datautstyr/pc-komponenter/skjermkort?nlevel=10000%C2%A728003%C2%A710412&hits=288"
+BASE_URL = rf"https://www.komplett.no/category/11209/datautstyr/pc-komponenter/minnebrikker?nlevel=10000%C2%A728003%C2%A711209&hits=216"
 
 RAW_DIR = rf"data\raw"
 
