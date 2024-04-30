@@ -87,7 +87,7 @@ create table product_discount (
 drop table if exists price_history;
 create table price_history (
 	id serial primary key,
-	price decimal(6, 2) not null,
+	price decimal(8, 2) not null,
 	effective_date date default current_date not null,
 	product_id int not null references product (id)
 	);
@@ -117,7 +117,7 @@ drop table if exists product_inventory;
 create table product_inventory (
 	id serial primary key,
 	SKU varchar(50) unique not null,
-	MPN varchar(50) unique not null,
+	MPN varchar(50) not null,
 	quantity int default 0,
 	created_date date DEFAULT current_date not null,
 	product_id int not null references product (id)
