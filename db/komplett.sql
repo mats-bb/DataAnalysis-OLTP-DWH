@@ -158,7 +158,7 @@ create table orders_payment (
 	payment_date date not null,
 	status varchar(20) default null,
 	orders_id int not null references orders (id),
-	payment_provider_id int not null references payment_provider (id)
+	card_id INt NOT NULL REFERENCES card_info (id)
 	);
 
 drop table if exists orders_product;
@@ -219,6 +219,7 @@ create table card_info (
 	cardholder_last_name varchar(20) not null,
 	expiration_date date not null,
 	cvv int not null,
+	payment_provider_id int NOT NULL REFERENCES payment_provider (id),
 	customer_id int not null references customer (id)
 	);
 
