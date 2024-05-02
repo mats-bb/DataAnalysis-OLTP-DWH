@@ -1,5 +1,5 @@
 # About
-"Reverse engineering" Komplett.no to get a deeper understanding of datamodeling concepts. See raw .svg file for current ERD progress.
+Using komplett.no as a reference to build an operational database as well as a data warehouse, to get a deeper understanding of datamodeling concepts. See raw .svg file for current ERD progress.
 
 ## Ideas
 - Build OLTP system
