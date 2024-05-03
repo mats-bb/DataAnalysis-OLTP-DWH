@@ -180,8 +180,8 @@ create table customer (
 	email varchar(50) unique not null,
 	password varchar(50) not null,
 	mobile_num varchar(8) unique not null,
-	created_date date not null,
-	last_modified date 
+	created_date date DEFAULT current_date NOT null,
+	last_modified date DEFAULT current_date NOT null 
 	);
 
 drop table if exists state;
@@ -190,13 +190,14 @@ create table state (
 	state_name varchar(40) unique not null
 	);
 
-drop table if exists city;
+drop table if exists city cascade;
 create table city (
 	id serial primary key,
-	city_name varchar(20) unique not null
+	city_name varchar(20) unique not NULL,
+	state_id int NOT NULL REFERENCES state (id)
 	);
 
-drop table if exists address;
+drop table if exists address cascade;
 create table address (
 	id serial primary key,
 	street_address varchar(35) not null,
@@ -214,11 +215,11 @@ create table customer_address (
 drop table if exists card_info;
 create table card_info (
 	id serial primary key,
-	card_number int unique not null,
+	card_number varchar(19) unique not null,
 	cardholder_first_name varchar(20) not null,
 	cardholder_last_name varchar(20) not null,
-	expiration_date date not null,
-	cvv int not null,
+	expiration_date text not null,
+	cvv text not null,
 	payment_provider_id int NOT NULL REFERENCES payment_provider (id),
 	customer_id int not null references customer (id)
 	);
