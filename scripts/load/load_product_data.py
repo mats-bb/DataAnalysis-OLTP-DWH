@@ -21,6 +21,7 @@ def load_from_json(dir_, filename):
     with open(fr'{dir_}/{filename}.json', 'r', encoding='utf-8') as f:
         return json.load(f)
 
+# Remake the stored procedure to handle jsonb input instead of this solution
 def load_data(connection_params):
     """Load data into database."""
 

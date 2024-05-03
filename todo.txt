@@ -1,14 +1,2 @@
-Mission statement
-    - Reverse engineer komplett.no to build a DBMS to fit the needs of the site
-    
-Explore site
-Entity collection
-Create ERD
-Build DBMS
-
-Stretch
-    - Build webscraper to pull actual data from komplett
-    - Populate tables with data
-    - Query data
-
-Build user tables
+Add reusable code to utils
+Refactor product insertion script and stored procedure to handle jsonb input instead of current
