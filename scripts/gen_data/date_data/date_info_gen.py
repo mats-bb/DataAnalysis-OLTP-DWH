@@ -2,15 +2,18 @@ import datetime
 # import calendar
 import holidays
 # import json
-
+import pandas as pd
 
 no_holidays = holidays.country_holidays('NO')
 
-def get_all_dates(year):
-    
-    all_dates_year = [datetime.date(year, 1, 1) + datetime.timedelta(days=i) for i in range(366)]
 
-    return all_dates_year
+def get_dates_in_year(year):
+
+    start_date = pd.Timestamp(year, 1, 1)
+    end_date = pd.Timestamp(year, 12, 31)
+    all_dates = pd.date_range(start=start_date, end=end_date)
+
+    return [date.date() for date in all_dates]
 
 
 def get_last_date_by_month(year):
@@ -45,12 +48,17 @@ def get_day_number_of_year(date):
    
     return int(date.strftime("%j"))
 
+def get_month_number_of_year(date):
+
+    return date.month
 
 def get_week_number_of_year(date):
 
-    iso_year, iso_week, _ = date.isocalendar()
+    _, iso_week, _ = date.isocalendar()
 
     return iso_week
+
+# print(get_week_number_of_year(datetime.date(2024, 12, 29)))
 
 
 def get_day_name(date):
@@ -71,7 +79,7 @@ def get_year(date):
 def generate_date_list(year):
     
     date_rows = []
-    all_dates = get_all_dates(year)
+    all_dates = get_dates_in_year(year)
     
     for date_ in all_dates:
         d = {}
@@ -84,6 +92,8 @@ def generate_date_list(year):
         d["year"] = get_year(date_)
         d["name_of_day"] = get_day_name(date_)
         d["name_of_month"] = get_month_name(date_)
+        d["month_number"] = get_month_number_of_year(date_)
+        d["full_date_description"] = f"{get_month_name(date_)} {get_day_number_of_month(date_)}, {get_year(date_)}"
 
         if date_ in get_last_date_by_month(year):
             d["month_end_flag"] = "Month end"
