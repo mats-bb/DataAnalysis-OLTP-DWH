@@ -1,39 +1,17 @@
 import requests as req
 from bs4 import BeautifulSoup as bs
 import json
+import os
 
-URL = "https://www.komplett.no/product/1303149/datautstyr/pc-komponenter/skjermkort/asus-dual-geforce-rtx-4070-super-oc-hvit"
+os.sys.path.append('scripts')
+from util.utils import get_resp, get_soup, save_to_json, load_from_json
+
 
 RAW_DIR = rf"data\raw"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 }
-
-def get_resp(url, headers):
-    """Get response from url."""
-
-    return req.get(url, headers=headers)
-
-
-def get_soup(resp):
-    """Get soup object from response."""
-
-    return bs(resp.content, "html.parser")
-
-
-def save_to_json(dir_, filename, data):
-    """Save json file to directory."""
-
-    with open(fr'{dir_}/{filename}.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-
-
-def load_from_json(dir_, filename):
-    """Load json file from directory."""
-
-    with open(fr'{dir_}/{filename}.json', 'r', encoding='utf-8') as f:
-        return json.load(f)
 
 
 def get_basic_data(soup):
@@ -63,6 +41,7 @@ def clean_basic_data(basic_product_data):
         clean_product_data["price"] = 0
 
     return clean_product_data
+
 
 def get_product_categories(url):
     """Return product categories."""
@@ -111,6 +90,7 @@ def combine_product_data(clean_product_data, soup, url):
 
     return combined_product_data
 
+
 def get_all_products(urls):
     """Combine all products. Return list of dicts."""
 
@@ -125,6 +105,7 @@ def get_all_products(urls):
         all_products_info.append(combined_product_data)
 
     return all_products_info
+
 
 def run():
     urls = load_from_json(RAW_DIR, "urls")

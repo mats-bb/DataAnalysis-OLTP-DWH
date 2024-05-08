@@ -1,10 +1,14 @@
 import datetime
-# import calendar
 import holidays
-# import json
 import pandas as pd
+import os
 
+os.sys.path.append('scripts')
+from util.utils import save_to_json
+
+year = 2024
 no_holidays = holidays.country_holidays('NO')
+RAW_PATH = r"data\raw"
 
 
 def get_dates_in_year(year):
@@ -113,3 +117,10 @@ def generate_date_list(year):
         date_rows.append(d)
 
     return date_rows
+
+def run(year):
+
+    date_rows = generate_date_list(year)
+    save_to_json(RAW_PATH, "date_data", date_rows)
+
+run(year)

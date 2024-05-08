@@ -1,6 +1,8 @@
-import requests as req
-import json
-from bs4 import BeautifulSoup as bs
+import os
+
+os.sys.path.append('scripts')
+from util.utils import get_resp, save_to_json
+
 
 # Raw dir
 USER_DATA_DIR = fr"data\raw"
@@ -8,17 +10,6 @@ USER_DATA_DIR = fr"data\raw"
 # Random user API url
 url = fr"https://randomuser.me/api/?results=50&inc=name,location,email,login,phone&nat=no&noinfo"
 
-def get_resp(url):
-    """Get response from url."""
-
-    return req.get(url)
-
-
-def save_to_json(dir_, filename, data):
-    """Save json file to directory."""
-
-    with open(fr'{dir_}\{filename}.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
 
 
 def get_user_data(resp):

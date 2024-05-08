@@ -22,9 +22,10 @@
 # "https://www.komplett.no/category/10111/datautstyr/pc-komponenter/hovedkort?nlevel=10000%C2%A728003%C2%A710111&hits=144"
 
 
-import requests as req
-from bs4 import BeautifulSoup as bs
-import json
+import os
+
+os.sys.path.append('scripts')
+from util.utils import get_resp, get_soup, save_to_json
 
 BASE_URL = rf"https://www.komplett.no/category/11209/datautstyr/pc-komponenter/minnebrikker?nlevel=10000%C2%A728003%C2%A711209&hits=216"
 
@@ -33,22 +34,6 @@ RAW_DIR = rf"data\raw"
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 }
-
-
-def get_resp(url, headers):
-    """Get response from url."""
-    return req.get(url, headers=headers)
-
-
-def get_soup(resp):
-    """Get soup object from response."""
-    return bs(resp.content, "html.parser")
-
-
-def save_to_json(dir_, filename, data):
-    """Save json file to directory."""
-    with open(fr'{dir_}/{filename}.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
 
 
 def get_classes(soup, class_name):
