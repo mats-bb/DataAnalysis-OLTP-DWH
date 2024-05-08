@@ -62,7 +62,19 @@ def get_week_number_of_year(date):
 
     return iso_week
 
-# print(get_week_number_of_year(datetime.date(2024, 12, 29)))
+
+def get_quarter_of_year(date):
+
+    month_to_quarter = {
+        1: 1, 2: 1, 3: 1,
+        4: 2, 5: 2, 6: 2,
+        7: 3, 8: 3, 9: 3,
+        10: 4, 11: 4, 12: 4
+    }
+
+    month = date.month
+    
+    return month_to_quarter[month]
 
 
 def get_day_name(date):
@@ -97,6 +109,7 @@ def generate_date_list(year):
         d["name_of_day"] = get_day_name(date_)
         d["name_of_month"] = get_month_name(date_)
         d["month_number"] = get_month_number_of_year(date_)
+        d["quarter"] = get_quarter_of_year(date_)
         d["full_date_description"] = f"{get_month_name(date_)} {get_day_number_of_month(date_)}, {get_year(date_)}"
 
         if date_ in get_last_date_by_month(year):
