@@ -5,7 +5,7 @@ import json
 import requests as req
 import psycopg2
 
-def connect_db():
+def connect_db(db_name):
     
     res = dotenv.load_dotenv()
     if not res:
@@ -13,7 +13,7 @@ def connect_db():
     
     connection_params = {
         "host": os.environ["DATABASE_IP"],
-        "database": os.environ["DATABASE_NAME"],
+        "database": db_name,
         "port": os.environ["DATABASE_PORT"],
         "user": os.environ["DATABASE_USERNAME"],
         "password": os.environ["DATABASE_PASSWORD"]

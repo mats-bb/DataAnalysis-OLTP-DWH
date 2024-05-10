@@ -22,12 +22,14 @@
 # "https://www.komplett.no/category/10111/datautstyr/pc-komponenter/hovedkort?nlevel=10000%C2%A728003%C2%A710111&hits=144"
 
 
+# NB!!! Will extract tilbehør urls as well. Needs fixing.
+
 import os
 
 os.sys.path.append('scripts')
 from util.utils import get_resp, get_soup, save_to_json
 
-BASE_URL = rf"https://www.komplett.no/category/11209/datautstyr/pc-komponenter/minnebrikker?nlevel=10000%C2%A728003%C2%A711209&hits=216"
+BASE_URL = rf"https://www.komplett.no/category/10412/datautstyr/pc-komponenter/skjermkort?nlevel=10000%C2%A728003%C2%A710412&hits=288"
 
 RAW_DIR = rf"data\raw"
 

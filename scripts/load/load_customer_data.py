@@ -15,7 +15,7 @@ def load_data():
     customers = load_from_json(TRANSFORMED_DIR, "transformed_customers")
 
     try:
-        conn = connect_db()
+        conn = connect_db('komplett')
         cursor = conn.cursor()
 
         for customer in customers:

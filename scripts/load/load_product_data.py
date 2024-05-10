@@ -15,7 +15,7 @@ def load_data():
     products = load_from_json(RAW_DIR, "combined_product_data")
 
     try:
-        conn = connect_db()
+        conn = connect_db('komplett')
         cursor = conn.cursor()
 
         for product in products:
