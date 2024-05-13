@@ -8,7 +8,7 @@ from util.utils import get_resp, save_to_json
 USER_DATA_DIR = fr"data\raw"
 
 # Random user API url
-url = fr"https://randomuser.me/api/?results=50&inc=name,location,email,login,phone&nat=no&noinfo"
+url = fr"https://randomuser.me/api/?results=500&inc=name,location,email,login,phone&nat=no&noinfo"
 
 
 
@@ -39,3 +39,5 @@ def generate_customers():
     resp = get_resp(url)
     user_data = get_user_data(resp)
     save_to_json(USER_DATA_DIR, "customer_data", user_data)
+
+generate_customers()

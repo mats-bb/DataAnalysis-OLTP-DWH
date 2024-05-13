@@ -63,4 +63,4 @@ def generate_cards(output_length: int):
 
     save_to_json(RAW_PATH, "customer_cards", cards)
 
-generate_cards(50)
+generate_cards(500)

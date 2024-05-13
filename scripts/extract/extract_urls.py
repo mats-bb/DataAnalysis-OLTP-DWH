@@ -33,10 +33,6 @@ BASE_URL = rf"https://www.komplett.no/category/10412/datautstyr/pc-komponenter/s
 
 RAW_DIR = rf"data\raw"
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-}
-
 
 def get_classes(soup, class_name):
     """Returns a list of classes from soup object."""
@@ -49,7 +45,7 @@ def get_urls(base_url):
 
     urls = []
 
-    resp = get_resp(base_url, headers)
+    resp = get_resp(base_url)
 
     if resp.status_code == 200:
         soup = get_soup(resp)

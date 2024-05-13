@@ -9,7 +9,7 @@ def connect_db(db_name):
     
     res = dotenv.load_dotenv()
     if not res:
-        raise Exception("Could not load.env file")
+        raise Exception("Could not load .env file")
     
     connection_params = {
         "host": os.environ["DATABASE_IP"],
@@ -23,6 +23,7 @@ def connect_db(db_name):
     
     return conn
 
+
 def load_from_json(dir_, filename):
     """Load json file from directory."""
 
@@ -30,8 +31,13 @@ def load_from_json(dir_, filename):
         return json.load(f)
 
 
-def get_resp(url, headers):
+def get_resp(url):
     """Get response from url."""
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    }
+
     return req.get(url, headers=headers)
 
 

@@ -7,9 +7,6 @@ from util.utils import get_resp, get_soup, save_to_json, load_from_json
 
 RAW_DIR = rf"data\raw"
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-}
 
 
 def get_basic_data(soup):
@@ -95,7 +92,7 @@ def get_all_products(urls):
     all_products_info = []
     
     for url in urls:
-        resp = get_resp(url, headers)
+        resp = get_resp(url)
         soup = get_soup(resp)
         basic_product_data = get_basic_data(soup)
         clean_product_data = clean_basic_data(basic_product_data)
