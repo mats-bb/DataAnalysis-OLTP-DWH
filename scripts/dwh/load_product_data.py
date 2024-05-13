@@ -1,34 +1,8 @@
-import json
 import psycopg2
 import os
 
 os.sys.path.append('scripts')
-from util.utils import connect_db, load_from_json
-
-RAW_DIR = fr"data\raw"
-
-# def get_product_data():
-
-#     products = load_from_json(RAW_DIR, "combined_product_data")
-
-#     product_data = []
-
-#     for product in products:
-#         product_data_d = {
-#             "product_sku_number": product["sku"],
-#             "product_mpn_number": product["mpn"],
-#             "product_name": product["name"],
-#             "product_category": product["categories"]["product_category"],
-#             "product_type_category": product["categories"]["type_category"],
-#             "product_main_category": product["categories"]["main_category"],
-#             "product_producer_name": product["producer"]
-#         }    
-
-#         product_data.append(product_data_d)
-
-#     return product_data
-
-
+from util.utils import connect_db
 
 
 def extract_products():
@@ -38,7 +12,7 @@ def extract_products():
         cursor = conn.cursor()
 
         cursor.execute("""
-            SELECT pi2.sku, pi2.mpn, p.product_name, pc.category_name, tc.category_name, mc.category_name, p2.producer_name 
+            SELECT p.id, pi2.sku, pi2.mpn, p.product_name, pc.category_name, tc.category_name, mc.category_name, p2.producer_name 
             FROM product p
             JOIN product_category pc ON
             p.product_cat_id = pc.id
@@ -77,9 +51,9 @@ def load_data():
         conn = connect_db('komplett_dwh')
         cursor = conn.cursor()
 
-        query = """INSERT INTO dim_product (product_sku_number, product_mpn_number, product_name,
+        query = """INSERT INTO dim_product (id, product_sku_number, product_mpn_number, product_name,
                            product_category, product_type_category, product_main_category, product_producer_name)
-                           VALUES (%s, %s, %s, %s, %s, %s, %s)"""
+                           VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"""
 
         for product in product_data:
 
