@@ -29,7 +29,7 @@ import os
 os.sys.path.append('scripts')
 from util.utils import get_resp, get_soup, save_to_json
 
-BASE_URL = rf"https://www.komplett.no/category/10412/datautstyr/pc-komponenter/skjermkort?nlevel=10000%C2%A728003%C2%A710412&hits=288"
+BASE_URL = rf"https://www.komplett.no/category/11204/datautstyr/pc-komponenter/prosessorer?nlevel=10000%C2%A728003%C2%A711204&hits=120"
 
 RAW_DIR = rf"data\raw"
 
