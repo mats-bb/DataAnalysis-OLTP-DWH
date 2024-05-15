@@ -25,9 +25,9 @@ def extract_orders():
         cursor = conn.cursor(cursor_factory=RealDictCursor)
 
         query = """
-            SELECT op.id AS product_id, d.id AS discount_id, o.payment_method, do2."type" AS delivery_method, do2.price AS delivery_price, op.quantity,
+            SELECT op.product_id, d.id AS discount_id, o.payment_method, do2."type" AS delivery_method, do2.price AS delivery_price, op.quantity,
             ph.price AS regular_unit_price, o.order_date,
-            d.discount_type, d.amount as discount_amount, a.zip_code, c2.city_name 
+            d.discount_type, d.amount AS discount_amount, a.zip_code, c2.city_name 
             FROM orders_product op
             JOIN product p ON op.product_id = p.id 
             JOIN price_history ph ON op.product_id = ph.product_id
@@ -40,8 +40,9 @@ def extract_orders():
             JOIN customer_address ca ON c.id = ca.customer_id
             JOIN address a ON ca.address_id = a.id
             JOIN city c2 ON a.city_id = c2.id
-            LEFT JOIN product_discount pd ON op.id = pd.product_id
-            LEFT JOIN discount d ON pd.discount_id = d.id;
+            LEFT JOIN product_discount pd ON op.product_id = pd.product_id
+            LEFT JOIN discount d ON pd.discount_id = d.id
+            ORDER BY op.product_id;
             """
 
         cursor.execute(query)

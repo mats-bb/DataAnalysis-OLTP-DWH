@@ -29,20 +29,20 @@ def calculate_net_price(row):
     
 
 def calculate_extended_sales_amount(row):
-    return row['net_price'] * row['quantity']
+    return int(row['net_price'] * row['quantity'])
 
 
 def calculate_extended_discount_amount(row):
 
     if row.get('discounted_price'):
-        return row['discounted_price'] * row['quantity']
+        return int(row['discounted_price'] * row['quantity'])
     return None
 
 
 def convert_discount_id(row):
 
     if not row.get('discount_id'):
-        return 0
+        return 1
     return int(row['discount_id'])
 
 

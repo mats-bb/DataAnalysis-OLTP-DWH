@@ -44,6 +44,7 @@ def generate_orders_product_rows():
 
     product_ids = clean_ids()
     num_orders = range(1, 101)
+    # print(product_ids)
 
     out = []
 
@@ -53,12 +54,15 @@ def generate_orders_product_rows():
 
         while len(product_ids_set) < num_products:
             product_ids_set.add(random.choice(product_ids))
+            
 
         for id_ in product_ids_set:
             product_quantity = random.randint(1, 10)
             out.append((product_quantity, order_id, id_))
 
     return out
+
+a = generate_orders_product_rows()
 
 
 def load_orders_product():
@@ -92,4 +96,4 @@ def load_orders_product():
         if conn:
             conn.close()
 
-load_orders_product()
+# load_orders_product()
