@@ -20,6 +20,7 @@ I'm also building a data warehouse using a dimensional model, where the aim is t
 - Dbeaver (postgreSQL)
 - Power Bi
 - Draw.io (ERD design)
+- APIs (https://randomuser.me/)
 
 ## Future work
 - Scrape all product data
