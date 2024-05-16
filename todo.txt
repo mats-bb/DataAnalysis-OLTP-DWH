@@ -1,2 +1,13 @@
-Add reusable code to utils
-Refactor product insertion script and stored procedure to handle jsonb input instead of current
+First iteration is done and working.
+
+Refactor the code
+Document the code
+Clean up
+
+Build some sample Power Bi reports
+
+
+Stretch:
+Build some Airflow dags
+Scrape more data? Automate scraper?
+Implement Kafka and or Spark 

@@ -3181,7 +3181,7 @@
     },
     {
         "product_id": 237,
-        "discount_id": 3,
+        "discount_id": 4,
         "payment_method": "Invoice",
         "delivery_method": "Posten",
         "quantity": 6,
@@ -3189,14 +3189,14 @@
         "order_date": "2024-05-28",
         "zip_code": 3144,
         "city_name": "Kirkenær",
-        "discounted_price": 1008.0,
-        "net_price": 1058.0,
-        "extended_sales_amount": 6348,
-        "extended_discount_amount": 6048
+        "discounted_price": 1131.3,
+        "net_price": 1181.3,
+        "extended_sales_amount": 7087,
+        "extended_discount_amount": 6787
     },
     {
         "product_id": 237,
-        "discount_id": 3,
+        "discount_id": 4,
         "payment_method": "Special",
         "delivery_method": "Helt hjem",
         "quantity": 2,
@@ -3204,14 +3204,14 @@
         "order_date": "2024-05-13",
         "zip_code": 9169,
         "city_name": "Bekkjarvik",
-        "discounted_price": 1008.0,
-        "net_price": 1107.0,
-        "extended_sales_amount": 2214,
-        "extended_discount_amount": 2016
+        "discounted_price": 1131.3,
+        "net_price": 1230.3,
+        "extended_sales_amount": 2460,
+        "extended_discount_amount": 2262
     },
     {
         "product_id": 237,
-        "discount_id": 3,
+        "discount_id": 4,
         "payment_method": "Invoice",
         "delivery_method": "Helt hjem",
         "quantity": 3,
@@ -3219,14 +3219,14 @@
         "order_date": "2024-05-19",
         "zip_code": 5403,
         "city_name": "Rindal",
-        "discounted_price": 1008.0,
-        "net_price": 1107.0,
-        "extended_sales_amount": 3321,
-        "extended_discount_amount": 3024
+        "discounted_price": 1131.3,
+        "net_price": 1230.3,
+        "extended_sales_amount": 3690,
+        "extended_discount_amount": 3393
     },
     {
         "product_id": 238,
-        "discount_id": 3,
+        "discount_id": 4,
         "payment_method": "Invoice",
         "delivery_method": "Helt hjem",
         "quantity": 2,
@@ -3234,14 +3234,14 @@
         "order_date": "2024-05-16",
         "zip_code": 2730,
         "city_name": "Nesbygda",
-        "discounted_price": 2959.0,
-        "net_price": 3058.0,
-        "extended_sales_amount": 6116,
-        "extended_discount_amount": 5918
+        "discounted_price": 2887.2,
+        "net_price": 2986.2,
+        "extended_sales_amount": 5972,
+        "extended_discount_amount": 5774
     },
     {
         "product_id": 238,
-        "discount_id": 3,
+        "discount_id": 4,
         "payment_method": "Invoice",
         "delivery_method": "Pickup Location",
         "quantity": 5,
@@ -3249,14 +3249,14 @@
         "order_date": "2024-05-06",
         "zip_code": 482,
         "city_name": "Flesland",
-        "discounted_price": 2959.0,
-        "net_price": 3058.0,
-        "extended_sales_amount": 15290,
-        "extended_discount_amount": 14795
+        "discounted_price": 2887.2,
+        "net_price": 2986.2,
+        "extended_sales_amount": 14931,
+        "extended_discount_amount": 14436
     },
     {
         "product_id": 239,
-        "discount_id": 3,
+        "discount_id": 4,
         "payment_method": "Invoice",
         "delivery_method": "Pickup Location",
         "quantity": 10,
@@ -3264,14 +3264,14 @@
         "order_date": "2024-05-23",
         "zip_code": 5034,
         "city_name": "Jortveit",
-        "discounted_price": 1220.0,
-        "net_price": 1319.0,
-        "extended_sales_amount": 13190,
-        "extended_discount_amount": 12200
+        "discounted_price": 1322.1,
+        "net_price": 1421.1,
+        "extended_sales_amount": 14211,
+        "extended_discount_amount": 13221
     },
     {
         "product_id": 240,
-        "discount_id": 3,
+        "discount_id": 4,
         "payment_method": "Invoice",
         "delivery_method": "Posten",
         "quantity": 5,
@@ -3279,14 +3279,14 @@
         "order_date": "2024-05-13",
         "zip_code": 901,
         "city_name": "Trones",
-        "discounted_price": 4850.0,
-        "net_price": 4900.0,
-        "extended_sales_amount": 24500,
-        "extended_discount_amount": 24250
+        "discounted_price": 4589.1,
+        "net_price": 4639.1,
+        "extended_sales_amount": 23195,
+        "extended_discount_amount": 22945
     },
     {
         "product_id": 240,
-        "discount_id": 3,
+        "discount_id": 4,
         "payment_method": "Invoice",
         "delivery_method": "Pickup Location",
         "quantity": 1,
@@ -3294,10 +3294,10 @@
         "order_date": "2024-05-02",
         "zip_code": 2407,
         "city_name": "Norderhaug",
-        "discounted_price": 4850.0,
-        "net_price": 4949.0,
-        "extended_sales_amount": 4949,
-        "extended_discount_amount": 4850
+        "discounted_price": 4589.1,
+        "net_price": 4688.1,
+        "extended_sales_amount": 4688,
+        "extended_discount_amount": 4589
     },
     {
         "product_id": 242,
@@ -4951,7 +4951,7 @@
     },
     {
         "product_id": 333,
-        "discount_id": 4,
+        "discount_id": 3,
         "payment_method": "Special",
         "delivery_method": "Pickup Location",
         "quantity": 2,
@@ -4959,14 +4959,14 @@
         "order_date": "2024-05-23",
         "zip_code": 2364,
         "city_name": "Skjold",
-        "discounted_price": 20699.1,
-        "net_price": 20798.1,
-        "extended_sales_amount": 41596,
-        "extended_discount_amount": 41398
+        "discounted_price": 22750.0,
+        "net_price": 22849.0,
+        "extended_sales_amount": 45698,
+        "extended_discount_amount": 45500
     },
     {
         "product_id": 334,
-        "discount_id": 4,
+        "discount_id": 3,
         "payment_method": "Special",
         "delivery_method": "Pickup Location",
         "quantity": 4,
@@ -4974,14 +4974,14 @@
         "order_date": "2024-05-07",
         "zip_code": 2560,
         "city_name": "Li",
-        "discounted_price": 12505.5,
-        "net_price": 12604.5,
-        "extended_sales_amount": 50418,
-        "extended_discount_amount": 50022
+        "discounted_price": 13646.0,
+        "net_price": 13745.0,
+        "extended_sales_amount": 54980,
+        "extended_discount_amount": 54584
     },
     {
         "product_id": 334,
-        "discount_id": 4,
+        "discount_id": 3,
         "payment_method": "Card",
         "delivery_method": "Posten",
         "quantity": 1,
@@ -4989,14 +4989,14 @@
         "order_date": "2024-05-08",
         "zip_code": 8071,
         "city_name": "Årdalstangen",
-        "discounted_price": 12505.5,
-        "net_price": 12555.5,
-        "extended_sales_amount": 12555,
-        "extended_discount_amount": 12505
+        "discounted_price": 13646.0,
+        "net_price": 13696.0,
+        "extended_sales_amount": 13696,
+        "extended_discount_amount": 13646
     },
     {
         "product_id": 334,
-        "discount_id": 4,
+        "discount_id": 3,
         "payment_method": "Card",
         "delivery_method": "Helt hjem",
         "quantity": 8,
@@ -5004,14 +5004,14 @@
         "order_date": "2024-05-29",
         "zip_code": 4707,
         "city_name": "Ferkingstad",
-        "discounted_price": 12505.5,
-        "net_price": 12604.5,
-        "extended_sales_amount": 100836,
-        "extended_discount_amount": 100044
+        "discounted_price": 13646.0,
+        "net_price": 13745.0,
+        "extended_sales_amount": 109960,
+        "extended_discount_amount": 109168
     },
     {
         "product_id": 334,
-        "discount_id": 4,
+        "discount_id": 3,
         "payment_method": "Invoice",
         "delivery_method": "Posten",
         "quantity": 4,
@@ -5019,10 +5019,10 @@
         "order_date": "2024-05-11",
         "zip_code": 6905,
         "city_name": "Malvik",
-        "discounted_price": 12505.5,
-        "net_price": 12555.5,
-        "extended_sales_amount": 50222,
-        "extended_discount_amount": 50022
+        "discounted_price": 13646.0,
+        "net_price": 13696.0,
+        "extended_sales_amount": 54784,
+        "extended_discount_amount": 54584
     },
     {
         "product_id": 338,
