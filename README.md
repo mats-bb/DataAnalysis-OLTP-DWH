@@ -1,13 +1,28 @@
 # About
-Using komplett.no as a reference to build an operational database as well as a data warehouse to run analysis on, to get a deeper understanding of datamodeling concepts. See raw .svg file for current ERD progress.
+In this repo I'm building an operational database for an ecommerce platform, using popular tech-shop "Komplett.no" as a reference. 
+The database contains real product data, scraped from komplett, as well as other dummy data for table population.
+I'm also building a data warehouse using a dimensional model, where the aim is to do analysis on sales data in Power Bi.
 
-! This project will be updated constantly. What you see now is not necessarily indicative of the end result. !
+! This project will be updated constantly. What you see now is not necessarily indicative of the final result. !
 
 ## Ideas
-- Build OLTP system
-- Build dimensional dwh
-- Connect Power Bi to dwh for analysis
-- Scrape actual product data from Komplett to populate DB
-- Populate other tables with dummy-data
-- Build GUI to emulate placing orders etc
-- Run queries
+- Build operational database
+- Build dimensional data warehouse
+- Scrape product data
+- Generate dummy data
+- Write ETL processes
+- Do analysis with Power Bi
+
+## Tools
+- Python
+- Dbeaver (postgreSQL)
+- Power Bi
+- Draw.io (ERD design)
+
+## Future work
+- Scrape all product data
+- Generate more sales data for deeper analysis
+- Implement big data tools (Kafka, Spark)
+- Automate with Airflow
+- Migrate to Snowflake
+- Build a GUI or web solution to interact with DBs
