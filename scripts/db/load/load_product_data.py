@@ -1,34 +1,21 @@
 import json
 import psycopg2
-import dotenv
 import os
 
-dotenv.load_dotenv()
+os.sys.path.append('scripts')
+from util.utils import connect_db, load_from_json
 
 RAW_DIR = fr"data\raw"
 
-connection_params = {
-    "host": os.environ["DATABASE_IP"],
-    "database": os.environ["DATABASE_NAME"],
-    "port": os.environ["DATABASE_PORT"],
-    "user": os.environ["DATABASE_USERNAME"],
-    "password": os.environ["DATABASE_PASSWORD"]
-}
-
-def load_from_json(dir_, filename):
-    """Load json file from directory."""
-
-    with open(fr'{dir_}/{filename}.json', 'r', encoding='utf-8') as f:
-        return json.load(f)
 
 # Remake the stored procedure to handle jsonb input instead of this solution
-def load_data(connection_params):
+def load_data():
     """Load data into database."""
 
     products = load_from_json(RAW_DIR, "combined_product_data")
 
     try:
-        conn = psycopg2.connect(**connection_params)
+        conn = connect_db('komplett')
         cursor = conn.cursor()
 
         for product in products:
@@ -64,4 +51,4 @@ def load_data(connection_params):
         if conn:
             conn.close()
 
-load_data(connection_params)
+load_data()

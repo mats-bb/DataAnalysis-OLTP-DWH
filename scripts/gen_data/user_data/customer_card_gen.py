@@ -1,16 +1,11 @@
 import random
 from datetime import datetime, timedelta
-import json
+import os
+
+os.sys.path.append('scripts')
+from util.utils import save_to_json
 
 RAW_PATH = r"data\raw"
-
-
-def save_to_json(dir_, filename, data):
-    """Save json file to directory."""
-
-    with open(fr'{dir_}\{filename}.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-
 
 def generate_unique_numbers(output_length: int):
     numbers = set()
@@ -68,4 +63,4 @@ def generate_cards(output_length: int):
 
     save_to_json(RAW_PATH, "customer_cards", cards)
 
-generate_cards(50)
+generate_cards(500)

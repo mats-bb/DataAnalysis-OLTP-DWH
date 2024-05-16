@@ -22,33 +22,16 @@
 # "https://www.komplett.no/category/10111/datautstyr/pc-komponenter/hovedkort?nlevel=10000%C2%A728003%C2%A710111&hits=144"
 
 
-import requests as req
-from bs4 import BeautifulSoup as bs
-import json
+# NB!!! Will extract tilbehør urls as well. Needs fixing.
 
-BASE_URL = rf"https://www.komplett.no/category/11209/datautstyr/pc-komponenter/minnebrikker?nlevel=10000%C2%A728003%C2%A711209&hits=216"
+import os
+
+os.sys.path.append('scripts')
+from util.utils import get_resp, get_soup, save_to_json
+
+BASE_URL = rf"https://www.komplett.no/category/11204/datautstyr/pc-komponenter/prosessorer?nlevel=10000%C2%A728003%C2%A711204&hits=120"
 
 RAW_DIR = rf"data\raw"
-
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-}
-
-
-def get_resp(url, headers):
-    """Get response from url."""
-    return req.get(url, headers=headers)
-
-
-def get_soup(resp):
-    """Get soup object from response."""
-    return bs(resp.content, "html.parser")
-
-
-def save_to_json(dir_, filename, data):
-    """Save json file to directory."""
-    with open(fr'{dir_}/{filename}.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
 
 
 def get_classes(soup, class_name):
@@ -62,7 +45,7 @@ def get_urls(base_url):
 
     urls = []
 
-    resp = get_resp(base_url, headers)
+    resp = get_resp(base_url)
 
     if resp.status_code == 200:
         soup = get_soup(resp)
@@ -74,11 +57,11 @@ def get_urls(base_url):
 
     return urls
 
-def run():
+def extract_urls():
     urls = get_urls(BASE_URL)
     save_to_json(RAW_DIR, 'urls', urls)
 
-run()
+extract_urls()
 
 # resp = get_resp(BASE_URL, headers)
 
