@@ -57,11 +57,11 @@ def get_urls(base_url):
 
     return urls
 
-def run():
+def extract_urls():
     urls = get_urls(BASE_URL)
     save_to_json(RAW_DIR, 'urls', urls)
 
-run()
+extract_urls()
 
 # resp = get_resp(BASE_URL, headers)
 

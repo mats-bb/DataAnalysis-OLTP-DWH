@@ -8,7 +8,6 @@ from util.utils import get_resp, get_soup, save_to_json, load_from_json
 RAW_DIR = rf"data\raw"
 
 
-
 def get_basic_data(soup):
     """Return basic product json."""
 
@@ -102,19 +101,10 @@ def get_all_products(urls):
     return all_products_info
 
 
-def run():
+def extract_data():
     urls = load_from_json(RAW_DIR, "urls")
     all_products_info = get_all_products(urls)
 
     save_to_json(RAW_DIR, "combined_product_data", all_products_info)
 
-run()
-
-
-# def get_product_imgs():
-#     """Return product images."""
-#     pass
-
-# def get_product_info_sheet():
-#     """Return product info sheet."""
-#     pass
+extract_data()

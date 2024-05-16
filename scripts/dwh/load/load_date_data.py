@@ -1,5 +1,4 @@
 import os
-import json
 import psycopg2
 
 os.sys.path.append('scripts')
@@ -18,7 +17,6 @@ def load_data():
         cursor = conn.cursor()
 
         for date in dates:
-            # date = json.dumps(date)
 
             # Call the stored procedure with unpacked values
             cursor.execute("""INSERT INTO dim_date(date, day_of_week, day_of_month, day_of_year,
