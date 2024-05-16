@@ -5,6 +5,8 @@ I'm also building a data warehouse using a dimensional model, where the aim is t
 
 ! This project will be updated constantly. What you see now is not necessarily indicative of the final result. !
 
+![Alt Text](https://github.com/mats-bb/Reverse-engineered-Komplett-DB/blob/dev/imgs/0524_product_sales_report_1.png) 
+
 ## Ideas
 - Build operational database
 - Build dimensional data warehouse
