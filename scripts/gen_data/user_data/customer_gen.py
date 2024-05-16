@@ -11,7 +11,6 @@ USER_DATA_DIR = fr"data\raw"
 url = fr"https://randomuser.me/api/?results=500&inc=name,location,email,login,phone&nat=no&noinfo"
 
 
-
 def get_user_data(resp):
 
     user_data = []

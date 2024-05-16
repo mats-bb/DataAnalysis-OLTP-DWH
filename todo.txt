@@ -4,7 +4,6 @@ Refactor the code
 Document the code
 Clean up
 
-Build some sample Power Bi reports
 
 
 Stretch:
