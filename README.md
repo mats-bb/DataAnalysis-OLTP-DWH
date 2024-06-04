@@ -9,7 +9,7 @@ The project will be updated continously. This is not it's final form.
 
 
 # Table of contents
-- [test](## the-idea)
+- [test](#the-idea)
 - The process
 - Tools
 - Future work
