@@ -39,6 +39,8 @@ Next I needed some data for the customers and their orders. I will not go too mu
 The data has been retrieved and generated! The next step was to transform the data into the correct format for loading into the operations database. The process involved some error handling, selecting only the necessary data and some small transformations for the products. The user data needed to be combined. Seeing as both products and customers have multiple tables associated with them, stored procedures had to be written for these operations. You can see them [here](sql/operattions_procedures.sql)!
 
 ## 7. Building the data warehouse
+All the operations data has been loaded and verified to behave the way it's supposed to. Time to construct the data warehouse. I wanted the warehouse to be easy to use and understand, but also be powerful. A star schema was used, and the decided granularity of the data would be individual product sales lines(from an order). The challenge was to come up with good dimensions for the schema, and make sure they and the facts made sense together. Good naming and several attributes went into the dimensions to ensure high usability. Take a look at the ERD [here](imgs/dwh_ERD.drawio.png).
+
 ## 8. Generating dwh data
 ## 9. Transform and load dwh data
 ## 10. Power Bi
