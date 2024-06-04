@@ -36,11 +36,11 @@ From there the idea only grew. I wanted to build the actual system itself and po
 In order to get the required instructions for building the data model, some exploration was needed. I clicked around on the webpage, checking out the different categories and products, different functions like the shoppingcart and wishlist, customer pages and more. After getting a good overview of the core functions I wanted the system to support I could start the actual modeling.
 
 ## 2. Building the ERD
-At the heart of every webshop is the products they offer. Customers buy the products, and everything gets recorded in an order. I decided to focus on these aspects for the data model as they are the most "important", and most fun to work with, in my opinion. The process itself was pretty straightforward: explore each aspect in depth, break them down into logical pieces, build the tables and relations, and iterate. Some data, of course, is not avaiable by just looking at a webpage, so some actual thinking was involved in designing parts of the schema, like the product inventory table, for example. You can see the current ERD [here](imgs/operations_ERD.drawio.png).[^1]
-[^1]: A small note on the product spec sheet and information. The data seems to vary a lot from product to product. This is why json was chosen to capture this data.
+At the heart of every webshop is the products they offer. Customers buy the products, and everything gets recorded in an order. I decided to focus on these aspects for the data model as they are the most "important", and most fun to work with, in my opinion. The process itself was pretty straightforward: explore each aspect in depth, break them down into logical pieces, build the tables and relations, and iterate. Some data, of course, is not avaiable by just looking at a webpage, so some actual thinking was involved in designing parts of the schema, like the product inventory table, for example. You can see the current ERD [here](imgs/operations_ERD.drawio.png).
 
 ## 3. Building the operational database
-There is not very much to say about the actual creation of the database. The ERD is complete, just follow the recipe. The [DDL](sql/operations_DDL.sql) for the operations database. Don't worry about the cascades, I've deliberately kept them as they were a part of the process. Do be careful in a real environment though!
+There is not very much to say about the actual creation of the database. The ERD is complete, just follow the recipe. The [DDL](sql/operations_DDL.sql) for the operations database. Don't worry about the cascades, I've deliberately kept them as they were a part of the process. Do be careful in a real environment though![^1]
+[^1]: A small note on the product spec-sheet and information. The data seems to vary a lot from product to product. This is why json was chosen to capture this data.
 
 ## 4. Scraping the data
 The data scraping process was way more involved, using browser dev tools to inspect the HTML of each webpage to get the actual data. Product data was the target here, and I chose to focus on computer parts only. The process simply described, extract the URL for each product and extract the relevant data from these URLs HTML. This was a lengthy process, and a lot of debugging and manual labour had to be done finding the correct HTML elements and writing the actual code for it. Ultimately though, scraping the data would be a one-time operation.[^2]
@@ -49,6 +49,7 @@ The data scraping process was way more involved, using browser dev tools to insp
 ## 5. Generating operations data
 Next I needed some data for the customers and their orders. I will not go too much into detail here, but simply put, I used an [API](https://randomuser.me/) to generate the actual customer data, and some basic Python to generate the rest. See the code for more information.[^3]
 [^3]: The data generated is of a random nature. This will be reflected in the visualizations later.
+  Test
 
 ## 6. Transform and load operations data
 The data has been retrieved and generated! The next step is to transform the data into the correct format for loading into the operations database. The process involved some error handling, selecting only the necessary data and some small transformations for the products. The user data needed to be combined. Seeing as both products and customers have multiple tables associated with them, stored procedures had to be written for these operations. You can see them [here](sql/operattions_procedures.sql)!
