@@ -23,7 +23,7 @@ The project will be updated continously. This is not it's final form.
   - [10. Power Bi](#10-power-bi)
   - [11. Final words](#11-final-words)
 - [Technical](#technical)
-  - [Tools](#tools)
+  - [Tools used](#tools-used)
 - [Future work](#future-work)
 
 
