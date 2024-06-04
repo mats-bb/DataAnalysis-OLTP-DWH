@@ -32,9 +32,11 @@ There is not very much to say about the actual creation of the database. The ERD
 ## 4. Scraping the data
 The data scraping process was way more involved, using browser dev tools to inspect the HTML of each webpage to get the actual data. Product data was the target here, and I chose to focus on computer parts only. The process simply described, extract the URL for each product and extract the relevant data from these URLs HTML. This was a lengthy process, and a lot of debugging and manual labour had to be done finding the correct HTML elements and writing the actual code for it. Ultimately though, scraping the data would be a one-time operation.
 
-## 5. Generating data
-Next I needed some data for the customers and their orders. I will not go into the details here, 
-## 6. ETL
+## 5. Generating operations data
+Next I needed some data for the customers and their orders. I will not go too much into detail here, but simply put, I used an [API](https://randomuser.me/) to generate the actual customer data, and some basic Python to generate the rest. See the code for more information.
+
+## 6. Transform and load operations data
+
 ## 7. Building the data warehouse
 ## 8. Generating data
 ## 9. ETL
