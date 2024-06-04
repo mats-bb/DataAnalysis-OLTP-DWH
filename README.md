@@ -22,9 +22,9 @@ The project will be updated continously. This is not it's final form.
   - [9. Extract, transform and load dwh data](#9-extract-transform-and-load-dwh-data)
   - [10. Power Bi](#10-power-bi)
   - [11. Final words](#11-final-words)
-- [Technical]()
-  - [Tools]()
-- [Future work]()
+- [Technical](#technical)
+  - [Tools](#tools)
+- [Future work](#future-work)
 
 
 # The idea
@@ -66,40 +66,20 @@ The last step, data analysis in Power Bi! All the data is in place, everything w
 I've had a lot of fun working on this project so far, and have learned a great deal. It's been challenging working out all the kinks and bugs to get everything to work as it should, but also incredibly rewarding. So far it's turned out to be much more than I originally set out to do, and I'm all for it. I've had the joy of learning new concepts across all the technologies I've used, and discovered new and better ways of doing things, and some bad ways, too. I'm excited to have the buildingblocks to work further on this project in the future, and have some good ideas I want to implement. Thank you for taking the time to look at my project.
 
 # Technical
-
 ## Tools used
 - Python - ETL, scraping and data generation
   - beautifulsoup
   - psycopg2
   - pandas
-  - grequests
-  
+  - grequests  
 - Dbeaver (postgreSQL) - database and warehouse
 - Power Bi
 - Draw.io - ERD design
 - APIs
   - https://randomuser.me/
     
-
-## Ideas
-- Build operational database
-- Build dimensional data warehouse
-- Scrape product data
-- Generate dummy data
-- Write ETL processes
-- Do analysis with Power Bi
-
-## Tools
-- Python
-- Dbeaver (postgreSQL)
-- Power Bi
-- Draw.io (ERD design)
-- APIs (https://randomuser.me/)
-
 ## Future work
-- Scrape all product data
-- Generate more sales data for deeper analysis
-- Implement big data tools (Kafka, Spark)
-- Automate with Airflow
-- Migrate to Snowflake
-- Build a GUI or web solution to interact with DBs
+- Continue building operations DB
+- Implement Kafka/Spark/Airflow
+- Migrate to cloud (Snowflake)
+- Refactor code
