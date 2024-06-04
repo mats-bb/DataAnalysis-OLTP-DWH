@@ -8,19 +8,19 @@ The project will be updated continously. This is not it's final form.
 ![Alt Text](https://github.com/mats-bb/Reverse-engineered-Komplett-DB/blob/master/imgs/overview_1.png)
 
 
-## Table of contents
-1. The idea
-2. The process
-3. Tools
-4. Future work
+# Table of contents
+## 1. The idea
+## 2. The process
+## 3. Tools
+## 4. Future work
 
-# 1. The idea
+## 1. The idea
 
-# 2. The process
+## 2. The process
 
-# 3. Tools
+## 3. Tools
 
-# 4. Future work
+## 4. Future work
 
 ## Ideas
 - Build operational database
