@@ -36,10 +36,11 @@ The data scraping process was way more involved, using browser dev tools to insp
 Next I needed some data for the customers and their orders. I will not go too much into detail here, but simply put, I used an [API](https://randomuser.me/) to generate the actual customer data, and some basic Python to generate the rest. See the code for more information.
 
 ## 6. Transform and load operations data
+The data has been retrieved and generated! The next step was to transform the data into the correct format for loading into the operations database. The process involved some error handling, selecting only the necessary data and some small transformations for the products. The user data needed to be combined. Seeing as both products and customers have multiple tables associated with them, stored procedures had to be written for these operations. You can see them [here](sql/operattions_procedures.sql)!
 
 ## 7. Building the data warehouse
-## 8. Generating data
-## 9. ETL
+## 8. Generating dwh data
+## 9. Transform and load dwh data
 ## 10. Power Bi
 
 ## Ideas
