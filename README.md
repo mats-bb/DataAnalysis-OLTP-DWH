@@ -9,7 +9,7 @@ The project will be updated continously. This is not it's final form.
 
 
 # Table of contents
-- The idea
+- [The idea](https://github.com/mats-bb/Reverse-engineered-Komplett-DB/blob/master/imgs/overview_1.png)
 - The process
 - Tools
 - Future work
