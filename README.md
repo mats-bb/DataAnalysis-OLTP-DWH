@@ -63,7 +63,23 @@ We're almost there! As with the operations database, we now have all the generat
 The last step, data analysis in Power Bi! All the data is in place, everything works. Finally, I connected Power Bi directly to the data warehouse. "Users" are free to do whatever analysis they want. The warehouse would be available to all departments as a single source of truth. You can see an example dashboard at the beginning of this repo. I will create more reports/dashboards at a later date to demonstrate other usecases for the warehouse.
 
 ## 11. Final words
+I've had a lot of fun working on this project so far, and have learned a great deal. It's been challenging working out all the kinks and bugs to get everything to work as it should, but also incredibly rewarding. So far it's turned out to be much more than I originally set out to do, and I'm all for it. I've had the joy of learning new concepts across all the technologies I've used, and discovered new and better ways of doing things, and some bad ways, too. I'm excited to have the buildingblocks to work further on this project in the future, and have some good ideas I want to implement. Thank you for taking the time to look at my project.
 
+# Technical
+
+## Tools used
+- Python - ETL, scraping and data generation
+  - beautifulsoup
+  - psycopg2
+  - pandas
+  - grequests
+  
+- Dbeaver (postgreSQL) - database and warehouse
+- Power Bi
+- Draw.io - ERD design
+- APIs
+  - https://randomuser.me/
+    
 
 ## Ideas
 - Build operational database
