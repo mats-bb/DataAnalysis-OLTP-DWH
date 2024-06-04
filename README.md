@@ -11,8 +11,7 @@ The project will be updated continously. This is not it's final form.
 # Table of contents
 - [The idea](#the-idea)
 - [The process](#the-process)
--     Asd
--   - [1. Exploring the website]()
+  - [1. Exploring the website]()
     - 2. Building the ERD
     - 3. Building the operational dabase
     - 4. Scraping the data
