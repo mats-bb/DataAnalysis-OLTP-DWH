@@ -4,19 +4,21 @@ import psycopg2
 os.sys.path.append('scripts')
 from util.utils import connect_db, load_from_json
 
-RAW_DIR = rf'data\raw'
+DATA_GEN_DIR = r"data\data_gen"
+FILE_NAME = r"2024_date_data.json"
 
 
 def load_data():
     """Load data into database."""
 
-    dates = load_from_json(RAW_DIR, "date_data")
+    dates = load_from_json(DATA_GEN_DIR, FILE_NAME)
 
     try:
-        conn = connect_db('komplett_dwh')
+        conn = connect_db('komplett_v2_dwh')
         cursor = conn.cursor()
 
         for date in dates:
+            # date = json.dumps(date)
 
             # Call the stored procedure with unpacked values
             cursor.execute("""INSERT INTO dim_date(date, day_of_week, day_of_month, day_of_year,

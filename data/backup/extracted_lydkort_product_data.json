@@ -1,0 +1,519 @@
+[
+    {
+        "productId": "1185177",
+        "ecomm_prodid": "1185177",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 1899.0,
+        "ecomm_shelfPrice": 1899.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "1185177",
+                    "item_name": "Røde Ai-1 lydkort",
+                    "price": 1519.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Røde",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Lydkort",
+                    "quantity": 1,
+                    "item_manufacturer_number": "230360",
+                    "item_division_id": "44",
+                    "item_group_id": "45",
+                    "item_subgroup_id": "45-9",
+                    "item_group_name": "Sound",
+                    "item_subgroup_name": "Streaming acc",
+                    "item_division_name": "Gaming",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 4,
+                    "item_rating": 5.0,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "USB-C",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "røde",
+                "modell": "ai-1",
+                "garanti (måneder)": "24",
+                "ean": "698813005130"
+            },
+            {
+                "caption": "lydutgang",
+                "minimumsavlesningsfrekvens": "44.1 khz",
+                "lydmodus": "stereo",
+                "frekvensrespons": "20 - 20000 hz",
+                "type": "lydgrensesnitt",
+                "dac-oppløsning": "24-bit",
+                "formfaktor": "ekstern",
+                "grensesnittype": "usb-c",
+                "maks avlesningsfrekvens": "96 khz",
+                "funksjoner": "usb-bussdrevet, headphone amplifier, led-indikator, fantomstrøm",
+                "maskinvarekontroller og -indikatorer": "direct monitor-styring, forsterkningskontroll"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "farge": "atlasksort"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "12.4 cm",
+                "dybde": "10 cm",
+                "høyde": "3.8 cm",
+                "vekt": "560 g"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 1 år"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "1 x lydinnlinje - 3-pins xlr / 6,3 mm-jakk, 2 x lydutlinje - 6,35 mm-stereojakk, 1 x hodetelefon - 6,35 mm-stereojakk, 1 x usb - 24 pin usb-c"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "apple macos x 10.10 eller nyere, microsoft windows 7 eller nyere"
+            }
+        ]
+    },
+    {
+        "productId": "1154838",
+        "ecomm_prodid": "1154838",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 669.0,
+        "ecomm_shelfPrice": 669.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "1154838",
+                    "item_name": "Creative Sound Blaster G3 USB-C konsoll DAC Amp",
+                    "price": 535.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Creative",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Lydkort",
+                    "quantity": 1,
+                    "item_manufacturer_number": "70SB183000000",
+                    "item_division_id": "44",
+                    "item_group_id": "45",
+                    "item_subgroup_id": "45-5",
+                    "item_group_name": "Sound",
+                    "item_subgroup_name": "Sound Cards",
+                    "item_division_name": "Gaming",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 4,
+                    "item_rating": 3.8,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "Ekstern USB-C DAC-forsterker for konsoll, PS4, Nintendo Switch, PC og Mac",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "g3",
+                "produktserie": "creative sound blaster",
+                "garanti (måneder)": "24",
+                "ean": "5390660192968"
+            },
+            {
+                "caption": "lydutgang",
+                "maskinvarekontroller og -indikatorer": "volum",
+                "grensesnittype": "usb-c",
+                "maks avlesningsfrekvens": "96 khz",
+                "formfaktor": "ekstern",
+                "dac-oppløsning": "24-bit",
+                "signal-til-lydforhold": "100 db",
+                "type": "lydkort",
+                "lydmodus": "stereo",
+                "funksjoner": "crystalvoice"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "21 cm",
+                "vekt": "32 g",
+                "dybde": "3.9 cm",
+                "høyde": "1.5 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "1-årsgaranti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 1 år"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "1 x hodetelefon - mini-phone stereo 3.5 mm, 1 x toslink-inngang/innlinje - 3,5mm-stereominijakk / mini-toslink, 1 x mikrofon - 3,5 mm-minijakk"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "1 x usb-c til usb-a adapter, 1 x audio (optisk) kabel - 1 m"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "android 8.0 (oreo) eller nyere, windows 8 / 8.1 / 10 (32/64 bits), apple macos x 10.12 eller nyere, apple ios 11 eller nyere"
+            },
+            {
+                "caption": "systemkravdetaljer",
+                "systemkravdetaljer": "windows 8/8.1/10 - ram 1 gb - hd 600 mb, macos x 10.12 eller nyere - ram 1 gb"
+            }
+        ]
+    },
+    {
+        "productId": "1135352",
+        "ecomm_prodid": "1135352",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 2308.0,
+        "ecomm_shelfPrice": 2308.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "1135352",
+                    "item_name": "Sound Blaster AE-7 Internt Lydkort",
+                    "price": 1846.4,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Creative",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Lydkort",
+                    "item_variant": "AE-7",
+                    "quantity": 1,
+                    "item_manufacturer_number": "70SB180000000",
+                    "item_division_id": "44",
+                    "item_group_id": "45",
+                    "item_subgroup_id": "45-5",
+                    "item_group_name": "Sound",
+                    "item_subgroup_name": "Sound Cards",
+                    "item_division_name": "Gaming",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 8,
+                    "item_rating": 3.6,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "PCI-e DAC &amp; AMP, Xamp, 7.1 Surround, Dolby Digital Live, opp til 600&#x3A9;",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "ae-7",
+                "produktserie": "creative sound blaster",
+                "garanti (måneder)": "24",
+                "ean": "5390660192418"
+            },
+            {
+                "caption": "lydutgang",
+                "grensesnittype": "pci express",
+                "signal-til-lydforhold": "127 db",
+                "minimumsavlesningsfrekvens": "44.1 khz",
+                "type": "lydkort",
+                "lydmodus": "5.1 surround",
+                "dac-oppløsning": "32-bit",
+                "maks avlesningsfrekvens": "384 khz",
+                "formfaktor": "intern",
+                "funksjoner": "sound core3d, scout mode, virtuell 7,1-kanals surroundmodus, innbygd mikrofon, headphone amplifier, crystalvoice",
+                "tilpassede standarder": "dolby digital live, dolby audio, dts connect, asio 2.3"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "microsoft windows 7 / 8 / 8.1 / 10 (32/64 bits)"
+            },
+            {
+                "caption": "systemkravdetaljer",
+                "systemkravdetaljer": "windows 7/8/8.1/10 - core i3 ram 1 gb - hd 600 mb"
+            },
+            {
+                "caption": "diverse",
+                "inkludert tilbehør": "lydkontrollmodul"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "12.8 cm",
+                "bredde": "14.5 cm",
+                "høyde": "2 cm",
+                "vekt": "215 g"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 1 år"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "på lydkontrollmodul: 1 x mikrofon - 6,3 mm-monojakk, på lydkontrollmodul: 1 x mikrofon - 3,5 mm monominijakk, 3 x lydutlinje - mini-phone stereo 3.5 mm, 1 x digital lydutgang (optisk) - toslink, 1 x lydinnlinje/mikrofon - mini-phone stereo 3.5 mm, 1 x hodetelefon - mini-phone stereo 3.5 mm, på lydkontrollmodul: 1 x hodetelefon - 6,3 mm-stereojakk, på lydkontrollmodul: 1 x hodetelefon - mini-phone stereo 3.5 mm"
+            }
+        ]
+    },
+    {
+        "productId": "1154839",
+        "ecomm_prodid": "1154839",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 299.0,
+        "ecomm_shelfPrice": 299.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "1154839",
+                    "item_name": "Creative Sound Blaster PLAY!3 Ekstern lydkort",
+                    "price": 239.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Creative",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Lydkort",
+                    "quantity": 1,
+                    "item_manufacturer_number": "70SB173000000",
+                    "item_division_id": "44",
+                    "item_group_id": "45",
+                    "item_subgroup_id": "45-5",
+                    "item_group_name": "Sound",
+                    "item_subgroup_name": "Sound Cards",
+                    "item_division_name": "Gaming",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 15,
+                    "item_rating": 4.4,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "USB DAC og eksternt lydkort",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "play! 3",
+                "produktserie": "creative sound blaster",
+                "garanti (måneder)": "24",
+                "ean": "5390660191275"
+            },
+            {
+                "caption": "lydutgang",
+                "type": "lydkort",
+                "lydmodus": "stereo",
+                "maks avlesningsfrekvens": "96 khz",
+                "formfaktor": "ekstern",
+                "grensesnittype": "usb",
+                "funksjoner": "sbx pro studio",
+                "signal-til-lydforhold": "93 db"
+            },
+            {
+                "caption": "programvare",
+                "type": "drivers & utilities"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 1 år"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "1 x mikrofon - 3,5 mm-minijakk, 1 x usb - 9-pins usb-type a, 1 x hodetelefon - 3,5 mm-minijakk"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "microsoft windows 7 / 8 / 8.1 / 10, apple macos x 10.9 eller nyere"
+            },
+            {
+                "caption": "systemkravdetaljer",
+                "systemkravdetaljer": "windows 7/8/8.1/10 - core 2 duo - 2.8 ghz - ram 1 gb - hd 600 mb, windows 7/8/8.1/10 - amd-flerkjerneprosessor - 2.8 ghz - ram 1 gb - hd 600 mb, macos x 10.9 - ram 1 gb - hd 600 mb"
+            }
+        ]
+    },
+    {
+        "productId": "833259",
+        "ecomm_prodid": "833259",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 509.0,
+        "ecomm_shelfPrice": 509.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "833259",
+                    "item_name": "Sound Blaster Audigy Fx Intern Lydkort",
+                    "price": 407.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Creative",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Lydkort",
+                    "quantity": 1,
+                    "item_manufacturer_number": "70SB157000000",
+                    "item_division_id": "44",
+                    "item_group_id": "45",
+                    "item_subgroup_id": "45-5",
+                    "item_group_name": "Sound",
+                    "item_subgroup_name": "Sound Cards",
+                    "item_division_name": "Gaming",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 19,
+                    "item_rating": 4.7,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "PCIe 1x, 5.1 kanals surround, hi fi, hodetelefonforsterker, SBX Pro, 106 dB SNR",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "creative sound blaster audigy",
+                "modell": "fx",
+                "garanti (måneder)": "24",
+                "ean": "5390660184635"
+            },
+            {
+                "caption": "lydutgang",
+                "formfaktor": "intern",
+                "dac-oppløsning": "24-bit",
+                "signal-til-lydforhold": "106 db",
+                "maks avlesningsfrekvens": "192 khz",
+                "grensesnittype": "pci express x1",
+                "type": "lydkort",
+                "funksjoner": "sbx pro studio",
+                "lydmodus": "5.1 surround",
+                "tilpassede standarder": "openal, eax advanced hd 5.0"
+            },
+            {
+                "caption": "systemkravdetaljer",
+                "systemkravdetaljer": "windows vista/7/8 - core 2 duo - 2.2 ghz - ram 1 gb - hd 600 mb"
+            },
+            {
+                "caption": "diverse",
+                "inkludert tilbehør": "lavprofilsbrakett"
+            },
+            {
+                "caption": "lydmoduser",
+                "lydmoduser": "avspilling: 24-bit 192 khz 5.1 - 106 db, avspilling: 24-bit 192 khz stereo - 106 db, ta opp: 24-bit 96 khz",
+                "kanaler": "5.1, stereo"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "1 x mikrofon - 3,5 mm-minijakk, 1 x hodetelefon - 3,5 mm-minijakk, 1 x høyttalere (bakre) - 3,5 mm-minijakk, 1 x høyttalere (senter/subbass) - 3,5 mm-minijakk, 1 x lydinnlinje - mini-phone stereo 3.5 mm"
+            },
+            {
+                "caption": "programvare",
+                "type": "creative alchemy, drivers & utilities, creative software suite, creative diagnostics"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "microsoft windows vista (32/64 bits), windows 8 (32/64 bits), microsoft windows 7 (32/64 bits)"
+            }
+        ]
+    },
+    {
+        "productId": "1100749",
+        "ecomm_prodid": "1100749",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 1899.0,
+        "ecomm_shelfPrice": 1899.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "1100749",
+                    "item_name": "Sound BlasterX G6 Eksternt Lydkort",
+                    "price": 1519.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Creative",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Lydkort",
+                    "quantity": 1,
+                    "item_manufacturer_number": "70SB177000000",
+                    "item_division_id": "44",
+                    "item_group_id": "45",
+                    "item_subgroup_id": "45-5",
+                    "item_group_name": "Sound",
+                    "item_subgroup_name": "Sound Cards",
+                    "item_division_name": "Gaming",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 27,
+                    "item_rating": 4.0,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "Hi-Res Gaming DAC og USB-lydkort til PS4, PC, Xbox og Nintendo Switch",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "creative sound blasterx",
+                "modell": "g6",
+                "garanti (måneder)": "24",
+                "ean": "5390660192241"
+            },
+            {
+                "caption": "lydutgang",
+                "signalprosessor": "sb-axx1",
+                "dac-oppløsning": "32-bit",
+                "lydmodus": "7.1 surround",
+                "formfaktor": "ekstern",
+                "type": "lydkort",
+                "grensesnittype": "usb 2.0",
+                "minimumsavlesningsfrekvens": "44.1 khz",
+                "maks avlesningsfrekvens": "384 khz",
+                "funksjoner": "xamp discrete headphone amplification, scout mode"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "mikro-usb-kabel"
+            },
+            {
+                "caption": "systemkravdetaljer",
+                "systemkravdetaljer": "core i3 ram 1 gb - hd 600 mb"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "11.1 cm",
+                "vekt": "144 g",
+                "bredde": "7 cm",
+                "høyde": "2.4 cm"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "1 x digital lydutgang (optisk) - 3,5 mm-minijakk / toslink, 1 x hodetelefon - 3,5 mm-minijakk, 1 x usb 2.0 - 5-pins micro-usb type b, 1 x mikrofon - 3,5 mm-minijakk, 1 x digital lydinngang (optisk) - 3,5 mm-minijakk / toslink"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "apple macos x 10.8 eller nyere, microsoft windows vista / 7 / 8 / 8.1 / 10"
+            }
+        ]
+    }
+]

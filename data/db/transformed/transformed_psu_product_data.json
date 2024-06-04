@@ -1,0 +1,4339 @@
+[
+    {
+        "name": "CORSAIR 12+4pin PCIe Gen 5 Type-4 600W 12VHPWR cable",
+        "description": "Flat ribbon, sort",
+        "sku": "1219687",
+        "mpn": "CP-8920284",
+        "producer": "Corsair",
+        "price": 199,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair",
+                "ean": "840006692898"
+            },
+            {
+                "caption": "kabel",
+                "venstrekontaktkjønn": "hunn",
+                "type venstrekontakt": "12vhpwr",
+                "kontakttype høyre": "8-pins pci express-strøm",
+                "antall kontakter høyre": "2",
+                "antall venstrekontakter": "1",
+                "kjønn høyre kontakt": "hunn",
+                "kabelunderkategori": "strøm",
+                "i/o-kabeltype": "strømkabel",
+                "kabelnøkkelfunksjoner": "inntil 600 w tdp, flat"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RM850x 850W PSU",
+        "description": "ATX12V v2.4, 80 PLUS Gold, Fully Modular",
+        "sku": "1197102",
+        "mpn": "CP-9020200-EU",
+        "producer": "Corsair",
+        "price": 1899,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "rm850x",
+                "produktserie": "corsair rmx series",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "840006603351"
+            },
+            {
+                "caption": "strømenhet",
+                "strømforsyningskompatibilitet": "pc/server",
+                "frekvens nødvendig": "47 - 63 hz",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "80 plus-sertifisering": "80 plus gold",
+                "modulkabelstyring": "ja",
+                "formfaktor": "intern",
+                "kjølesystem": "135 mm-vifte",
+                "psu-formfaktor": "atx",
+                "strømtilførsel": "850 watt",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "strømforsyningsenhetfunksjoner": "dc-dc-teknologi, overstrømbeskyttelse, overopphetingsbeskyttelse, null rpm viftemodus, kortslutningsbeskyttelse, overspenningsvern, llc resonant omformerteknologi, magnetisk hevingslager for kjølevifte, helt modulær"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "inkludert tilbehør": "kabelfestebånd"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "16 cm",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5v - 20 a, +12v - 70.8 a, +3.3v - 20 a, +5vsb - 3 a, -12v - 0.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 4-pin intern strøm, 6 x 8-pins pci express-strøm med avtakbar 2-pins del, 3 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 14 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel"
+            }
+        ]
+    },
+    {
+        "name": "MSI MEG AI1300P PCIE5 1300W PSU",
+        "description": "Full Modular, 80 PLUS Platinum, ATX 3.0",
+        "sku": "1221881",
+        "mpn": "MEG AI1300P PCIE5",
+        "producer": "MSI",
+        "price": 4316,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "msi",
+                "modell": "meg ai1300p pcie5",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4719072970260"
+            },
+            {
+                "caption": "strømenhet",
+                "formfaktor": "intern",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "modulkabelstyring": "ja",
+                "strømtilførsel": "1300 watt",
+                "psu-formfaktor": "atx",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "frekvens nødvendig": "50 - 60 hz",
+                "kjølesystem": "120 mm-vifte",
+                "80 plus-sertifisering": "80 plus platinum",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "effektivitet": "92%",
+                "strømforsyningsenhetfunksjoner": "underspenningsbeskyttelse, llc half bridge topology, overstrømbeskyttelse, overstrømsbeskyttelse, svitsjbare enkelt/multi 12 v-skinner, overopphetingsbeskyttelse, helt modulær, beskyttelseskappe, dc-dc-teknologi, overspenningsvern, kortslutningsbeskyttelse, kjølevifte med hydrodynamisk lager"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "tilpassede standarder": "bsmi",
+                "inkludert tilbehør": "kabelkammer, spindel"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm",
+                "vekt": "1.5 kg",
+                "dybde": "16 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "usb-a til mini-usb type b-kabel 60 cm, ac-inngangskabel - ekstern, 4-pins intern strømkabel, strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 60 cm, 4 x strøm 15-stifts sata-kabel, 16-stifts 12vhpwr til 2x8-stifts pci express-strømadapter 60 cm, 16-stifts 12vhpwr strømkabel 60 cm, mini usb til 9-stiftskabel 60 cm, modulkabel for 8-pins eps12v strøm, 6 x 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel, atx-strømkabel 60 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v1 - 40 a, +3.3v - 25 a, +12v3 - 50 a, +12v2 - 50 a, +12v5 - 50 a, +5v - 25 a, -12v - 0.3 a, +5vsb - 3 a, +12v4 - 50 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x 12+4-stifts pci express 5.0 strøm 650 w, 4 x 4-pin intern strøm, 1 x strøm 24-pins atx, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 16 x 15-pins seriell ata-strøm, 8 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks Revolt 1000W Platinum PSU (hvit)",
+        "description": "ATX 3.0, 80 PLUS Platinum, Fully Modular, uten kabler, Powered by Seasonic",
+        "sku": "1249043",
+        "mpn": "PH-P1000PR_WT01C",
+        "producer": "Phanteks",
+        "price": 3329,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24",
+                "ean": "886523510246"
+            }
+        ]
+    },
+    {
+        "name": "ASUS TUF GAMING 750B, 750W PSU",
+        "description": "ATX 12V, 80 PLUS Bronze, 4x 6&#x2B;2 pin PCIe, 8x SATA",
+        "sku": "1178910",
+        "mpn": "90YE00D0-B0NA00",
+        "producer": "ASUS",
+        "price": 1439,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus",
+                "modell": "tuf-gaming-750b",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4718017724029"
+            },
+            {
+                "caption": "strømenhet",
+                "strømforsyningskompatibilitet": "pc/server",
+                "psu-formfaktor": "atx",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "formfaktor": "intern",
+                "80 plus-sertifisering": "80 plus bronze",
+                "strømtilførsel": "750 watt",
+                "strømforsyningsenhetfunksjoner": "overstrømsbeskyttelse, axial-tech-viftedesign, ikke-moduær, kjølevifte med dobbeltkulelager, underspenningsbeskyttelse, overopphetingsbeskyttelse, overstrømbeskyttelse, kortslutningsbeskyttelse, 0db technology, overspenningsvern"
+            },
+            {
+                "caption": "diverse",
+                "inkludert tilbehør": "tuf gaming-klebeetikett",
+                "tilpassede standarder": "rohs",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "8.6 cm",
+                "bredde": "15 cm",
+                "dybde": "15 cm",
+                "vekt": "2.18 kg"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktvekt": "2.87 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 6 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 62 a, -12v - 0.8 a, +5v - 25 a, +3.3v - 25 a, +5vsb - 3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 24-pins atx med avtakbar 4-pinsdel, 8 x 15-pins seriell ata-strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 4 x 4-pin intern strøm"
+            }
+        ]
+    },
+    {
+        "name": "MSI MPG A1000G PCIE5 1000W PSU",
+        "description": "Full Modular, 80 PLUS Gold, ATX 3.0",
+        "sku": "1221882",
+        "mpn": "MPG A1000G PCIE5",
+        "producer": "MSI",
+        "price": 2420,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "mpg a1000g pcie5",
+                "produktserie": "msi",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4719072972196"
+            },
+            {
+                "caption": "strømenhet",
+                "psu-formfaktor": "atx",
+                "strømtilførsel": "1000 watt",
+                "effektivitet": "90%",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "frekvens nødvendig": "50 - 60 hz",
+                "kjølesystem": "120 mm-vifte",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "formfaktor": "intern",
+                "modulkabelstyring": "ja",
+                "80 plus-sertifisering": "80 plus gold",
+                "strømforsyningsenhetfunksjoner": "12 v-enkeltskinne, null rpm viftemodus, overstrømbeskyttelse, llc half bridge topology, overstrømsbeskyttelse, kortslutningsbeskyttelse, underspenningsbeskyttelse, helt modulær, overopphetingsbeskyttelse, kjølevifte med væskedynamisk lager, dc-dc-teknologi, overspenningsvern"
+            },
+            {
+                "caption": "diverse",
+                "inkludert tilbehør": "spindel",
+                "tilpassede standarder": "kc",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "vekt": "3.45 kg",
+                "dybde": "15 cm",
+                "høyde": "8.6 cm",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "4-pins intern strømkabel, 16-stifts 12vhpwr til 2x8-stifts pci express-strømadapter 60 cm, 2 x 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 60 cm, atx-strømkabel 60 cm, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 70 cm, ac-inngangskabel - ekstern, 3 x strøm 15-stifts sata-kabel, 16-stifts 12vhpwr strømkabel 60 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 83.5 a, +3.3v - 22 a, +5vsb - 3 a, -12v - 0.3 a, +5v - 22 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 24-pins atx, 5 x 4-pin intern strøm, 1 x 12+4-stifts pci express 5.0 strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 12 x 15-pins seriell ata-strøm, 6 x 8-pins pci express-strøm med avtakbar 2-pins del"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks  AMP 1000W PSU (sort)",
+        "description": "80&#x2B; Gold v2, Full Modular, Powered by Seasonic",
+        "sku": "1224817",
+        "mpn": "PH-P1000G_02",
+        "producer": "Phanteks",
+        "price": 2589,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "phanteks amp",
+                "modell": "ph-p1000g",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "24",
+                "ean": "886523510123"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "strømkabel - ekstern"
+            },
+            {
+                "caption": "strømenhet",
+                "kjølesystem": "120 mm-vifte",
+                "strømtilførsel": "1000 watt",
+                "frekvens nødvendig": "50 - 60 hz",
+                "spesifikasjonssamsvar": "atx",
+                "modulkabelstyring": "ja",
+                "spenningstilførsel": "5 / 3.3 / 12 / -12 v",
+                "psu-formfaktor": "atx",
+                "80 plus-sertifisering": "80 plus gold",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "formfaktor": "intern",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømforsyningsenhetfunksjoner": "beskyttelse mot nullastdrift, overstrømsbeskyttelse, forgylte terminaler, helt modulær, stille ytelse, overopphetingsbeskyttelse, multi-gpu technologies supported, kortslutningsbeskyttelse, overstrømbeskyttelse, tilbakestillings-strømbryter, kjølevifte med væskedynamisk lager, overspenningsvern, premium hybrid fan control"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "farge": "svart",
+                "mtbf": "100,000 timer",
+                "inkludert tilbehør": "kabelfestebånd, psu-pose, kabelpose, skruepakke"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "14 cm",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktdybde": "31 cm",
+                "frakthøyde": "11.5 cm",
+                "fraktbredde": "18 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "85 °c",
+                "driftsfuktighet": "0 - 95% rh (non-condensing)",
+                "min. driftstemperatur": "-45 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, -12v - 0.3 a, +3.3v - 25 a, +5v - 25 a, +12v - 83 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "3 x 6-stifts molex, 1 x 12vhpwr, 1 x strøm 8-pins +12 v med avtakbar 4-pinsdel, 1 x 4-pin intern strøm, 2 x 8-pins pci express-strøm med avtakbar 2-pins del, 10 x 6-stifts seriell ata-strøm, 1 x strøm 24-pins atx"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master Elite 500W 230v V4 PSU",
+        "description": "ATX 12V Ver. 2.41, 80 PLUS Standard 230V EU",
+        "sku": "1181842",
+        "mpn": "MPE-5001-ACABN-N1",
+        "producer": "Cooler Master",
+        "price": 849,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "mpe-5001-acabn",
+                "produktserie": "cooler master elite v4",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "24"
+            },
+            {
+                "caption": "strømenhet",
+                "80 plus-sertifisering": "80 plus",
+                "kjølesystem": "120 mm-vifte",
+                "påkrevd nettspenning": "ac 200-240 v",
+                "formfaktor": "intern",
+                "effektivitet": "85%",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømtilførsel": "500 watt",
+                "psu-formfaktor": "atx",
+                "spesifikasjonssamsvar": "atx12v 2.41/ eps12v",
+                "frekvens nødvendig": "50 - 60 hz",
+                "strømforsyningsenhetfunksjoner": "kortslutningsbeskyttelse, kjølevifte med muffelager, 12 v-enkeltskinne, ikke-moduær, underspenningsbeskyttelse, overstrømsbeskyttelse, overopphetingsbeskyttelse, overspenningsvern"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart",
+                "tilpassede standarder": "kcc, ctuvus, fcc, eac, erp lot 3 2014 ready, rcm, cb, tuv, ccc, bsmi"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "14 cm",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "9.6 cm",
+                "fraktbredde": "21.3 cm",
+                "fraktdybde": "19.5 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "3 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 3 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "40 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 14 a, +12v - 38 a, +5v - 16 a, +5vsb - 3 a, -12v - 0.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "3 x 4-pin intern strøm, 5 x 15-pins seriell ata-strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 2 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel"
+            }
+        ]
+    },
+    {
+        "name": "MSI MPG A750GF, 750W PSU",
+        "description": "ATX 12V, 80 PLUS GOLD, Fully-Modular",
+        "sku": "1171791",
+        "mpn": "306-7ZP0B11-CE0",
+        "producer": "MSI",
+        "price": 1987,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "msi",
+                "modell": "mpg a750gf",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "4719072754266"
+            },
+            {
+                "caption": "strømenhet",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "strømtilførsel": "750 watt",
+                "strømforsyningskompatibilitet": "pc/server",
+                "formfaktor": "intern",
+                "kjølesystem": "140 mm-vifte",
+                "modulkabelstyring": "ja",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "80 plus-sertifisering": "80 plus gold",
+                "frekvens nødvendig": "47 - 63 hz",
+                "effektivitet": "90%",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "psu-formfaktor": "atx",
+                "strømforsyningsenhetfunksjoner": "overstrømbeskyttelse, llc half bridge topology, overstrømsbeskyttelse, dc-dc-teknologi, kortslutningsbeskyttelse, overopphetingsbeskyttelse, helt modulær, underspenningsbeskyttelse, overspenningsvern"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "16 cm",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.3 a, +3.3v - 22 a, +12vmbph - 25 a, +5v - 22 a, +12vvga2 - 35 a, +12vvga1 - 35 a, +12vcpu - 25 a, +5vsb - 2.5 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "8 x 15-pins seriell ata-strøm, 6 x 8-pins pci express-strøm med avtakbar 2-pins del, 5 x 4-pin intern strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx"
+            }
+        ]
+    },
+    {
+        "name": "ASUS ROG Loki SFX-L 850W PSU",
+        "description": "ATX 3.0, 80Plus Platinum, ARGB",
+        "sku": "1218404",
+        "mpn": "90YE00N3-B0NA00",
+        "producer": "ASUS",
+        "price": 2968,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "loki sfx-l platinum",
+                "produktserie": "asus rog",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "4711081722557"
+            },
+            {
+                "caption": "strømenhet",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "effektivitet": "92%",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "80 plus-sertifisering": "80 plus platinum",
+                "kjølesystem": "120 mm-vifte",
+                "modulkabelstyring": "ja",
+                "strømtilførsel": "850 watt",
+                "psu-formfaktor": "sfx-l",
+                "spesifikasjonssamsvar": "atx 3.0 / sfx-l",
+                "formfaktor": "intern",
+                "strømforsyningsenhetfunksjoner": "kjølevifte med dobbeltkulelager, helt modulær, underspenningsbeskyttelse, rog-kjøle, overstrømbeskyttelse, overstrømsbeskyttelse, 0db technology, asus aura sync, axial-tech-viftedesign, overopphetingsbeskyttelse, overspenningsvern, kortslutningsbeskyttelse, argb-vifte"
+            },
+            {
+                "caption": "diverse",
+                "inkludert tilbehør": "sfx to atx bracket",
+                "tilpassede standarder": "rohs",
+                "fargekategori": "sølv, svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "12.5 cm",
+                "vekt": "1.815 kg",
+                "bredde": "12.5 cm",
+                "høyde": "6.35 cm"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 45 cm, 4-pins intern strømkabel, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 55 cm, 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 45 cm, 16-stifts 12vhpwr strømkabel 45 cm, argb-synkroniseringskabel 80 cm, 2 x 3x seriell ata-modulkabel, strøm 24-pins atx-modulkabel 45 cm, ac-inngangskabel - ekstern"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.8 a, +12v - 70.8 a, +5vsb - 2.5 a, +5v - 20 a, +3.3v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "3 x 8-pins pci express-strøm, 6 x 15-pins seriell ata-strøm, 4 x 4-pin intern strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x 16-stifts pci express-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - rgb led-er - 3 år, begrenset garanti - 10 år"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RM1000x 1000W PSU",
+        "description": "ATX12V v2.4, 80 PLUS Gold, Fully Modular",
+        "sku": "1197101",
+        "mpn": "CP-9020201-EU",
+        "producer": "Corsair",
+        "price": 2290,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair rmx series",
+                "modell": "rm1000x",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "840006604440"
+            },
+            {
+                "caption": "strømenhet",
+                "frekvens nødvendig": "47 - 63 hz",
+                "modulkabelstyring": "ja",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "kjølesystem": "135 mm-vifte",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "psu-formfaktor": "atx",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "formfaktor": "intern",
+                "80 plus-sertifisering": "80 plus gold",
+                "strømtilførsel": "1000 watt",
+                "strømforsyningsenhetfunksjoner": "overstrømbeskyttelse, overspenningsvern, overopphetingsbeskyttelse, kortslutningsbeskyttelse, null rpm viftemodus, helt modulær, magnetisk hevingslager for kjølevifte, llc resonant omformerteknologi, dc-dc-teknologi"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "inkludert tilbehør": "kabelfestebånd"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "dybde": "18 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.3 a, +5v - 20 a, +12v - 83.3 a, +5vsb - 3 a, +3.3v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "14 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 3 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 8 x 4-pin intern strøm, 6 x 8-pins pci express-strøm med avtakbar 2-pins del"
+            }
+        ]
+    },
+    {
+        "name": "ASUS TUF Gaming 750W Gold PSU",
+        "description": "ATX12V, 80Plus Gold, Modular",
+        "sku": "1218393",
+        "mpn": "90YE00S3-B0NA00",
+        "producer": "ASUS",
+        "price": 1499,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus tuf gaming",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4711081786733"
+            },
+            {
+                "caption": "strømenhet",
+                "modulkabelstyring": "ja",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "80 plus-sertifisering": "80 plus gold",
+                "formfaktor": "intern",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "psu-formfaktor": "atx",
+                "strømtilførsel": "750 watt",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningsenhetfunksjoner": "overopphetingsbeskyttelse, overstrømbeskyttelse, overspenningsvern, axial-tech-viftedesign, kjølevifte med dobbeltkulelager, overstrømsbeskyttelse, kortslutningsbeskyttelse, underspenningsbeskyttelse, helt modulær"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "tilpassede standarder": "rohs",
+                "inkludert tilbehør": "kabelfestebånd"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "8.6 cm",
+                "dybde": "15 cm",
+                "bredde": "15 cm",
+                "vekt": "2.38 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "2 x strøm 15-stifts sata-kabel, ac-inngangskabel - ekstern, atx-strømkabel 61 cm, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 65 cm, 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 67.5 cm, 16-stifts 12vhpwr strømkabel 67.5 cm, 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 67.5 cm, 4-pins intern strømkabel"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, +3.3v - 25 a, -12v - 0.8 a, +12v - 62 a, +5v - 25 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 4-pin intern strøm, 5 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 3 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x 16-stifts pci express-strøm"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master MWE Bronze 750 230V V2",
+        "description": "750W V2 230V / 80Plus Bronze / 120mm fan / DC-DC &#x2B; LLC / EU C",
+        "sku": "1187691",
+        "mpn": "MPE-7501-ACABW-BEU",
+        "producer": "Cooler Master",
+        "price": 1319,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "750",
+                "produktserie": "cooler master mwe bronze v2",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "60",
+                "ean": "4719512104552"
+            },
+            {
+                "caption": "strømenhet",
+                "spesifikasjonssamsvar": "atx12v 2.52/ eps12v",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "frekvens nødvendig": "50 - 60 hz",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "strømtilførsel": "750 watt",
+                "effektivitet": "88%",
+                "påkrevd nettspenning": "ac 200-240 v",
+                "kjølesystem": "120 mm-vifte",
+                "formfaktor": "intern",
+                "80 plus-sertifisering": "80 plus bronze",
+                "strømforsyningskompatibilitet": "pc/server",
+                "psu-formfaktor": "atx",
+                "strømforsyningsenhetfunksjoner": "overspenningsvern, overopphetingsbeskyttelse, kjølevifte med hydrodynamisk lager, overstrømsbeskyttelse, ikke-moduær, 12 v-enkeltskinne, underspenningsbeskyttelse, kortslutningsbeskyttelse, dc-dc-teknologi"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "cb, bsmi, tuv rh, ctuvus, rcm, fcc, kc, erp lot 3 2014 ready, ccc, eac"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "8.6 cm",
+                "dybde": "14 cm",
+                "vekt": "1.272 kg",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktbredde": "24.5 cm",
+                "frakthøyde": "11 cm",
+                "fraktvekt": "1.67 kg",
+                "fraktdybde": "19 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "5 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5v - 20 a, +12v - 62 a, -12v - 0.3 a, +5vsb - 3 a, +3.3v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "3 x 4-pin intern strøm, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 24-pins atx, 1 x strøm 8-pins eps12v, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 6 x 15-pins seriell ata-strøm"
+            }
+        ]
+    },
+    {
+        "name": "ASUS ROG THOR 1200W Platinum II PSU",
+        "description": "80Plus Platinum, ARGB, 100-240Vac, Modular",
+        "sku": "1224808",
+        "mpn": "90YE00L0-B0NA00",
+        "producer": "ASUS",
+        "price": 4379,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "rog-thor-1200p2-gaming",
+                "produktserie": "asus",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4711081236061"
+            },
+            {
+                "caption": "strømenhet",
+                "modulkabelstyring": "ja",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "kjølesystem": "135 mm-vifte",
+                "strømtilførsel": "1200 watt",
+                "80 plus-sertifisering": "80 plus platinum",
+                "spesifikasjonssamsvar": "atx12v",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "formfaktor": "intern",
+                "psu-formfaktor": "atx",
+                "strømforsyningsenhetfunksjoner": "termobeskyttelse, overspenningsvern, helt modulær, overstrømbeskyttelse, rog-kjøle, underspenningsbeskyttelse, asus aura sync, kortslutningsbeskyttelse, overstrømsbeskyttelse, oled-display, axial-tech-viftedesign, lambda a++ certification"
+            },
+            {
+                "caption": "diverse",
+                "tilpassede standarder": "rohs",
+                "inkludert tilbehør": "6 x rog-kabellisser, 12 kabellisser, rog-klistremerke",
+                "fargekategori": "sølv, svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "dybde": "19 cm",
+                "høyde": "8.6 cm",
+                "vekt": "2.37 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 25 a, -12v - 0.3 a, +5vsb - 3 a, +5v - 25 a, +12v - 100 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "6 x 4-pin intern strøm, 2 x strøm 8-pins +12 v med avtakbar 4-pinsdel, 1 x 16-stifts pci express-strøm, 8 x 8-pins pci express-strøm med avtakbar 2-pins del, 12 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel"
+            }
+        ]
+    },
+    {
+        "name": "Corsair AX1600i, 1600W PSU",
+        "description": "ATX Digital, 80 PLUS Titanium, Modular, 8x 6&#x2B;2-pin PCIe, 16x SATA, 9x Molex",
+        "sku": "979698",
+        "mpn": "CP-9020087-EU",
+        "producer": "Corsair",
+        "price": 6511,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "ax1600i",
+                "produktserie": "corsair",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "843591050319"
+            },
+            {
+                "caption": "strømenhet",
+                "modulkabelstyring": "ja",
+                "frekvens nødvendig": "50 - 60 hz",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "psu-formfaktor": "atx",
+                "80 plus-sertifisering": "80 plus titanium",
+                "strømtilførsel": "1600 watt",
+                "spesifikasjonssamsvar": "atx12v 2.4/ eps12v 2.92",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "kjølesystem": "140 mm-vifte",
+                "formfaktor": "intern",
+                "effektivitet": "94%+",
+                "strømforsyningsenhetfunksjoner": "helt modulær, kjølevifte med væskedynamisk lager, otem-pole pfc gallium nitride (gan)-transistorer, null rpm viftemodus, overstrømbeskyttelse, manuell selvtest, viftehastighetskontroll"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "inkludert tilbehør": "kabelpose, monteringssett, borrelåsstropp, magnetiske sideetiketter, boksskilt, mikro usb-kabel, kabelfestebånd",
+                "egenskaper": "muffekabler, corsair link digital"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm",
+                "vekt": "2.65 kg",
+                "dybde": "20 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "15.9 cm",
+                "fraktvekt": "5.15 kg",
+                "fraktbredde": "39.8 cm",
+                "fraktdybde": "21.9 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3.5 a, +12v - 133.3 a, -12v - 0.8 a, +3.3v - 30 a, +5v - 30 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "5 x 15-pins seriell ata-strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 2 x 4-pin mini-strømkontakt, 3 x 4-pin intern strøm, 8 x 8-pins pci express-strøm med avtakbar 2-pins del"
+            }
+        ]
+    },
+    {
+        "name": "ASUS ROG Loki SFX-L 1000W PSU",
+        "description": "ATX 3.0, 80Plus Platinum, ARGB",
+        "sku": "1218408",
+        "mpn": "90YE00N1-B0NA00",
+        "producer": "ASUS",
+        "price": 3099,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus rog",
+                "modell": "loki sfx-l",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4711081721901"
+            },
+            {
+                "caption": "strømenhet",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "formfaktor": "intern",
+                "strømforsyningskompatibilitet": "pc/server",
+                "modulkabelstyring": "ja",
+                "psu-formfaktor": "atx",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømtilførsel": "1000 watt",
+                "spesifikasjonssamsvar": "atx 3.0 / sfx-l",
+                "80 plus-sertifisering": "80 plus platinum",
+                "strømforsyningsenhetfunksjoner": "argb-vifte, axial-tech-viftedesign, asus aura sync, kortslutningsbeskyttelse, helt modulær, underspenningsbeskyttelse, overopphetingsbeskyttelse, rog-kjøle, overstrømsbeskyttelse, overspenningsvern, kjølevifte med dobbeltkulelager, overstrømbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "tilpassede standarder": "rohs",
+                "inkludert tilbehør": "sfx to atx bracket",
+                "fargekategori": "svart, sølv"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "6.35 cm",
+                "bredde": "12.5 cm",
+                "vekt": "1.83 kg",
+                "dybde": "12.5 cm"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "argb-synkroniseringskabel 80 cm, 2 x 3x seriell ata-modulkabel 60 cm, 16-stifts 12vhpwr strømkabel 45 cm, 16-stifts 12vhpwr til 2x8-stifts pci express-strømadapter 45 cm, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 55 cm, strøm 24-pins atx-modulkabel 45 cm, ac-inngangskabel - ekstern"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 20 a, +5vsb - 2.5 a, +12v - 83.3 a, -12v - 0.8 a, +5v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x 16-stifts pci express-strøm, 3 x 8-pins pci express-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 4 x 4-pin intern strøm, 6 x 15-pins seriell ata-strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år, begrenset garanti - rgb led-er - 3 år"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master MWE Gold 650W V2 PSU",
+        "description": "ATX 12V, 80 PLUS Gold, Fully Modular, 4x 6&#x2B;2-pin PCIe",
+        "sku": "1176418",
+        "mpn": "MPE-6501-AFAAG-EU",
+        "producer": "Cooler Master",
+        "price": 1294,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "650",
+                "produktserie": "cooler master mwe gold v2",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "60",
+                "ean": "4719512105597"
+            },
+            {
+                "caption": "strømenhet",
+                "80 plus-sertifisering": "80 plus gold",
+                "formfaktor": "intern",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "frekvens nødvendig": "50/60 hz",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømtilførsel": "650 watt",
+                "inngangsspenningsverdiområde": "ac 90 - 264 v",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "effektivitet": "90%",
+                "strømforsyningskompatibilitet": "pc/server",
+                "kjølesystem": "120 mm-vifte",
+                "modulkabelstyring": "ja",
+                "psu-formfaktor": "atx",
+                "strømforsyningsenhetfunksjoner": "helt modulær, kjølevifte med hydrodynamisk lager"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "fcc, ccc, eac, tuv rheinland"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "14 cm",
+                "bredde": "15 cm",
+                "vekt": "2.17 kg",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktvekt": "2.57 kg",
+                "frakthøyde": "12 cm",
+                "fraktbredde": "31 cm",
+                "fraktdybde": "19.4 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "50 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.3 a, +5v - 20 a, +3.3v - 20 a, +5vsb - 3 a, +12v - 54.1 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v, 4 x 4-pin intern strøm, 8 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks AMP GH Komplett Edition 1200W 80+ Platinum PSU",
+        "description": "ATX 3.0, 80 PLUS Platinum, Fully Modular",
+        "sku": "1246889",
+        "mpn": "PH-P1200GH_BK_NO",
+        "producer": "Phanteks",
+        "price": 2549,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "ean": "886523510161"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks AMP GH Komplett Edition 1000W 80+ Platinum PSU",
+        "description": "ATX 3.0, 80 PLUS Platinum, Fully Modular",
+        "sku": "1246890",
+        "mpn": "PH-P1000GH_BK_NO",
+        "producer": "Phanteks",
+        "price": 2199,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "ean": "886523510154"
+            }
+        ]
+    },
+    {
+        "name": "ASUS TUF Gaming 1000W Gold PSU",
+        "description": "ATX12V, 80Plus Gold, Modular",
+        "sku": "1218388",
+        "mpn": "90YE00S1-B0NA00",
+        "producer": "ASUS",
+        "price": 2499,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus tuf gaming",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4711081786412"
+            },
+            {
+                "caption": "strømenhet",
+                "spesifikasjonssamsvar": "atx12v",
+                "modulkabelstyring": "ja",
+                "formfaktor": "intern",
+                "strømforsyningskompatibilitet": "pc/server",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "80 plus-sertifisering": "80 plus gold",
+                "psu-formfaktor": "atx",
+                "strømtilførsel": "1000 watt",
+                "strømforsyningsenhetfunksjoner": "helt modulær, kjølevifte med dobbeltkulelager, overstrømbeskyttelse, kortslutningsbeskyttelse, axial-tech-viftedesign, overstrømsbeskyttelse, overspenningsvern, underspenningsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "inkludert tilbehør": "kabelfestebånd",
+                "tilpassede standarder": "rohs"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "vekt": "2.48 kg",
+                "dybde": "15 cm",
+                "høyde": "8.6 cm",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5v - 25 a, -12v - 0.8 a, +5vsb - 3 a, +3.3v - 25 a, +12v - 83.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 4-pin intern strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 1 x 16-stifts pci express-strøm, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 5 x 15-pins seriell ata-strøm"
+            }
+        ]
+    },
+    {
+        "name": "ASUS TUF Gaming 850W Gold PSU",
+        "description": "ATX12V, 80Plus Gold, Modular",
+        "sku": "1218392",
+        "mpn": "90YE00S2-B0NA00",
+        "producer": "ASUS",
+        "price": 1909,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus tuf gaming",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "4711081786573"
+            },
+            {
+                "caption": "strømenhet",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "formfaktor": "intern",
+                "80 plus-sertifisering": "80 plus gold",
+                "psu-formfaktor": "atx",
+                "spesifikasjonssamsvar": "atx12v",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømtilførsel": "850 watt",
+                "modulkabelstyring": "ja",
+                "strømforsyningsenhetfunksjoner": "overstrømbeskyttelse, axial-tech-viftedesign, kortslutningsbeskyttelse, overstrømsbeskyttelse, kjølevifte med dobbeltkulelager, helt modulær, overspenningsvern, underspenningsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "tilpassede standarder": "rohs",
+                "inkludert tilbehør": "kabelfestebånd"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "vekt": "2.38 kg",
+                "dybde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.8 a, +3.3v - 25 a, +12v - 70.8 a, +5v - 25 a, +5vsb - 3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 3 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x 16-stifts pci express-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 5 x 15-pins seriell ata-strøm, 4 x 4-pin intern strøm"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master MWE Gold 850 V2 PSU",
+        "description": "ATX 12V, 80 PLUS Gold, Fully Modular, 4x 6&#x2B;2-pin PCIe",
+        "sku": "1176417",
+        "mpn": "MPE-8501-AFAAG-EU",
+        "producer": "Cooler Master",
+        "price": 1549,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "cooler master mwe gold v2",
+                "modell": "850",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "60",
+                "ean": "4719512106310"
+            },
+            {
+                "caption": "strømenhet",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømtilførsel": "850 watt",
+                "inngangsspenningsverdiområde": "ac 90 - 264 v",
+                "modulkabelstyring": "ja",
+                "frekvens nødvendig": "50/60 hz",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "formfaktor": "intern",
+                "psu-formfaktor": "atx",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "80 plus-sertifisering": "80 plus gold",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "kjølesystem": "120 mm-vifte",
+                "effektivitet": "90%",
+                "strømforsyningsenhetfunksjoner": "helt modulær, kjølevifte med hydrodynamisk lager"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "ccc, eac, tuv rheinland, fcc"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "dybde": "16 cm",
+                "høyde": "8.6 cm",
+                "vekt": "2.17 kg"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktbredde": "31 cm",
+                "fraktdybde": "19.4 cm",
+                "fraktvekt": "2.57 kg",
+                "frakthøyde": "12 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "50 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 20 a, +5v - 20 a, +12v - 70.8 a, +5vsb - 3 a, -12v - 0.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 4-pin intern strøm, 1 x strøm 24-pins atx, 12 x 15-pins seriell ata-strøm, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 8-pins eps12v"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RMe Series RM750e PSU",
+        "description": "ATX12V v2.4, 80 PLUS Gold, Fully Modular, inkl 12VHPWR GPU-kabel",
+        "sku": "1224874",
+        "mpn": "CP-9020262-EU",
+        "producer": "Corsair",
+        "price": 1379,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair rme series",
+                "modell": "rm750e",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "24",
+                "ean": "840006699347"
+            },
+            {
+                "caption": "strømenhet",
+                "frekvens nødvendig": "47 - 63 hz",
+                "effektivitet": "90%",
+                "80 plus-sertifisering": "80 plus gold",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømtilførsel": "750 watt",
+                "formfaktor": "intern",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "spenningstilførsel": "+3.3, +5, +12 v",
+                "kjølesystem": "120 mm-vifte",
+                "psu-formfaktor": "atx",
+                "modulkabelstyring": "ja",
+                "strømforsyningsenhetfunksjoner": "modern standby-kompatibel, helt modulær, llc half bridge topology, null rpm viftemodus, kjølevifte med riflelager, dc-dc-teknologi"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "14 cm",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "7 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 7 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 65 cm, 4-pins intern strømkabel, atx-strømkabel 61 cm, ac-inngangskabel - ekstern, 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 60 cm, 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 75 cm, 16-stifts 12vhpwr strømkabel 65 cm, 2 x strøm 15-stifts sata-kabel 80 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, +5v - 20 a, -12v - 0.3 a, +12v - 62.5 a, +3.3v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x 12vhpwr, 3 x 8-pins pci express-strøm med avtakbar 2-pins del, 7 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx, 4 x 4-pin intern strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RMe Series RM1000e PSU",
+        "description": "ATX12V v2.4, 80 PLUS Gold, Fully Modular",
+        "sku": "1224871",
+        "mpn": "CP-9020264-EU",
+        "producer": "Corsair",
+        "price": 2129,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "rm1000e",
+                "produktserie": "corsair rme series",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "24",
+                "ean": "840006699750"
+            },
+            {
+                "caption": "strømenhet",
+                "strømtilførsel": "1000 watt",
+                "modulkabelstyring": "ja",
+                "psu-formfaktor": "atx",
+                "80 plus-sertifisering": "80 plus gold",
+                "effektivitet": "90%",
+                "formfaktor": "intern",
+                "spenningstilførsel": "+3.3, +5, +12 v",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "kjølesystem": "120 mm-vifte",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "frekvens nødvendig": "47 - 63 hz",
+                "strømforsyningsenhetfunksjoner": "kjølevifte med riflelager, llc half bridge topology, helt modulær, modern standby-kompatibel, dc-dc-teknologi, null rpm viftemodus"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "14 cm",
+                "høyde": "8.6 cm",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "7 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 7 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "16-stifts 12vhpwr strømkabel 65 cm, 2 x 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 60 cm, 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 75 cm, 2 x strøm 15-stifts sata-kabel 80 cm, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 65 cm, 4-pins intern strømkabel, ac-inngangskabel - ekstern, atx-strømkabel 61 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 20 a, +5v - 20 a, +12v - 83.3 a, +5vsb - 3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "6 x 8-pins pci express-strøm med avtakbar 2-pins del, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 7 x 15-pins seriell ata-strøm, 1 x 12vhpwr, 1 x strøm 24-pins atx, 4 x 4-pin intern strøm"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RMe Series RM850e PSU",
+        "description": "ATX12V v2.4, 80 PLUS Gold, Fully Modular",
+        "sku": "1224870",
+        "mpn": "CP-9020263-EU",
+        "producer": "Corsair",
+        "price": 1049,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "rm850e",
+                "produktserie": "corsair rme series",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "24",
+                "ean": "840006699545"
+            },
+            {
+                "caption": "strømenhet",
+                "psu-formfaktor": "atx",
+                "frekvens nødvendig": "47 - 63 hz",
+                "80 plus-sertifisering": "80 plus gold",
+                "modulkabelstyring": "ja",
+                "spenningstilførsel": "+3.3, +5, +12 v",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "kjølesystem": "120 mm-vifte",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "effektivitet": "90%",
+                "formfaktor": "intern",
+                "strømtilførsel": "850 watt",
+                "strømforsyningsenhetfunksjoner": "modern standby-kompatibel, llc half bridge topology, null rpm viftemodus, dc-dc-teknologi, kjølevifte med riflelager, helt modulær"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "14 cm",
+                "høyde": "8.6 cm",
+                "vekt": "1.519 kg",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "7 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 7 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "ac-inngangskabel - ekstern, 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 65 cm, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 65 cm, 4-pins intern strømkabel 75 cm, 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 75 cm, strøm 15-stifts sata-kabel 80 cm, 16-stifts 12vhpwr strømkabel 65 cm, atx-strømkabel 61 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, +3.3v - 20 a, +12v - 70.8 a, +5v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 4-pin intern strøm, 1 x 12vhpwr, 1 x strøm 24-pins atx, 7 x 15-pins seriell ata-strøm, 3 x 8-pins pci express-strøm med avtakbar 2-pins del, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RM750x 750W PSU",
+        "description": "ATX12V v2.4, 80 PLUS Gold, Fully Modular",
+        "sku": "1197103",
+        "mpn": "CP-9020199-EU",
+        "producer": "Corsair",
+        "price": 1657,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "rm750x",
+                "produktserie": "corsair rmx series",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "840006603641"
+            },
+            {
+                "caption": "strømenhet",
+                "strømtilførsel": "750 watt",
+                "frekvens nødvendig": "47 - 63 hz",
+                "formfaktor": "intern",
+                "modulkabelstyring": "ja",
+                "80 plus-sertifisering": "80 plus gold",
+                "psu-formfaktor": "atx",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "kjølesystem": "135 mm-vifte",
+                "strømforsyningsenhetfunksjoner": "overspenningsvern, kortslutningsbeskyttelse, dc-dc-teknologi, null rpm viftemodus, helt modulær, magnetisk hevingslager for kjølevifte, overstrømbeskyttelse, overopphetingsbeskyttelse, llc resonant omformerteknologi"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "inkludert tilbehør": "kabelfestebånd"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "16 cm",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 62.5 a, +3.3v - 20 a, +5vsb - 3 a, -12v - 0.3 a, +5v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 4 x 4-pin intern strøm, 10 x 15-pins seriell ata-strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            }
+        ]
+    },
+    {
+        "name": "MSI MPG A850G PCIE5 850W PSU",
+        "description": "Full Modular, 80 PLUS Gold, ATX 3.0",
+        "sku": "1221883",
+        "mpn": "MPG A850G PCIE5",
+        "producer": "MSI",
+        "price": 1732,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "mpg a850g pcie5",
+                "produktserie": "msi",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4719072972189"
+            },
+            {
+                "caption": "strømenhet",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "effektivitet": "90%",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "80 plus-sertifisering": "80 plus gold",
+                "modulkabelstyring": "ja",
+                "frekvens nødvendig": "50 - 60 hz",
+                "strømtilførsel": "850 watt",
+                "psu-formfaktor": "atx",
+                "kjølesystem": "135 mm-vifte",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "formfaktor": "intern",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømforsyningsenhetfunksjoner": "dc-dc-teknologi, kjølevifte med væskedynamisk lager, 12 v-enkeltskinne, underspenningsbeskyttelse, helt modulær, overstrømbeskyttelse, kortslutningsbeskyttelse, overspenningsvern, overopphetingsbeskyttelse, overstrømsbeskyttelse, llc half bridge topology, null rpm viftemodus"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "tilpassede standarder": "kc",
+                "inkludert tilbehør": "spindel"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "8.6 cm",
+                "dybde": "15 cm",
+                "bredde": "15 cm",
+                "vekt": "3.24 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "atx-strømkabel 60 cm, 16-stifts 12vhpwr strømkabel 60 cm, 4-pins intern strømkabel, 2 x 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 60 cm, strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 70 cm, 3 x strøm 15-stifts sata-kabel, ac-inngangskabel - ekstern, 16-stifts 12vhpwr til 2x8-stifts pci express-strømadapter 60 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 70.8 a, +5v - 22 a, -12v - 0.3 a, +5vsb - 3 a, +3.3v - 22 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x 12+4-stifts pci express 5.0 strøm 650 w, 1 x strøm 24-pins atx, 1 x 4-pin intern strøm, 8 x 15-pins seriell ata-strøm, 4 x 4-pin intern strøm, 6 x 8-pins pci express-strøm med avtakbar 2-pins del"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RM1000x Shift 1000W PSU",
+        "description": "ATX 12V 2.53, 80 PLUS Gold, Modular",
+        "sku": "1223224",
+        "mpn": "CP-9020253-EU",
+        "producer": "Corsair",
+        "price": 2416,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "rm1000x shift",
+                "produktserie": "corsair rmx series",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "840006653899"
+            },
+            {
+                "caption": "strømenhet",
+                "spenningstilførsel": "+3.3, +5, +12 v",
+                "strømtilførsel": "1000 watt",
+                "modulkabelstyring": "ja",
+                "formfaktor": "intern",
+                "frekvens nødvendig": "47 - 63 hz",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v 2.92",
+                "80 plus-sertifisering": "80 plus gold",
+                "psu-formfaktor": "atx",
+                "effektivitet": "90%",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "kjølesystem": "140 mm-vifte",
+                "strømforsyningsenhetfunksjoner": "null rpm viftemodus, llc resonant omformerteknologi, helt modulær, kortslutningsbeskyttelse, overopphetingsbeskyttelse, overstrømsbeskyttelse, kjølevifte med væskedynamisk lager, overspenningsvern, modern standby-kompatibel, overstrømbeskyttelse, sidekoblinger, dc-dc-teknologi"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart",
+                "tilpassede standarder": "en 55032:2015+a11:2020, rohs, en iec 61000-3-2:2019+a1:2021, en/iec 63000:2018, emc, en 61000-3-3:2013+a1:2019, en iec 62368-1:2020+a11:2020, lvd, en 55035:2017+a11:2020",
+                "inkludert tilbehør": "monteringsskrue, kabelfestebånd"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "vekt": "1.9 kg",
+                "høyde": "8.6 cm",
+                "dybde": "18 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "12.9 cm",
+                "fraktbredde": "21.4 cm",
+                "fraktdybde": "30.2 cm",
+                "fraktvekt": "3.8 kg"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "4 x strøm 15-stifts sata-kabel 80 cm, 16-stifts 12vhpwr strømkabel 65 cm, 2 x strøm 8-stifts eps12v med avtakbar 4-stifts atx12v seksjonsmodulær kabel 65 cm, strøm 24-pins atx-modulkabel 61 cm, ac-inngangskabel, 3 x 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 65 cm, 2 x 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 75 cm, 2 x 4-pins intern strømkabel 75 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 83.3 a, +5vsb - 3 a, +5v - 20 a, +3.3v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "16 x 15-pins seriell ata-strøm, 1 x 12vhpwr, 8 x 4-pin intern strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 2 x 2 x 8-stifts pci express-strøm med avtakbar 2-stifts del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 3 x 8-pins pci express-strøm med avtakbar 2-pins del"
+            }
+        ]
+    },
+    {
+        "name": "ASUS ROG THOR 1600W Titanium PSU",
+        "description": "ATX 12V, 80Plus Titanium, Fully Modular",
+        "sku": "1225319",
+        "mpn": "90YE00K0-B0NA00",
+        "producer": "ASUS",
+        "price": 8180,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus",
+                "modell": "rog-thor-1600t-gaming",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "4711081198390"
+            },
+            {
+                "caption": "strømenhet",
+                "kjølesystem": "135 mm-vifte",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "psu-formfaktor": "atx",
+                "modulkabelstyring": "ja",
+                "spesifikasjonssamsvar": "atx12v",
+                "strømtilførsel": "1600 watt",
+                "formfaktor": "intern",
+                "80 plus-sertifisering": "80 plus titanium",
+                "strømforsyningsenhetfunksjoner": "overspenningsvern, helt modulær, lambda a++ certification, termobeskyttelse, gallium nitride (gan), asus aura sync, overstrømbeskyttelse, kortslutningsbeskyttelse, oled-display, overstrømsbeskyttelse, rog-kjøle, digital power control (dpc), underspenningsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "egenskaper": "muffekabler",
+                "tilpassede standarder": "c-tick, bsmi, eac, weee, cb, fcc, tuv sud, ccc, rohs, kcc, is13252",
+                "fargekategori": "svart, sølv",
+                "inkludert tilbehør": "spindel, rog-klistremerke, 6 x rog-kabellisser, 12 kabellisser"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm",
+                "vekt": "2.69 kg",
+                "dybde": "19 cm"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "argb-synkroniseringskabel - ekstern, ac-inngangskabel - ekstern"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.3 a, +5v - 20 a, +12v - 133.3 a, +3.3v - 20 a, +5vsb - 3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 24-pins atx med avtakbar 4-pinsdel, 10 x 8-pins pci express-strøm med avtakbar 2-pins del, 12 x 15-pins seriell ata-strøm, 1 x 16-stifts pci express-strøm, 6 x 4-pin intern strøm, 2 x strøm 8-pins +12 v med avtakbar 4-pinsdel"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - oled-panel - 3 år, begrenset garanti - 10 år, begrenset garanti - rgb led-er - 3 år"
+            }
+        ]
+    },
+    {
+        "name": "ASUS ROG THOR 1000W Platinum II PSU",
+        "description": "ATX 12V, 80Plus Platinum, Fully Modular",
+        "sku": "1225320",
+        "mpn": "90YE00L4-B0NA00",
+        "producer": "ASUS",
+        "price": 4032,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "thor platinum ii",
+                "produktserie": "asus rog",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4711081746294"
+            },
+            {
+                "caption": "strømenhet",
+                "formfaktor": "intern",
+                "strømforsyningskompatibilitet": "pc/server",
+                "modulkabelstyring": "ja",
+                "kjølesystem": "135 mm-vifte",
+                "spesifikasjonssamsvar": "atx12v",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "effektivitet": "92%",
+                "strømtilførsel": "1000 watt",
+                "psu-formfaktor": "atx",
+                "80 plus-sertifisering": "80 plus platinum",
+                "strømforsyningsenhetfunksjoner": "underspenningsbeskyttelse, termobeskyttelse, kjølevifte med dobbeltkulelager, kortslutningsbeskyttelse, overstrømsbeskyttelse, oled-display, rog-kjøle, 0db technology, asus aura sync, lambda a++ certification, overspenningsvern, axial-tech-viftedesign, overstrømbeskyttelse, helt modulær"
+            },
+            {
+                "caption": "diverse",
+                "egenskaper": "muffekabler",
+                "inkludert tilbehør": "kabelkammer, spindel, 6 x rog-kabellisser, rog-klistremerke, 12 kabellisser",
+                "fargekategori": "sølv, svart",
+                "tilpassede standarder": "cb, fcc, weee, eac, rohs, c-tick, ccc, tuv sud"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "vekt": "2.37 kg",
+                "dybde": "19 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "3 x seriell ata-kabel, ac-inngangskabel - ekstern, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 65 cm, 2 x 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel, 2 x 4-pins intern strømkabel, argb-synkroniseringskabel, 4 x 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 67.5 cm, 16-stifts 12vhpwr strømkabel 67.5 cm, strøm 24-stifts atx med avtakbar 4-stifts modulær kabel 61 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 83 a, +5v - 25 a, +5vsb - 3 a, +3.3v - 25 a, -12v - 0.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 1 x 12-stifts pci express-strøm, 12 x 15-pins seriell ata-strøm, 8 x 8-pins pci express-strøm med avtakbar 2-pins del"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - oled-panel - 3 år, begrenset garanti - rgb led-er - 3 år, begrenset garanti - 10 år"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks Revolt 850W SFX PSU",
+        "description": "80&#x2B; Platinum, ATX 3.0, SFX, Full Modular, Powered by Seasonic",
+        "sku": "1243327",
+        "mpn": "PH-P850PSF_02",
+        "producer": "Phanteks",
+        "price": 2599,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24",
+                "ean": "886523510116"
+            }
+        ]
+    },
+    {
+        "name": "Corsair HXi Series HX1500i 1500W PSU",
+        "description": "ATX 3.0, 80 PLUS Platinum, Fully Modular",
+        "sku": "1245622",
+        "mpn": "CP-9020261-EU",
+        "producer": "Corsair",
+        "price": 4099,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "hx1500i",
+                "produktserie": "corsair hxi series",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "840006697442"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "1 x usb-c"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "strømkabelsett"
+            },
+            {
+                "caption": "programvare",
+                "type": "corsair icue"
+            },
+            {
+                "caption": "strømenhet",
+                "psu-formfaktor": "atx",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "80 plus-sertifisering": "80 plus platinum",
+                "frekvens nødvendig": "47 - 63 hz",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "modulkabelstyring": "ja",
+                "formfaktor": "intern",
+                "strømtilførsel": "1500 watt",
+                "strømforsyningskompatibilitet": "pc/server",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "kjølesystem": "140 mm-vifte",
+                "strømforsyningsenhetfunksjoner": "high quality capacitor, overvåking av viftehastigheten, helt modulær, cybenetics a-, magnetisk hevingslager for kjølevifte, null rpm viftemodus, multi-gpu technologies supported, cybenetics platinum, kjølevifte med væskedynamisk lager"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart",
+                "inkludert tilbehør": "spindel, kabelfestebånd"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "vekt": "4.6 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5v - 25 a, +12v - 125 a, +3.3v - 25 a, +5vsb - 3.5 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "3 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 1 x 10-stifts usb-c, 9 x 8-pins pci express-strøm med avtakbar 2-pins del, 8 x 15-pins seriell ata-strøm, 8 x 4-pin intern strøm"
+            }
+        ]
+    },
+    {
+        "name": "ASUS TUF Gaming 1200W Gold PSU",
+        "description": "ATX12V, 80plus gold, Modular",
+        "sku": "1246021",
+        "mpn": "90YE00S0-B0NA00",
+        "producer": "ASUS",
+        "price": 3391,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus tuf gaming",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "4711081786252"
+            },
+            {
+                "caption": "strømenhet",
+                "strømtilførsel": "1200 watt",
+                "effektivitet": "92%",
+                "modulkabelstyring": "ja",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "formfaktor": "intern",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "80 plus-sertifisering": "80 plus gold",
+                "strømforsyningskompatibilitet": "pc/server",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "psu-formfaktor": "atx",
+                "kjølesystem": "135 mm-vifte",
+                "strømforsyningsenhetfunksjoner": "overstrømbeskyttelse, helt modulær, underspenningsbeskyttelse, overstrømsbeskyttelse, sertifisering av militær klasse, beskyttende pcb-belegg, overspenningsvern, kortslutningsbeskyttelse, overopphetingsbeskyttelse, kjølevifte med dobbeltkulelager, axial-tech-viftedesign"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "inkludert tilbehør": "kabelfestebånd",
+                "mtbf": "170,000 timer",
+                "tilpassede standarder": "rohs"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "dybde": "15 cm",
+                "høyde": "8.6 cm",
+                "vekt": "2.66 kg"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "3x seriell ata-modulkabel, ac-inngangskabel - ekstern, 16-stifts 12vhpwr strømkabel 67.5 cm, 4-pins intern strømkabel, modulkabel for 8-pins eps12v strøm 67.5 cm, 16-stifts 12vhpwr til 2x8-stifts pci express-strømadapter 67.5 cm, strøm 24-stifts atx med avtakbar 4-stifts modulær kabel 61 cm, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 65 cm, 2x seriell ata-modulkabel"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, +3.3v - 25 a, +5v - 25 a, +12v - 99 a, -12v - 0.8 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "3 x 8-pins pci express-strøm, 1 x 16-stifts pci express-strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 4 x 4-pin intern strøm, 5 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks Revolt 1200W Platinum PSU (svart)",
+        "description": "ATX 3.0, 80 PLUS Platinum, Fully Modular, uten kabler, Powered by Seasonic",
+        "sku": "1249041",
+        "mpn": "PH-P1200PR_BK01C",
+        "producer": "Phanteks",
+        "price": 3869,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24",
+                "ean": "886523510215"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks Revolt 1000W Platinum PSU (sort)",
+        "description": "ATX 3.0, 80 PLUS Platinum, Fully Modular, uten kabler, Powered by Seasonic",
+        "sku": "1249042",
+        "mpn": "PH-P1000PR_BK01C",
+        "producer": "Phanteks",
+        "price": 2662,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24",
+                "ean": "886523510239"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks Revolt 1200W Platinum PSU (hvit)",
+        "description": "ATX 3.0, 80 PLUS Platinum, Fully Modular, uten kabler, Powered by Seasonic",
+        "sku": "1249044",
+        "mpn": "PH-P1200PR_WT01C",
+        "producer": "Phanteks",
+        "price": 3869,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24",
+                "ean": "886523510222"
+            }
+        ]
+    },
+    {
+        "name": "Akasa G-Nexus PX16 extension cable",
+        "description": "90 Degree 12VHPWR extension cable, 12&#x2B;4&#x2010;Pin male to 12&#x2B;4&#x2010;Pin fem.Up to 600W",
+        "sku": "1301681",
+        "mpn": "AK-CBPW32-30BK",
+        "producer": "Akasa",
+        "price": 249,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24",
+                "ean": "4710679552767"
+            }
+        ]
+    },
+    {
+        "name": "be quiet! Dark Power Pro 13 1600W PSU",
+        "description": "ATX 3.0, 80 PLUS Titanium, Fully Modular",
+        "sku": "1253151",
+        "mpn": "BN332",
+        "producer": "Be Quiet",
+        "price": 5590,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "1600w",
+                "produktserie": "be quiet! dark power pro 13",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "4260052189375"
+            },
+            {
+                "caption": "strømenhet",
+                "strømforsyningskompatibilitet": "pc/server",
+                "80 plus-sertifisering": "80 plus titanium",
+                "psu-formfaktor": "atx",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v 2.92",
+                "påkrevd nettspenning": "ac 115-240 v",
+                "effektfaktor (pf)": "0.99",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "modulkabelstyring": "ja",
+                "kjølesystem": "135 mm-vifte",
+                "frekvens nødvendig": "50 - 60 hz",
+                "formfaktor": "intern",
+                "strømtilførsel": "1600 watt",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "effektivitet": "92.6% at 10% load (230 vac), 94.5% at 50% load (230 vac), 73.7% at 2% load (230 vac), 94.2% at 20% load (230 vac), 92.2% at 100% load (230vac)",
+                "strømforsyningsenhetfunksjoner": "overstrømbeskyttelse, overopphetingsbeskyttelse, overspenningsvern, seks 12 v-skinner, kjølevifte med væskedynamisk lager, underspenningsbeskyttelse, overstrømsbeskyttelse, kortslutningsbeskyttelse, surge & inrush protection (sip)"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart",
+                "farge": "svart",
+                "inkludert tilbehør": "spindel, kabelfestebånd",
+                "tilpassede standarder": "rcm, triman, ukca, weee, rohs, ctuvus, bsmi, cb, fcc, tuv"
+            },
+            {
+                "caption": "miljøstandarder",
+                "energy star": "ja"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "vekt": "2.44 kg",
+                "dybde": "20 cm",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktvekt": "6.9 kg",
+                "fraktdybde": "41.7 cm",
+                "frakthøyde": "15.2 cm",
+                "fraktbredde": "25.3 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "50 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.5 a, +5vsb - 3.5 a, +12v2 - 40 a, +12v1 - 40 a, +5v - 25 a, +12v3 - 45 a, +12v5 - 55 a, +3.3v - 25 a, +12v6 - 55 a, +12v4 - 45 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 4+4 stifter, 16 x 15-pins seriell ata-strøm, 6 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 5 x parallel ata, 1 x strøm p8, 2 x 12vhpwr"
+            }
+        ]
+    },
+    {
+        "name": "be quiet! Straight Power 12 1000W PSU",
+        "description": "ATX 3.0, 80 PLUS Platinum, Fully Modular",
+        "sku": "1253152",
+        "mpn": "BN338",
+        "producer": "Be Quiet",
+        "price": 3069,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "be quiet! straight power 12",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "4260052189436"
+            },
+            {
+                "caption": "strømenhet",
+                "effektfaktor (pf)": "0.99",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v 2.92",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "frekvens nødvendig": "50 - 60 hz",
+                "strømtilførsel": "1000 watt",
+                "kjølesystem": "135 mm-vifte",
+                "formfaktor": "intern",
+                "strømforsyningskompatibilitet": "pc/server",
+                "psu-formfaktor": "atx",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "modulkabelstyring": "ja",
+                "80 plus-sertifisering": "80 plus platinum",
+                "strømforsyningsenhetfunksjoner": "high quality capacitor, kjølevifte med væskedynamisk lager",
+                "effektivitet": "64% at 2% load (230 vac), 88.1% at 10% load (230 vac), 93.9% at 50% load (230 vac), 91.8% at 100% load (230 vac), 92.2% at 20% load (230 vac)"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart",
+                "farge": "svart",
+                "tilpassede standarder": "weee, triman, rcm, ctuvus, cb, rohs, fcc, tuv, ukca, bsmi",
+                "inkludert tilbehør": "kabelfestebånd, spindel"
+            },
+            {
+                "caption": "miljøstandarder",
+                "energy star": "ja"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "vekt": "1.85 kg",
+                "høyde": "8.6 cm",
+                "dybde": "16 cm",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "10.2 cm",
+                "fraktbredde": "24.8 cm",
+                "fraktvekt": "3.56 kg",
+                "fraktdybde": "32.8 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "40 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.5 a, +5vsb - 3 a, +3.3v - 25 a, +5v - 25 a, +12v - 83.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x 12vhpwr, 9 x 15-pins seriell ata-strøm, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins +12 v med avtakbar 4-pinsdel, 1 x strøm 8-pins eps12v, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 2 x parallel ata"
+            }
+        ]
+    },
+    {
+        "name": "Corsair CX Series CX650 650 Watt PSU",
+        "description": "80 PLUS Bronze, Low-Noise Cooling, Compact",
+        "sku": "1253265",
+        "mpn": "CP-9020278-EU",
+        "producer": "Corsair",
+        "price": 819,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair cx series",
+                "modell": "cx650",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "36",
+                "ean": "840006670896"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "ac-strømkabel"
+            },
+            {
+                "caption": "strømenhet",
+                "strømforsyningskompatibilitet": "pc/server",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "frekvens nødvendig": "47 - 63 hz",
+                "formfaktor": "intern",
+                "effektivitet": "88%",
+                "spenningstilførsel": "+3.3, +5, +12 v",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "kjølesystem": "120 mm-vifte",
+                "strømtilførsel": "650 watt",
+                "psu-formfaktor": "atx",
+                "80 plus-sertifisering": "80 plus bronze"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "inkludert tilbehør": "monteringsskrue",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "dybde": "12.5 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5v - 20 a, +12v - 52 a, +5vsb - 3 a, +3.3v - 24 a, -12v - 0.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 24-pins atx med avtakbar 4-pinsdel, 3 x 15-pins seriell ata-strøm, 2 x 4-pin intern strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 2 x 8-pins pci express-strøm med avtakbar 2-pins del"
+            }
+        ]
+    },
+    {
+        "name": "Corsair CX Series CX550 550 Watt PSU",
+        "description": "80 PLUS Bronze, Low-Noise Cooling, Compact",
+        "sku": "1253268",
+        "mpn": "CP-9020277-EU",
+        "producer": "Corsair",
+        "price": 720,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "cx550",
+                "produktserie": "corsair cx series",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "36",
+                "ean": "840006670773"
+            },
+            {
+                "caption": "strømenhet",
+                "formfaktor": "intern",
+                "spesifikasjonssamsvar": "atx",
+                "kjølesystem": "120 mm-vifte",
+                "80 plus-sertifisering": "80 plus bronze",
+                "strømtilførsel": "550 watt",
+                "psu-formfaktor": "atx",
+                "strømforsyningskompatibilitet": "pc/server"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "15 cm",
+                "bredde": "12.5 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "3 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x 8-pins pci express-strøm med avtakbar 2-pins del, 2 x parallel ata"
+            }
+        ]
+    },
+    {
+        "name": "Corsair CX Series CX750 750 Watt PSU",
+        "description": "80 PLUS Bronze, Low-Noise Cooling, Compact",
+        "sku": "1253273",
+        "mpn": "CP-9020279-EU",
+        "producer": "Corsair",
+        "price": 999,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "cx750",
+                "produktserie": "corsair cx series",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "36",
+                "ean": "840006671015"
+            },
+            {
+                "caption": "strømenhet",
+                "effektivitet": "88%",
+                "strømforsyningskompatibilitet": "pc/server",
+                "kjølesystem": "120 mm-vifte",
+                "psu-formfaktor": "atx",
+                "formfaktor": "intern",
+                "strømtilførsel": "750 watt",
+                "80 plus-sertifisering": "80 plus bronze",
+                "spesifikasjonssamsvar": "atx12v"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "8.6 cm",
+                "dybde": "12.5 cm",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 24-pins atx, 3 x 15-pins seriell ata-strøm, 1 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 2 x 4-pin mini-strømkontakt, 2 x 2 x 8-stifts pci express-strøm med avtakbar 2-stifts del"
+            }
+        ]
+    },
+    {
+        "name": "Corsair HX1200i 1200W PSU",
+        "description": "ATX12V 3.0, 80 PLUS Platinum, Fully Modular,",
+        "sku": "1305544",
+        "mpn": "CP-9020281-EU",
+        "producer": "Corsair",
+        "price": 3590,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair hxi series",
+                "modell": "hx1200i",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "72",
+                "ean": "840006671589"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "strømkabelsett"
+            },
+            {
+                "caption": "strømenhet",
+                "psu-formfaktor": "atx",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "formfaktor": "intern",
+                "effektivitet": "92%",
+                "strømtilførsel": "1200 watt",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "spesifikasjonssamsvar": "atx12v 3.0",
+                "strømforsyningskompatibilitet": "pc/server",
+                "80 plus-sertifisering": "80 plus platinum",
+                "kjølesystem": "140 mm-vifte",
+                "modulkabelstyring": "ja",
+                "frekvens nødvendig": "47 - 63 hz",
+                "strømforsyningsenhetfunksjoner": "overstrømbeskyttelse, kortslutningsbeskyttelse, null rpm viftemodus, overspenningsvern, underspenningsbeskyttelse, overvåking av viftehastigheten, helt modulær, kjølevifte med væskedynamisk lager"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "tilpassede standarder": "pcie 5.0",
+                "egenskaper": "corsair link",
+                "inkludert tilbehør": "spindel, kabelfestebånd, strømkabel"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "vekt": "2 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5v - 25 a, +5vsb - 3 a, +12v - 100 a, +3.3v - 25 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 8 x 15-pins seriell ata-strøm, 1 x 10-stifts usb-c, 4 x 2 x 6+2 stifts pci express-strøm, 8 x 4-pin mini-strømkontakt, 1 x 12+4-stifts pci express 5.0 strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel"
+            }
+        ]
+    },
+    {
+        "name": "ASUS ROG STRIX 1000W Gold Aura Edition PSU",
+        "description": "ATX12V, 80Plus Gold, ARGB, Modular",
+        "sku": "1224811",
+        "mpn": "90YE00P1-B0NA00",
+        "producer": "ASUS",
+        "price": 2319,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "strix",
+                "produktserie": "asus rog",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4711081721703"
+            },
+            {
+                "caption": "strømenhet",
+                "80 plus-sertifisering": "80 plus gold",
+                "strømforsyningskompatibilitet": "pc/server",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "psu-formfaktor": "atx",
+                "formfaktor": "intern",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "modulkabelstyring": "ja",
+                "strømtilførsel": "1000 watt",
+                "kjølesystem": "135 mm-vifte",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningsenhetfunksjoner": "overstrømsbeskyttelse, axial-tech-viftedesign, rog-kjøle, asus aura sync, kortslutningsbeskyttelse, overspenningsvern, overopphetingsbeskyttelse, aluminiumshus, kjølevifte med dobbeltkulelager, 0db vifteknapp, underspenningsbeskyttelse, overstrømbeskyttelse, helt modulær"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "tilpassede standarder": "pcie, rohs"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "8.6 cm",
+                "dybde": "18 cm",
+                "bredde": "15 cm",
+                "vekt": "3.03 kg"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "strøm 24-stifts atx med avtakbar 4-stifts modulær kabel 60 cm, 3x seriell ata-modulkabel, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 65 cm, 2 x 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 70 cm, 2x seriell ata-modulkabel, argb-synkroniseringskabel 80 cm, 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 70 cm, 4-pins intern strømkabel, ac-inngangskabel - ekstern, 16-stifts 12vhpwr strømkabel 70 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, +12v - 83.3 a, +5v - 22 a, -12v - 0.3 a, +3.3v - 22 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 4-pin intern strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 5 x 15-pins seriell ata-strøm, 4 x 8-pins pci express-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 1 x 16-stifts pci express-strøm"
+            }
+        ]
+    },
+    {
+        "name": "MSI MAG A550BN, 550w PSU",
+        "description": "ATX, 80 PLUS Bronze",
+        "sku": "1206121",
+        "mpn": "4719072849603",
+        "producer": "MSI",
+        "price": 741,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "60",
+                "ean": "4719072849603"
+            }
+        ]
+    },
+    {
+        "name": "ASUS ROG STRIX 850W Gold Aura Edition PSU",
+        "description": "ATX12V, 80Plus Gold, ARGB, Modular",
+        "sku": "1224813",
+        "mpn": "90YE00P2-B0NA00",
+        "producer": "ASUS",
+        "price": 2064,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus rog",
+                "modell": "strix",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4711081722014"
+            },
+            {
+                "caption": "strømenhet",
+                "modulkabelstyring": "ja",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømtilførsel": "850 watt",
+                "80 plus-sertifisering": "80 plus gold",
+                "strømforsyningskompatibilitet": "pc/server",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "kjølesystem": "135 mm-vifte",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "psu-formfaktor": "atx",
+                "formfaktor": "intern",
+                "strømforsyningsenhetfunksjoner": "asus aura sync, overstrømbeskyttelse, kortslutningsbeskyttelse, overopphetingsbeskyttelse, aluminiumshus, kjølevifte med dobbeltkulelager, 0db vifteknapp, helt modulær, underspenningsbeskyttelse, rog-kjøle, overstrømsbeskyttelse, axial-tech-viftedesign, overspenningsvern"
+            },
+            {
+                "caption": "diverse",
+                "tilpassede standarder": "rohs",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "18 cm",
+                "høyde": "8.6 cm",
+                "bredde": "15 cm",
+                "vekt": "2.728 kg"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "ac-inngangskabel - ekstern, 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 70 cm, 16-stifts 12vhpwr strømkabel 70 cm, strøm 24-stifts atx med avtakbar 4-stifts modulær kabel 60 cm, 3x seriell ata-modulkabel, 2x seriell ata-modulkabel, 4-pins intern strømkabel, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 65 cm, 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 70 cm, argb-synkroniseringskabel 80 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 70.8 a, +5vsb - 3 a, +3.3v - 22 a, +5v - 22 a, -12v - 0.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 24-pins atx med avtakbar 4-pinsdel, 5 x 15-pins seriell ata-strøm, 3 x 8-pins pci express-strøm, 1 x 16-stifts pci express-strøm, 4 x 4-pin intern strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master MWE Gold 550 V2 PSU",
+        "description": "ATX 12V, 80 PLUS Gold, Fully Modular, 2x 6&#x2B;2-pin PCIe",
+        "sku": "1176422",
+        "mpn": "MPE-5501-AFAAG-EU",
+        "producer": "Cooler Master",
+        "price": 885,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "550",
+                "produktserie": "cooler master mwe gold v2",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "60",
+                "ean": "4719512105412"
+            },
+            {
+                "caption": "strømenhet",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "modulkabelstyring": "ja",
+                "psu-formfaktor": "atx",
+                "strømtilførsel": "550 watt",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "inngangsspenningsverdiområde": "ac 90 - 264 v",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "frekvens nødvendig": "50/60 hz",
+                "formfaktor": "intern",
+                "80 plus-sertifisering": "80 plus gold",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "effektivitet": "90%",
+                "strømforsyningskompatibilitet": "pc/server",
+                "kjølesystem": "120 mm-vifte",
+                "strømforsyningsenhetfunksjoner": "helt modulær, kjølevifte med hydrodynamisk lager"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "fcc, ccc, tuv rheinland, eac"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "vekt": "1.92 kg",
+                "dybde": "14 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktdybde": "19.4 cm",
+                "fraktvekt": "2.52 kg",
+                "frakthøyde": "12 cm",
+                "fraktbredde": "31 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "5 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "50 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 20 a, +12v - 45.8 a, -12v - 0.3 a, +5vsb - 3 a, +5v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 8-pins eps12v, 2 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 8 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx, 4 x 4-pin intern strøm"
+            }
+        ]
+    },
+    {
+        "name": "ASUS ROG STRIX 12VHPWR kabel for Nvidia",
+        "description": "12&#x2B;4-pin kabel for din ASUS ROG STRIX PSU",
+        "sku": "1244658",
+        "mpn": "90YE00L5-B0XB00",
+        "producer": "ASUS",
+        "price": 289,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "120"
+            }
+        ]
+    },
+    {
+        "name": "Corsair Premium 600W PCIe 5.0 / Gen 5 Kabel (hvit)",
+        "description": "Sleeved 12&#x2B;4pin, PCIe Gen 5, 12VHPWR, 600W, Type 4",
+        "sku": "1221801",
+        "mpn": "CP-8920332",
+        "producer": "Corsair",
+        "price": 339,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair",
+                "modell": "premium individually sleeved (type 4, generation 5)",
+                "garanti (måneder)": "24",
+                "ean": "840006694526"
+            },
+            {
+                "caption": "kabel",
+                "kontakttype høyre": "8-pins pci express-strøm",
+                "i/o-kabeltype": "strømkabel",
+                "kabelunderkategori": "strøm",
+                "kabelnøkkelfunksjoner": "flat",
+                "antall venstrekontakter": "1",
+                "venstrekontaktkjønn": "hunn",
+                "type venstrekontakt": "12vhpwr",
+                "kjønn høyre kontakt": "hunn",
+                "antall kontakter høyre": "2",
+                "kabelfunksjoner": "med hylser, maksimal belastning 600 w"
+            },
+            {
+                "caption": "diverse",
+                "farge": "hvit",
+                "fargekategori": "hvit"
+            }
+        ]
+    },
+    {
+        "name": "Akasa G-Nexus P16 Adapter",
+        "description": "90 Degree 12VHPWR Adapter, 12&#x2B;4Pin male to 12&#x2B;4Pin fem.Up to 600W of power.",
+        "sku": "1301549",
+        "mpn": "AK-CBPW29-BK",
+        "producer": "Akasa",
+        "price": 149,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24",
+                "ean": "4710679552736"
+            }
+        ]
+    },
+    {
+        "name": "Corsair Premium 600W PCIe 5.0 / Gen 5 Kabel (sort)",
+        "description": "Sleeved 12&#x2B;4pin, PCIe Gen 5, 12VHPWR, 600W, Type 4",
+        "sku": "1221800",
+        "mpn": "CP-8920331",
+        "producer": "Corsair",
+        "price": 309,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair",
+                "modell": "premium individually sleeved (type 4, generation 5)",
+                "garanti (måneder)": "24",
+                "ean": "840006694519"
+            },
+            {
+                "caption": "kabel",
+                "antall venstrekontakter": "1",
+                "kjønn høyre kontakt": "hunn",
+                "antall kontakter høyre": "2",
+                "i/o-kabeltype": "strømkabel",
+                "kabelunderkategori": "strøm",
+                "type venstrekontakt": "12vhpwr",
+                "kabelnøkkelfunksjoner": "flat",
+                "venstrekontaktkjønn": "hunn",
+                "kontakttype høyre": "8-pins pci express-strøm",
+                "kabelfunksjoner": "med hylser, maksimal belastning 600 w"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "farge": "svart"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks Revolt 1600W Titanium PSU (sort)",
+        "description": "ATX 3.0, 80 PLUS Titanium, Fully Modular, uten kabler, Powered by Seasonic",
+        "sku": "1249040",
+        "mpn": "PH-P1600TR_BK01C",
+        "producer": "Phanteks",
+        "price": 3899,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24",
+                "ean": "886523510147"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RM750x Shift 750W PSU",
+        "description": "ATX 12V 2.53, 80 PLUS Gold, Modular",
+        "sku": "1223223",
+        "mpn": "CP-9020251-EU",
+        "producer": "Corsair",
+        "price": 1499,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair rmx series",
+                "modell": "rm750x shift",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "840006653592"
+            },
+            {
+                "caption": "strømenhet",
+                "frekvens nødvendig": "47 - 63 hz",
+                "modulkabelstyring": "ja",
+                "spenningstilførsel": "+3.3, +5, +12 v",
+                "effektivitet": "90%",
+                "formfaktor": "intern",
+                "strømforsyningskompatibilitet": "pc/server",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v 2.92",
+                "psu-formfaktor": "atx",
+                "strømtilførsel": "750 watt",
+                "kjølesystem": "140 mm-vifte",
+                "80 plus-sertifisering": "80 plus gold",
+                "strømforsyningsenhetfunksjoner": "null rpm viftemodus, modern standby-kompatibel, overspenningsvern, dc-dc-teknologi, helt modulær, overopphetingsbeskyttelse, overstrømsbeskyttelse, kortslutningsbeskyttelse, overstrømbeskyttelse, sidekoblinger, kjølevifte med væskedynamisk lager, llc resonant omformerteknologi"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "en 55035:2017+a11:2020, emc, en iec 62368-1:2020+a11:2020, en 61000-3-3:2013+a1:2019, en iec 61000-3-2:2019+a1:2021, lvd, en 55032:2015+a11:2020, rohs, en/iec 63000:2018",
+                "inkludert tilbehør": "kabelfestebånd, monteringsskrue"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "16 cm",
+                "vekt": "1.6 kg",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktbredde": "21.4 cm",
+                "frakthøyde": "12.9 cm",
+                "fraktdybde": "30.2 cm",
+                "fraktvekt": "3.2 kg"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "2 x strøm 8-stifts eps12v med avtakbar 4-stifts atx12v seksjonsmodulær kabel 65 cm, 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 65 cm, 3 x strøm 15-stifts sata-kabel 80 cm, strøm 24-pins atx-modulkabel 61 cm, 16-stifts 12vhpwr strømkabel 65 cm, 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 75 cm, 4-pins intern strømkabel 75 cm, ac-inngangskabel"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, +3.3v - 20 a, +12v - 62.5 a, +5v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x 8-pins pci express-strøm med avtakbar 2-pins del, 12 x 15-pins seriell ata-strøm, 2 x 2 x 8-stifts pci express-strøm med avtakbar 2-stifts del, 4 x 4-pin intern strøm, 1 x 12vhpwr, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master XG850 Plus Platinum 850W PSU",
+        "description": "ATX 12V Ver. 2.53, Full Modular, &#x2264; 25 dBA",
+        "sku": "1218372",
+        "mpn": "MPG-8501-AFBAP-XEU",
+        "producer": "Cooler Master",
+        "price": 2890,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "xg850 plus",
+                "produktserie": "cooler master",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4719512112076"
+            },
+            {
+                "caption": "strømenhet",
+                "påkrevd nettspenning": "ac 90-264 v",
+                "modulkabelstyring": "ja",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "effektivitet": "92%",
+                "kjølesystem": "135 mm-vifte",
+                "formfaktor": "intern",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "spesifikasjonssamsvar": "atx12v 2.53 / eps12v",
+                "frekvens nødvendig": "47 - 63 hz",
+                "strømforsyningskompatibilitet": "pc/server",
+                "psu-formfaktor": "atx",
+                "strømtilførsel": "850 watt",
+                "80 plus-sertifisering": "80 plus platinum",
+                "strømforsyningsenhetfunksjoner": "overspenningsvern, kjølevifte med væskedynamisk lager, overopphetingsbeskyttelse, kortslutningsbeskyttelse, impuls- og innkoplingsstrømstøtvern, overstrømsbeskyttelse, argb-vifte, helt modulær, overstrømbeskyttelse, underspenningsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "fcc, ctuvus, ccc, kcc, bsmi, tuv, eac, cb, rcm, erp lot 3 2014 ready"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "dybde": "16 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "12.5 cm",
+                "fraktbredde": "30 cm",
+                "fraktdybde": "21.4 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "50 °c",
+                "min. driftstemperatur": "0 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 20 a, +5vsb - 3 a, +5v - 20 a, +12v - 70.8 a, -12v - 0.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 4-pin intern strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 6 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v, 12 x 15-pins seriell ata-strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            }
+        ]
+    },
+    {
+        "name": "ASUS TUF Gaming 650W Bronze PSU",
+        "description": "100-240Vac,MB 24/20-pin x1, CPU 4&#x2B;4-pin x2, PCI-E 6&#x2B;2-pin x4, SATA x5, Periplher",
+        "sku": "1218389",
+        "mpn": "90YE00D1-B0NA00",
+        "producer": "ASUS",
+        "price": 1399,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus",
+                "modell": "tuf-gaming-650b",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "72",
+                "ean": "4718017724159"
+            },
+            {
+                "caption": "strømenhet",
+                "strømtilførsel": "650 watt",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "psu-formfaktor": "atx",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "80 plus-sertifisering": "80 plus bronze",
+                "formfaktor": "intern",
+                "strømforsyningsenhetfunksjoner": "0db technology, kortslutningsbeskyttelse, kjølevifte med dobbeltkulelager, overspenningsvern, overstrømsbeskyttelse, axial-tech-viftedesign, overopphetingsbeskyttelse, overstrømbeskyttelse, ikke-moduær, underspenningsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "inkludert tilbehør": "tuf gaming-klebeetikett",
+                "tilpassede standarder": "rohs"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "8.6 cm",
+                "bredde": "15 cm",
+                "vekt": "2.06 kg",
+                "dybde": "15 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktvekt": "2.75 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 6 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 51 a, +3.3v - 25 a, +5v - 25 a, +5vsb - 3 a, -12v - 0.8 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 24-pins atx med avtakbar 4-pinsdel, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 5 x 15-pins seriell ata-strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 4 x 4-pin intern strøm"
+            }
+        ]
+    },
+    {
+        "name": "Corsair Premium PCIe 4.0 x16 Extension Kabel 300mm",
+        "description": "90 grader vinkel, EMI beskyttelse",
+        "sku": "1221592",
+        "mpn": "CC-9310001-WW",
+        "producer": "Corsair",
+        "price": 1139,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "premium extension",
+                "produktserie": "corsair",
+                "garanti (måneder)": "24",
+                "ean": "840006643227"
+            },
+            {
+                "caption": "kabel",
+                "kabelunderkategori": "annen",
+                "antall kontakter høyre": "1",
+                "høyre kontaktdesign": "90°-høyrevinklet",
+                "kjønn høyre kontakt": "hunn",
+                "kontakttype høyre": "pci express 4.0 x16",
+                "venstrekontaktkjønn": "hann",
+                "antall venstrekontakter": "1",
+                "type venstrekontakt": "pci express 4.0 x16",
+                "i/o-kabeltype": "pci express x16-kabel"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "lengde": "30 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "2 års garanti"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks Revolt 1600W Titanium incl cables",
+        "description": "ATX 3.0, 80 PLUS Titanium, Fully Modular, 2 x 12VHPWR, Made by Seasonic",
+        "sku": "1253099",
+        "mpn": "PH-P1600TR_BK01C-B",
+        "producer": "Phanteks",
+        "price": 7249,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "12"
+            }
+        ]
+    },
+    {
+        "name": "be quiet! Dark Power Pro 13 1300W PSU",
+        "description": "ATX 3.0, 80 PLUS Titanium, Fully Modular",
+        "sku": "1253148",
+        "mpn": "BN331",
+        "producer": "Be Quiet",
+        "price": 5235,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "1300w",
+                "produktserie": "be quiet! dark power pro 13",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4260052189368"
+            },
+            {
+                "caption": "strømenhet",
+                "frekvens nødvendig": "50 - 60 hz",
+                "strømforsyningskompatibilitet": "pc/server",
+                "modulkabelstyring": "ja",
+                "psu-formfaktor": "atx",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v 2.92",
+                "effektfaktor (pf)": "0.99",
+                "strømtilførsel": "1300 watt",
+                "formfaktor": "intern",
+                "påkrevd nettspenning": "ac 115-240 v",
+                "80 plus-sertifisering": "80 plus titanium",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "kjølesystem": "135 mm-vifte",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningsenhetfunksjoner": "kjølevifte med væskedynamisk lager, underspenningsbeskyttelse, surge & inrush protection (sip), overstrømsbeskyttelse, overspenningsvern, overopphetingsbeskyttelse, overstrømbeskyttelse, kortslutningsbeskyttelse, seks 12 v-skinner",
+                "effektivitet": "93.6% at 20% load (230 vac), 92.8% at 100% load (230vac), 94.4% at 50% load (230 vac), 73.1% at 2% load (230 vac), 91.6% at 10% load (230 vac)"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "farge": "svart",
+                "mtbf": "100,000 timer",
+                "inkludert tilbehør": "spindel, kabelfestebånd",
+                "tilpassede standarder": "weee, ukca, rcm, cb, rohs, tuv, bsmi, triman, ctuvus, fcc"
+            },
+            {
+                "caption": "miljøstandarder",
+                "energy star": "ja"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "20 cm",
+                "høyde": "8.6 cm",
+                "vekt": "2.41 kg",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "15.2 cm",
+                "fraktvekt": "6.8 kg",
+                "fraktdybde": "41.7 cm",
+                "fraktbredde": "25.3 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "50 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v2 - 35 a, +5vsb - 3.5 a, +12v4 - 40 a, +3.3v - 25 a, +12v5 - 55 a, +12v3 - 40 a, +12v6 - 55 a, +5v - 25 a, +12v1 - 35 a, -12v - 0.5 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "5 x parallel ata, 1 x strøm 4+4 stifter, 6 x 8-pins pci express-strøm med avtakbar 2-pins del, 16 x 15-pins seriell ata-strøm, 1 x strøm p8, 2 x 12vhpwr, 1 x strøm 24-pins atx med avtakbar 4-pinsdel"
+            }
+        ]
+    },
+    {
+        "name": "be quiet! System Power 10 450W PSU",
+        "description": "80 PLUS Bronze",
+        "sku": "1249767",
+        "mpn": "BN326",
+        "producer": "Be Quiet",
+        "price": 569,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "450w",
+                "produktserie": "be quiet! system power 10",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "60",
+                "ean": "4260052189061"
+            },
+            {
+                "caption": "strømenhet",
+                "formfaktor": "intern",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømtilførsel": "450 watt",
+                "strømforsyningsenhetfunksjoner": "12 v-enkeltskinne",
+                "psu-formfaktor": "atx",
+                "80 plus-sertifisering": "80 plus bronze",
+                "effektivitet": "88.5%",
+                "kjølesystem": "120 mm-vifte",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "spesifikasjonssamsvar": "atx12v 2.51",
+                "påkrevd nettspenning": "ac 200-240 v",
+                "frekvens nødvendig": "50 hz"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart",
+                "tilpassede standarder": "tuv rheinland, eac, erp"
+            },
+            {
+                "caption": "miljøstandarder",
+                "energy star": "ja"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "14 cm",
+                "høyde": "8.6 cm",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 3 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "40 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, +12v1 - 22 a, +5v - 15 a, +12v2 - 18 a, -12v - 0.3 a, +3.3v - 24 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 24-pins atx med avtakbar 4-pinsdel, 2 x 8-pins pci express-strøm med avtakbar 2-pins del, 5 x 15-pins seriell ata-strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 2 x 4-pin intern strøm"
+            }
+        ]
+    },
+    {
+        "name": "Corsair HXi Series HX1000i 1000W PSU",
+        "description": "ATX 3.0, 80 PLUS Platinum, Fully Modular",
+        "sku": "1245631",
+        "mpn": "CP-9020259-EU",
+        "producer": "Corsair",
+        "price": 2392,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair hxi series",
+                "modell": "hx1000i",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "840006697305"
+            },
+            {
+                "caption": "programvare",
+                "type": "corsair icue"
+            },
+            {
+                "caption": "strømenhet",
+                "strømtilførsel": "1000 watt",
+                "strømforsyningskompatibilitet": "pc/server",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "psu-formfaktor": "atx",
+                "80 plus-sertifisering": "80 plus platinum",
+                "frekvens nødvendig": "47 - 63 hz",
+                "formfaktor": "intern",
+                "effektivitet": "92%",
+                "kjølesystem": "140 mm-vifte",
+                "modulkabelstyring": "ja",
+                "spenningstilførsel": "+3.3, +5, +12 v",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningsenhetfunksjoner": "multi-gpu technologies supported, kjølevifte med væskedynamisk lager, cybenetics a, cybenetics platinum, high quality capacitor, helt modulær, overvåking av viftehastigheten, magnetisk hevingslager for kjølevifte, null rpm viftemodus"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "inkludert tilbehør": "kabelfestebånd, spindel"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "vekt": "3.71 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel - ekstern - 77.5 cm, 16-stifts 12vhpwr til 2x8-stifts pci express-strømadapter - ekstern - 65 cm, 2 x modulkabel for 8-pins eps12v strøm - ekstern - 65 cm, usb-c til 10-1-stifts kabel - ekstern - 52.5 cm, 8 x seriell ata-kabel - ekstern - 80 cm, 8 x parallellkabel - ekstern - 75 cm, strøm 24-pins atx-modulkabel - ekstern - 61 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 83.3 a, +3.3v - 25 a, +5v - 25 a, +5vsb - 3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x 12vhpwr, 1 x 10-stifts usb-c, 1 x strøm 24-pins atx, 4 x 4-pin intern strøm, 1 x strøm 8-pins eps12v, 8 x 15-pins seriell ata-strøm, 3 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            }
+        ]
+    },
+    {
+        "name": "MSI MAG A750GL PCIE5 750W PSU",
+        "description": "ATX 3.0 Compatible / PCI-E 5.0, 80 PLUS Gold, Full Modular",
+        "sku": "1246512",
+        "mpn": "306-7ZP8B11-CE0",
+        "producer": "MSI",
+        "price": 1509,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "mag a750gl pcie5",
+                "produktserie": "msi",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "84",
+                "ean": "4711377084284"
+            },
+            {
+                "caption": "strømenhet",
+                "modulkabelstyring": "ja",
+                "psu-formfaktor": "atx",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "80 plus-sertifisering": "80 plus gold",
+                "frekvens nødvendig": "47 - 63 hz",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "strømtilførsel": "750 watt",
+                "strømforsyningskompatibilitet": "pc/server",
+                "kjølesystem": "120 mm-vifte",
+                "formfaktor": "intern",
+                "effektivitet": "90%",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "strømforsyningsenhetfunksjoner": "dc-dc-teknologi, overopphetingsbeskyttelse, kjølevifte med væskedynamisk lager, overstrømsbeskyttelse, helt modulær, llc full bridge topology, overstrømbeskyttelse, overspenningsvern, underspenningsbeskyttelse, 12 v-enkeltskinne, kortslutningsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "14 cm",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "2 x strøm 15-stifts sata-kabel, 4-pins intern strømkabel, 16-stifts 12vhpwr strømkabel 60 cm, 8-pins pci express-strøm med avtakbar 2-pins delmodulkabel 60 cm, atx-strømkabel 60 cm, 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 60 cm, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 70 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 2.5 a, -12v - 0.3 a, +3.3v - 20 a, +12v - 62 a, +5v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "8 x 15-pins seriell ata-strøm, 3 x 8-pins pci express-strøm med avtakbar 2-pins del, 5 x 4-pin intern strøm, 1 x 12+4-stifts pci express 5.0 strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RM850x, 850W PSU",
+        "description": "ATX 12V v2.4, 80 PLUS Gold, Modul&#xE6;r, 6x 6&#x2B;2-pin PCIe, 10x SATA, 8x Molex",
+        "sku": "1194150",
+        "mpn": "CP-9020180-EU",
+        "producer": "Corsair",
+        "price": 2990,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair rmx series",
+                "modell": "rm850x",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "843591035156"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "strømkabelsett"
+            },
+            {
+                "caption": "strømenhet",
+                "spesifikasjonssamsvar": "atx12v 2.4/ eps12v 2.92",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "kjølesystem": "135 mm-vifte",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "formfaktor": "intern",
+                "strømtilførsel": "850 watt",
+                "psu-formfaktor": "atx",
+                "80 plus-sertifisering": "80 plus gold",
+                "modulkabelstyring": "ja",
+                "frekvens nødvendig": "47 - 63 hz",
+                "strømforsyningsenhetfunksjoner": "underspenningsbeskyttelse, null rpm viftemodus, overstrømsbeskyttelse, kjølevifte med riflelager, kortslutningsbeskyttelse, overspenningsvern, helt modulær, temperaturkontrollert vifte"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "inkludert tilbehør": "kabelfestebånd, kabelpose, boksskilt",
+                "tilpassede standarder": "ul, tuv, rohs, rcm, cul, china rohs, cu-tr, bsmi, weee, ccc, csa, reach, c-tick, fcc, ices, kc, cb"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "dybde": "16 cm",
+                "vekt": "1.659 kg",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 25 a, -12v - 0.8 a, +12v - 70.8 a, +5vsb - 3 a, +5v - 25 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 10 x 15-pins seriell ata-strøm, 6 x 8-pins pci express-strøm med avtakbar 2-pins del, 8 x 4-pin intern strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 1 x 4-pin mini-strømkontakt"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master MWE 650 Bronze - V2 230V PSU",
+        "description": "ATX 12V V2.52, 80 PLUS Bronze EU, ikke-modul&#xE6;r",
+        "sku": "1183509",
+        "mpn": "MPE-6501-ACABW-BEU",
+        "producer": "Cooler Master",
+        "price": 959,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "650",
+                "produktserie": "cooler master mwe bronze v2",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "60",
+                "ean": "4719512104392"
+            },
+            {
+                "caption": "strømenhet",
+                "effektivitet": "88%",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "frekvens nødvendig": "50 - 60 hz",
+                "psu-formfaktor": "atx",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "formfaktor": "intern",
+                "strømtilførsel": "650 watt",
+                "spesifikasjonssamsvar": "atx12v 2.52/ eps12v",
+                "påkrevd nettspenning": "ac 200-240 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "80 plus-sertifisering": "80 plus bronze",
+                "kjølesystem": "120 mm-vifte",
+                "strømforsyningsenhetfunksjoner": "dc-dc-teknologi, 12 v-enkeltskinne, overspenningsvern, overstrømsbeskyttelse, underspenningsbeskyttelse, kjølevifte med hydrodynamisk lager, ikke-moduær, kortslutningsbeskyttelse, overopphetingsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "cb, ccc, tuv rh, bsmi, erp lot 3 2014 ready, eac, kc, fcc, ctuvus, rcm"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "8.6 cm",
+                "vekt": "1.272 kg",
+                "dybde": "14 cm",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "11 cm",
+                "fraktbredde": "24.5 cm",
+                "fraktdybde": "19 cm",
+                "fraktvekt": "1.67 kg"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "5 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 19 a, +12v - 54 a, -12v - 0.3 a, +5v - 19 a, +5vsb - 3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "3 x 4-pin intern strøm, 6 x 15-pins seriell ata-strøm, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx, 1 x strøm 8-pins eps12v"
+            }
+        ]
+    },
+    {
+        "name": "MSI MAG A850GL PCIE5 850W PSU",
+        "description": "ATX 3.0 Compatible / PCI-E 5.0, 80 PLUS Gold, Full Modular",
+        "sku": "1246511",
+        "mpn": "306-7ZP8A11-CE0",
+        "producer": "MSI",
+        "price": 1739,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "msi",
+                "modell": "mag a850gl pcie5",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "84",
+                "ean": "4711377084253"
+            },
+            {
+                "caption": "strømenhet",
+                "formfaktor": "intern",
+                "80 plus-sertifisering": "80 plus gold",
+                "kjølesystem": "120 mm-vifte",
+                "effektivitet": "90%",
+                "strømtilførsel": "850 watt",
+                "frekvens nødvendig": "47 - 63 hz",
+                "modulkabelstyring": "ja",
+                "spesifikasjonssamsvar": "atx12v 3.0/ eps12v",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "psu-formfaktor": "atx",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømforsyningsenhetfunksjoner": "underspenningsbeskyttelse, helt modulær, llc full bridge topology, overspenningsvern, overstrømbeskyttelse, overstrømsbeskyttelse, dc-dc-teknologi, 12 v-enkeltskinne, kortslutningsbeskyttelse, kjølevifte med væskedynamisk lager, overopphetingsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "dybde": "14 cm",
+                "høyde": "8.6 cm",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "2 x strøm 15-stifts sata-kabel, 2 x 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 60 cm, atx-strømkabel 60 cm, 2 x strøm 8-stifts +12 v med avtakbar 4-stifts seksjon modulær kabel 70 cm, 4-pins intern strømkabel, 16-stifts 12vhpwr strømkabel 60 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5v - 20 a, +3.3v - 20 a, +5vsb - 2.5 a, +12v - 70.5 a, -12v - 0.3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "8 x 15-pins seriell ata-strøm, 2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 5 x 4-pin intern strøm, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x 12+4-stifts pci express 5.0 strøm 600 w, 1 x strøm 24-pins atx"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master MWE Gold 750 V2 PSU",
+        "description": "ATX 12V, 80 PLUS Gold, Fully Modular, 4x 6&#x2B;2-pin PCIe",
+        "sku": "1176419",
+        "mpn": "MPE-7501-AFAAG-EU",
+        "producer": "Cooler Master",
+        "price": 1256,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "750",
+                "produktserie": "cooler master mwe gold v2",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "60",
+                "ean": "4719512106495"
+            },
+            {
+                "caption": "strømenhet",
+                "frekvens nødvendig": "50/60 hz",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "80 plus-sertifisering": "80 plus gold",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømtilførsel": "750 watt",
+                "inngangsspenningsverdiområde": "ac 90 - 264 v",
+                "psu-formfaktor": "atx",
+                "kjølesystem": "120 mm-vifte",
+                "spesifikasjonssamsvar": "atx12v / eps12v",
+                "formfaktor": "intern",
+                "effektivitet": "90%",
+                "modulkabelstyring": "ja",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "strømforsyningsenhetfunksjoner": "helt modulær, kjølevifte med hydrodynamisk lager"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "ccc, tuv rheinland, fcc, eac"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "vekt": "2.17 kg",
+                "bredde": "15 cm",
+                "dybde": "14 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "12 cm",
+                "fraktdybde": "19.4 cm",
+                "fraktbredde": "31 cm",
+                "fraktvekt": "2.57 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "50 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+3.3v - 20 a, +12v - 62.5 a, +5vsb - 3 a, -12v - 0.3 a, +5v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 8-pins eps12v, 1 x strøm 24-pins atx, 4 x 4-pin intern strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 12 x 15-pins seriell ata-strøm"
+            }
+        ]
+    },
+    {
+        "name": "ASUS ROG STRIX 650W PSU",
+        "description": "Inkl. Str&#xF8;mkabel Schuko til C13 3m sort",
+        "sku": "1253578",
+        "mpn": "90YE00A1-B0WA00BND",
+        "producer": "ASUS",
+        "price": 999,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "asus rog",
+                "modell": "strix",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120"
+            },
+            {
+                "caption": "strømenhet",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "80 plus-sertifisering": "80 plus gold",
+                "modulkabelstyring": "ja",
+                "strømtilførsel": "650 watt",
+                "formfaktor": "intern",
+                "psu-formfaktor": "atx",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "kjølesystem": "135 mm-vifte",
+                "spenningstilførsel": "+3, +5, ±12 v",
+                "spesifikasjonssamsvar": "atx12v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "strømforsyningsenhetfunksjoner": "rog-kjøle, overstrømbeskyttelse, axial-tech-viftedesign, underspenningsbeskyttelse, overstrømsbeskyttelse, kjølevifte med dobbeltkulelager, overspenningsvern, 0db technology, kortslutningsbeskyttelse, overopphetingsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "tilpassede standarder": "rohs",
+                "fargekategori": "svart",
+                "inkludert tilbehør": "rog-logomagnet, 2 x rog-skilt, 3 x rog-etiketter"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "høyde": "8.6 cm",
+                "vekt": "1.885 kg",
+                "dybde": "16 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "strøm 15-stifts sata-kabel 81 cm, strøm 24-stifts atx med avtakbar 4-stifts modulær kabel 61 cm, 4-pins intern strømkabel 69 cm, 2 x strøm 8-stifts eps12v med avtakbar 4-stifts atx12v seksjonsmodulær kabel 1 m, 2 x 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 75 cm, ac-strømkabel, strøm 15-stifts sata-kabel 86 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 54 a, +5v - 20 a, -12v - 0.3 a, +3.3v - 20 a, +5vsb - 3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 3 x 4-pin intern strøm, 4 x 2 x 8-stifts pci express-strøm med avtakbar 2-stifts del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 8 x 15-pins seriell ata-strøm"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master V750 SFX Gold 750W PSU",
+        "description": "ATX 12V V2.52, 80 PLUS Gold, Modular, SFX, 1x 4x4 CPU, 4x 6&#x2B;2pin, 8x SATA",
+        "sku": "1173618",
+        "mpn": "MPY-7501-SFHAGV-EU",
+        "producer": "Cooler Master",
+        "price": 1899,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "cooler master v series",
+                "modell": "v750 sfx",
+                "produkttype": "strømforsyning",
+                "underkategori": "strømforsyninger",
+                "garanti (måneder)": "120",
+                "ean": "4719512098561"
+            },
+            {
+                "caption": "strømenhet",
+                "psu-formfaktor": "sfx",
+                "spesifikasjonssamsvar": "eps12v / sfx12v 3.42",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "kjølesystem": "92 mm-vifte",
+                "formfaktor": "intern",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "effektivitet": "90%",
+                "strømtilførsel": "750 watt",
+                "frekvens nødvendig": "47 - 63 hz",
+                "strømforsyningskompatibilitet": "pc/server",
+                "80 plus-sertifisering": "80 plus gold",
+                "modulkabelstyring": "ja",
+                "strømforsyningsenhetfunksjoner": "overopphetingsbeskyttelse, underspenningsbeskyttelse, impuls- og innkoplingsstrømstøtvern, helt modulær, overstrømbeskyttelse, overstrømsbeskyttelse, overspenningsvern, kortslutningsbeskyttelse, kjølevifte med væskedynamisk lager"
+            },
+            {
+                "caption": "diverse",
+                "inkludert tilbehør": "sfx to atx bracket",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "bsmi, fcc, rcm, cb, eac, tuv, ctuvus, erp lot 3 2014 ready, ccc, kcc"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "12.5 cm",
+                "vekt": "1.761 kg",
+                "høyde": "6.35 cm",
+                "dybde": "10 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktbredde": "26 cm",
+                "fraktdybde": "19 cm",
+                "frakthøyde": "10 cm",
+                "fraktvekt": "2.061 kg"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "10 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "50 °c",
+                "min. driftstemperatur": "0 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.3 a, +5vsb - 3 a, +12v - 62.5 a, +3.3v - 20 a, +5v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "1 x strøm 8-pins eps12v, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 8 x 15-pins seriell ata-strøm, 4 x 4-pin intern strøm"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master V850 SFX Gold 850W PSU",
+        "description": "ATX 12V V2.52, 80 PLUS Gold, Modular, SFX, 1x 4x4 CPU, 4x 6&#x2B;2pin, 8x SATA",
+        "sku": "1173620",
+        "mpn": "MPY-8501-SFHAGV-EU",
+        "producer": "Cooler Master",
+        "price": 2614,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "v850 sfx",
+                "produktserie": "cooler master v series",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "120",
+                "ean": "4719512098738"
+            },
+            {
+                "caption": "strømenhet",
+                "frekvens nødvendig": "47 - 63 hz",
+                "spesifikasjonssamsvar": "eps12v / sfx12v 3.42",
+                "formfaktor": "intern",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "psu-formfaktor": "sfx",
+                "80 plus-sertifisering": "80 plus gold",
+                "effektivitet": "90%",
+                "modulkabelstyring": "ja",
+                "strømtilførsel": "850 watt",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "strømforsyningskompatibilitet": "pc/server",
+                "kjølesystem": "92 mm-vifte",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "strømforsyningsenhetfunksjoner": "overopphetingsbeskyttelse, helt modulær, overspenningsvern, overstrømsbeskyttelse, impuls- og innkoplingsstrømstøtvern, kortslutningsbeskyttelse, overstrømbeskyttelse, kjølevifte med væskedynamisk lager, underspenningsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "inkludert tilbehør": "sfx to atx bracket",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart",
+                "tilpassede standarder": "bsmi, fcc, ctuvus, ccc, eac, tuv, cb, rcm, kcc, erp lot 3 2014 ready"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "6.35 cm",
+                "bredde": "12.5 cm",
+                "vekt": "1.8 kg",
+                "dybde": "10 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktvekt": "2.1 kg",
+                "fraktbredde": "26 cm",
+                "frakthøyde": "10 cm",
+                "fraktdybde": "19 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 10 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "min. driftstemperatur": "0 °c",
+                "maks. driftstemperatur": "50 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "-12v - 0.3 a, +5v - 20 a, +5vsb - 3 a, +3.3v - 20 a, +12v - 70.8 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 8 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx med avtakbar 4-pinsdel, 1 x strøm 8-pins eps12v, 4 x 4-pin intern strøm"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master MWE Gold 750W PSU",
+        "description": "ATX 12V, 80 PLUS Gold",
+        "sku": "1182901",
+        "mpn": "MPE-7501-ACAAG-EU",
+        "producer": "Cooler Master",
+        "price": 1299,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "750",
+                "produktserie": "cooler master mwe gold v2",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "60",
+                "ean": "4719512105771"
+            },
+            {
+                "caption": "strømenhet",
+                "strømtilførsel": "750 watt",
+                "effektivitet": "90%",
+                "påkrevd nettspenning": "ac 90-264 v",
+                "spesifikasjonssamsvar": "atx12v 2.41/ eps12v",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "psu-formfaktor": "atx",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "formfaktor": "intern",
+                "kjølesystem": "120 mm-vifte",
+                "strømforsyningskompatibilitet": "pc/server",
+                "80 plus-sertifisering": "80 plus gold",
+                "frekvens nødvendig": "47 - 63 hz",
+                "strømforsyningsenhetfunksjoner": "kjølevifte med hydrodynamisk lager, kortslutningsbeskyttelse, overopphetingsbeskyttelse, overspenningsvern, overstrømbeskyttelse, underspenningsbeskyttelse, overstrømsbeskyttelse"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "mtbf": "100,000 timer",
+                "tilpassede standarder": "fcc, ccc, tuv, bsmi, ctuvus, eac, rcm, erp lot 3 2014 ready"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "dybde": "14 cm",
+                "vekt": "2.04 kg",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktdybde": "19.4 cm",
+                "frakthøyde": "12 cm",
+                "fraktbredde": "27.6 cm",
+                "fraktvekt": "2.52 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "miljøparametere",
+                "maks. driftstemperatur": "50 °c",
+                "min. driftstemperatur": "0 °c"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, +3.3v - 20 a, -12v - 0.3 a, +5v - 20 a, +12v - 62.5 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "4 x 4-pin intern strøm, 4 x 8-pins pci express-strøm med avtakbar 2-pins del, 1 x strøm 8-pins eps12v, 12 x 15-pins seriell ata-strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master MWE Bronze 550 230V V2",
+        "description": "550W V2 230V / 80Plus Bronze / 120mm fan / DC-DC &#x2B; LLC / EU C",
+        "sku": "1187699",
+        "mpn": "MPE-5501-ACABW-BEU",
+        "producer": "Cooler Master",
+        "price": 844,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "550",
+                "produktserie": "cooler master mwe bronze v2",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "60",
+                "ean": "4719512104071"
+            },
+            {
+                "caption": "strømenhet",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "strømtilførsel": "550 watt",
+                "spesifikasjonssamsvar": "atx12v 2.52/ eps12v",
+                "kjølesystem": "120 mm-vifte",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "formfaktor": "intern",
+                "frekvens nødvendig": "50 - 60 hz",
+                "strømforsyningskompatibilitet": "pc/server",
+                "effektivitet": "88%",
+                "påkrevd nettspenning": "ac 200-240 v",
+                "80 plus-sertifisering": "80 plus bronze",
+                "psu-formfaktor": "atx",
+                "strømforsyningsenhetfunksjoner": "12 v-enkeltskinne, overopphetingsbeskyttelse, overspenningsvern, dc-dc-teknologi, ikke-moduær, kortslutningsbeskyttelse, overstrømsbeskyttelse, underspenningsbeskyttelse, kjølevifte med hydrodynamisk lager"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart",
+                "tilpassede standarder": "fcc, cb, bsmi, tuv rh, eac, kc, ctuvus, rcm, erp lot 3 2014 ready, ccc"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "15 cm",
+                "vekt": "1.272 kg",
+                "dybde": "14 cm",
+                "høyde": "8.6 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "11 cm",
+                "fraktdybde": "19 cm",
+                "fraktvekt": "1.67 kg",
+                "fraktbredde": "24.5 cm"
+            },
+            {
+                "caption": "service og støtte",
+                "type": "5 års garanti"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 5 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 45 a, +5v - 17 a, +3.3v - 17 a, -12v - 0.3 a, +5vsb - 3 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "6 x 15-pins seriell ata-strøm, 1 x strøm 24-pins atx, 2 x 8-pins pci express-strøm med avtakbar 2-pins del, 3 x 4-pin intern strøm, 1 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master M2000 Platinum PSU",
+        "description": "ATX 12V V2.52, Full Modular, 80 Plus Platinum",
+        "sku": "1218403",
+        "mpn": "MPZ-K001-AFFBP-EU",
+        "producer": "Cooler Master",
+        "price": 6990,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "cooler master",
+                "modell": "m2000",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "72",
+                "ean": "4719512117491"
+            },
+            {
+                "caption": "strømenhet",
+                "påkrevd nettspenning": "ac 200-240 v",
+                "spenningstilførsel": "+3.3, +5, ±12 v",
+                "psu-formfaktor": "atx",
+                "strømforsyningskompatibilitet": "pc/server",
+                "effektivitet": "94%",
+                "strømfaktorkorreksjon": "aktiv power factor correction (pfc)",
+                "kjølesystem": "135 mm-vifte",
+                "formfaktor": "intern",
+                "spesifikasjonssamsvar": "atx12v 2.52/ eps12v",
+                "strømtilførsel": "2000 watt",
+                "modulkabelstyring": "ja",
+                "80 plus-sertifisering": "80 plus platinum",
+                "strømforsyningsenhetfunksjoner": "overstrømsbeskyttelse, kjølevifte med dobbeltkulelager, underspenningsbeskyttelse, overstrømbeskyttelse, overopphetingsbeskyttelse, helt modulær, overspenningsvern, kortslutningsbeskyttelse, impuls- og innkoplingsstrømstøtvern"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart",
+                "tilpassede standarder": "bis, eac, ukca, rohs 2.0, erp lot 3 2014 ready, tuv, ccc, ctuvus"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "vekt": "5.1 kg",
+                "høyde": "8.6 cm",
+                "dybde": "18 cm",
+                "bredde": "15 cm"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "frakthøyde": "13.5 cm",
+                "fraktdybde": "21 cm",
+                "fraktbredde": "43 cm",
+                "fraktvekt": "6.1 kg"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 7 år"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+5vsb - 3 a, +12v - 166 a, -12v - 0.3 a, +5v - 22 a, +3.3v - 25 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 1 x strøm 24-pins atx, 12 x 15-pins seriell ata-strøm, 3 x 4-pin intern strøm, 1 x 4-pin mini-strømkontakt, 18 x 8-pins pci express-strøm med avtakbar 2-pins del"
+            }
+        ]
+    },
+    {
+        "name": "Corsair RM650 650 Watt PSU",
+        "description": "80 PLUS GOLD, Fully Modular, Low Noise, ATX",
+        "sku": "1253264",
+        "mpn": "CP-9020280-EU",
+        "producer": "Corsair",
+        "price": 1299,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Strømforsyning"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "corsair rm series",
+                "modell": "rm650",
+                "underkategori": "strømforsyninger",
+                "produkttype": "strømforsyning",
+                "garanti (måneder)": "84",
+                "ean": "840006670650"
+            },
+            {
+                "caption": "strømenhet",
+                "80 plus-sertifisering": "80 plus gold",
+                "strømforsyningskompatibilitet": "pc/server",
+                "effektivitet": "90%",
+                "modulkabelstyring": "ja",
+                "spesifikasjonssamsvar": "atx12v 2.53 / eps12v",
+                "påkrevd nettspenning": "ac 100-240 v",
+                "spenningstilførsel": "+3.3, +5, +12 v",
+                "kjølesystem": "120 mm-vifte",
+                "strømtilførsel": "650 watt",
+                "formfaktor": "intern",
+                "frekvens nødvendig": "47 - 63 hz",
+                "psu-formfaktor": "atx",
+                "strømforsyningsenhetfunksjoner": "null rpm viftemodus, kjølevifte med riflelager, helt modulær, dc-dc-teknologi, llc resonant omformerteknologi"
+            },
+            {
+                "caption": "diverse",
+                "mtbf": "100,000 timer",
+                "fargekategori": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "høyde": "8.6 cm",
+                "bredde": "15 cm",
+                "dybde": "14 cm"
+            },
+            {
+                "caption": "service- og støttedetaljer",
+                "service og støtte": "begrenset garanti - 7 år"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "3 x strøm 15-stifts sata-kabel 70 cm, strøm 8-stifts eps12v med avtakbar 4-stifts atx12v seksjonsmodulær kabel 60 cm, strøm 24-pins atx-modulkabel 61 cm, 4 x strøm 15-stifts sata-kabel 80 cm, ac-strømkabel, 4 x 4-pins intern strømkabel 75 m, 2 x 2x 8-stifts pci express-strøm med avtakbar 2-stifts delmodulkabel 75 cm"
+            },
+            {
+                "caption": "utgangsstrøm",
+                "utgangsstrøm": "+12v - 54 a, +3.3v - 20 a, +5vsb - 3 a, -12v - 0.3 a, +5v - 20 a"
+            },
+            {
+                "caption": "detaljer om strømutgangskoblinger",
+                "detaljer om strømutgangskoblinger": "2 x strøm 8-pins eps12v med avtakbar 4-pins atx12v-del, 4 x 4-pin intern strøm, 4 x 2 x 8-stifts pci express-strøm med avtakbar 2-stifts del, 1 x strøm 24-pins atx, 7 x 15-pins seriell ata-strøm"
+            }
+        ]
+    }
+]

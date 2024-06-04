@@ -1,0 +1,253 @@
+[
+    {
+        "name": "Corsair iCUE Commander Core XT Smart RGB",
+        "description": "Lys og vifte kontroller",
+        "sku": "1202125",
+        "mpn": "CL-9011112-WW",
+        "producer": "Corsair",
+        "price": 899,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Casemods"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "commander core xt",
+                "produktserie": "corsair icue",
+                "produkttype": "led-kontroller for vifte",
+                "garanti (måneder)": "24",
+                "kategori og tilbehør": "kjøling og vifter, tilbehør for stasjonær og server, systemmodding",
+                "ean": "840006629788"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "egenskaper": "2 temperatursensorer, magnetisk installasjon"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "kopling medfølger": "4-stifts rgb-kontakt x 6, 4-pins pwm x 6, 3-stifts rgb-sokkel x 1"
+            }
+        ]
+    },
+    {
+        "name": "Akasa Magnetic ARGB LED Strip",
+        "description": "Powerful Magnet | Support Digital Addressable LED Pin Header | 60cm",
+        "sku": "1132875",
+        "mpn": "AK-LD07-60RB",
+        "producer": "Akasa",
+        "price": 359,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Casemods"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "akasa vegas mba",
+                "innebygd led-lys": "ja",
+                "funksjoner": "magnetisk",
+                "produkttype": "lysslynge",
+                "garanti (måneder)": "24",
+                "ean": "4710614538634"
+            },
+            {
+                "caption": "lyskilde",
+                "belysningsfarge": "rgb-lys",
+                "lyskildetype": "led-lyspære",
+                "antall led-er": "15"
+            },
+            {
+                "caption": "strømenhet",
+                "nødvendig spenning": "5 v"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "lengde": "60 cm"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks NV5 Premium DRGB Kit (hvit)",
+        "description": "3x D/A-RGB LED-moduler for NV5 ytre ramme",
+        "sku": "1252876",
+        "mpn": "PH-PLEDKT_NV5_DWT01",
+        "producer": "Phanteks",
+        "price": 685,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Casemods"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24",
+                "ean": "886523003243"
+            }
+        ]
+    },
+    {
+        "name": "Phanteks NV5 Premium DRGB Kit (sort)",
+        "description": "3x D/A-RGB LED-moduler for NV5 ytre ramme",
+        "sku": "1252878",
+        "mpn": "PH-PLEDKT_NV5_DBK01",
+        "producer": "Phanteks",
+        "price": 902,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Casemods"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "phanteks",
+                "modell": "premium",
+                "produkttype": "belysningssett for systemskap",
+                "garanti (måneder)": "24",
+                "kategori og tilbehør": "systemmodding, tilbehør for stasjonær og server",
+                "pakkeinnhold": "d-rgb-strømhub, sata-kabel, 3 x d-rgb-utgangskabler, d-rgb-hovedkortkabeldeksel, d-rgb-hubinngangskabel, 3 x d-rgb led-moduler, tommelskruer",
+                "ean": "886523003236"
+            },
+            {
+                "caption": "diverse",
+                "farge": "svart",
+                "fargekategori": "svart",
+                "produktmateriale": "pc-plast, abs-plast"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "43.7 cm",
+                "dybde": "19 cm",
+                "høyde": "3.5 cm",
+                "vekt": "1.43 kg"
+            },
+            {
+                "caption": "størrelser og vekt (forsendelse)",
+                "fraktbredde": "54.1 cm"
+            },
+            {
+                "caption": "indre dimensjoner",
+                "bredde": "54.1 cm",
+                "høyde": "6 cm",
+                "dybde": "25.3 cm"
+            }
+        ]
+    },
+    {
+        "name": "Cooler Master Triden Fan Cable",
+        "description": "1-to-3 RGB Splitter Cable, 58 cm",
+        "sku": "924928",
+        "mpn": "R4-ACCY-RGBS-R2",
+        "producer": "Cooler Master",
+        "price": 159,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "cooler master",
+                "modell": "1-to-3 rgb splitter cable",
+                "produkttype": "viftekabel",
+                "garanti (måneder)": "24",
+                "kategori og tilbehør": "strømforsyningstilbehør, kjøling og vifter",
+                "ean": "4719512059890"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "kopling medfølger": "4-pins intern strøm (12v)"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "farge": "svart",
+                "produktmateriale": "pvc, messing"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "lengde": "58 cm",
+                "vekt": "40 g"
+            }
+        ]
+    },
+    {
+        "name": "akasa RGB LED splitter cable",
+        "description": "4 RGB ports",
+        "sku": "944368",
+        "mpn": "AK-CBLD02-10BK",
+        "producer": "Akasa",
+        "price": 59,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "akasa",
+                "garanti (måneder)": "24",
+                "ean": "4710614538122"
+            },
+            {
+                "caption": "kabel",
+                "kabelunderkategori": "strøm",
+                "venstrekontaktkjønn": "hunn",
+                "i/o-kabeltype": "rgb led-splitter",
+                "antall venstrekontakter": "1",
+                "antall kontakter høyre": "4",
+                "kjønn høyre kontakt": "hann",
+                "type venstrekontakt": "4-pin intern strøm",
+                "kontakttype høyre": "4-pin intern strøm"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "farge": "svart"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "lengde": "10 cm"
+            }
+        ]
+    },
+    {
+        "name": "Noctua NA-SAV2 Anti Vibration Mounts",
+        "description": "20x NA-AV2 Anti-Vibration Mounts, Highly tear-proof, Reduce Noise",
+        "sku": "816893",
+        "mpn": "NA-SAV2",
+        "producer": "Noctua",
+        "price": 113,
+        "categories": {
+            "main_category": "Datautstyr",
+            "type_category": "PC-komponenter",
+            "product_category": "Tilbehør"
+        },
+        "spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "noctua",
+                "produkttype": "skruesett for systemvifte",
+                "garanti (måneder)": "60",
+                "kategori og tilbehør": "kjøling og vifter, tilbehør for stasjonær og server",
+                "ean": "4716123315162"
+            },
+            {
+                "caption": "diverse",
+                "antall artikler pr. pakke": "40",
+                "egenskaper": "vibrasjonsfri"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "lengde": "6.1 cm"
+            }
+        ]
+    }
+]
