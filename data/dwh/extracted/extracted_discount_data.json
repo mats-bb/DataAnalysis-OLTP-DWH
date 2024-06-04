@@ -1,0 +1,98 @@
+[
+    [
+        1,
+        "No discount",
+        "None",
+        0,
+        null,
+        null
+    ],
+    [
+        2,
+        "Spring Sale 2023: Graphics Cards",
+        "Percentage",
+        15,
+        "2023-03-01",
+        "2023-03-31"
+    ],
+    [
+        3,
+        "Easter Weekend 2023: Casemods",
+        "Percentage",
+        10,
+        "2023-04-14",
+        "2023-04-17"
+    ],
+    [
+        4,
+        "Summer Campaign 2023: Accessories",
+        "Dollar amount",
+        100,
+        "2023-07-01",
+        "2023-07-15"
+    ],
+    [
+        5,
+        "Back to School 2023: Motherboards",
+        "Dollar amount",
+        249,
+        "2023-08-15",
+        "2023-08-31"
+    ],
+    [
+        6,
+        "Summer Sale 2023: RAM",
+        "Percentage",
+        10,
+        "2023-06-01",
+        "2023-06-30"
+    ],
+    [
+        7,
+        "Summer Sale 2023: Fans",
+        "Percentage",
+        10,
+        "2023-07-15",
+        "2023-07-31"
+    ],
+    [
+        8,
+        "Autumn Sale 2023: Cabinets-Barebone",
+        "Percentage",
+        15,
+        "2023-09-15",
+        "2023-09-30"
+    ],
+    [
+        9,
+        "Black Friday 2023: Storage",
+        "Percentage",
+        20,
+        "2023-11-24",
+        "2023-11-27"
+    ],
+    [
+        10,
+        "Christmas Campaign 2023: Controllers",
+        "Dollar amount",
+        459,
+        "2023-12-01",
+        "2023-12-24"
+    ],
+    [
+        11,
+        "Spring Cleaning 2024: Sound Cards",
+        "Dollar amount",
+        125,
+        "2024-04-01",
+        "2024-04-15"
+    ],
+    [
+        12,
+        "May Weekend 2024: Power Supplies",
+        "Percentage",
+        15,
+        "2024-05-10",
+        "2024-05-13"
+    ]
+]

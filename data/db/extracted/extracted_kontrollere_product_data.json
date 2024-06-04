@@ -1,0 +1,506 @@
+[
+    {
+        "productId": "1160401",
+        "ecomm_prodid": "1160401",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 419.0,
+        "ecomm_shelfPrice": 419.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "1160401",
+                    "item_name": "ST Lab I-560 PCIe 2x Serial Card",
+                    "price": 335.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Sunsway",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Kontrollere",
+                    "item_category4": "Seriell-Parallell",
+                    "quantity": 1,
+                    "item_manufacturer_number": "I-560",
+                    "item_division_id": "42",
+                    "item_group_id": "24",
+                    "item_subgroup_id": "24-15",
+                    "item_group_name": "Mainboards",
+                    "item_subgroup_name": "Controllers",
+                    "item_division_name": "Components",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 2,
+                    "item_rating": 3.5,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "st lab",
+                "modell": "i-560",
+                "garanti (måneder)": "24"
+            },
+            {
+                "caption": "nettverkstilknytning",
+                "dataoverføringshastighet": "230.4 kbps",
+                "grensesnitts(databuss)-type": "pci express 2.0 x1",
+                "produktformfaktor": "plugginnkort",
+                "datakjedeprotokoll": "rs-232",
+                "overføringsteknologi": "kablet",
+                "type": "seriell adapter"
+            },
+            {
+                "caption": "porter",
+                "antall": "2",
+                "type": "rs-232"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "2 x rs-232 - 9-pin d-sub (db-9)"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "linux 2.6.32 eller nyere, microsoft windows xp / vista / 7 / 8 / 8.1 / 10 (32/64 bits)"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "sølv, svart"
+            }
+        ]
+    },
+    {
+        "productId": "969013",
+        "ecomm_prodid": "969013",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 429.0,
+        "ecomm_shelfPrice": 429.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "969013",
+                    "item_name": "ICY BOX in-desk 4 ports USB 3.0 hub",
+                    "price": 343.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "ICYBOX",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Kontrollere",
+                    "item_category4": "USB-FireWire",
+                    "quantity": 1,
+                    "item_manufacturer_number": "IB-HUB1403",
+                    "item_division_id": "36",
+                    "item_group_id": "150",
+                    "item_subgroup_id": "150-12",
+                    "item_group_name": "PC Accessories",
+                    "item_subgroup_name": "PC USB accessories",
+                    "item_division_name": "Handheld Clients",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 5,
+                    "item_rating": 4.0,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "In-desk hub, 4 x USB 3.0",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "ib-hub1403",
+                "produktserie": "icy box",
+                "garanti (måneder)": "24",
+                "ean": "4250078164760"
+            },
+            {
+                "caption": "nettverkstilknytning",
+                "undertype": "usb",
+                "portantall": "4",
+                "type": "hub",
+                "statusindikatorer": "strøm",
+                "formfaktor": "kan monteres i flukt",
+                "underkategori": "periferdeling og hub-er",
+                "egenskaper": "usb-strømforsyning"
+            },
+            {
+                "caption": "porter",
+                "type": "superspeed usb 3.0",
+                "antall": "4"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "4 x usb 3.0 type a"
+            },
+            {
+                "caption": "kabeldetaljer",
+                "medfølgende kabler": "1 x superspeed usb-kabel - 120 cm"
+            },
+            {
+                "caption": "diverse",
+                "farge": "svart",
+                "fargekategori": "svart",
+                "tilpassede standarder": "plug and play",
+                "inkludert tilbehør": "støvdekke"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "bredde": "5.6 cm",
+                "høyde": "5.3 cm",
+                "dybde": "5.3 cm",
+                "vekt": "110 g"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "linux, apple macos, microsoft windows"
+            }
+        ]
+    },
+    {
+        "productId": "911700",
+        "ecomm_prodid": "911700",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 929.0,
+        "ecomm_shelfPrice": 929.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "911700",
+                    "item_name": "ST Lab PCIe SATA 6G Raid card 4channel",
+                    "price": 743.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Sunsway",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Kontrollere",
+                    "item_category4": "Harddisk",
+                    "quantity": 1,
+                    "item_manufacturer_number": "A-520",
+                    "item_division_id": "42",
+                    "item_group_id": "24",
+                    "item_subgroup_id": "24-15",
+                    "item_group_name": "Mainboards",
+                    "item_subgroup_name": "Controllers",
+                    "item_division_name": "Components",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 10,
+                    "item_rating": 3.6,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "PCI-Express x4, SATA3.0, 2x ext. eSATA &#x2B; 4x int. SATA Ports",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "st lab",
+                "produkttype": "diskkontroller",
+                "garanti (måneder)": "24"
+            },
+            {
+                "caption": "diskkontroller",
+                "dataoverføringshastighet": "6 gbit",
+                "støttede enheter": "harddisk",
+                "kanal antall": "4",
+                "vertsbuss": "pcie 2.0 x2",
+                "maks. antall lagringsenheter": "6",
+                "grensesnitt": "sata 6gb/s / esata",
+                "produktformfaktor": "plugginnkort",
+                "raid-nivå": "raid 0, raid 1, raid 10"
+            },
+            {
+                "caption": "programvare",
+                "type": "driver"
+            },
+            {
+                "caption": "strømenhet",
+                "type": "ingen"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "svart",
+                "egenskaper": "fis based switching, native command queuing (ncq), command based switching, støtteportmultiplikator, marvell hyperduo technology, varmeutbyttbar"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "2 x esata (ekstern), 4 x sata 6gb/s (intern)"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "microsoft windows server 2012 r2, linux 2.6.x eller nyere, microsoft windows server 2008 r2, microsoft windows xp, microsoft windows vista / 7 / 8 / 8.1"
+            }
+        ]
+    },
+    {
+        "productId": "911689",
+        "ecomm_prodid": "911689",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 569.0,
+        "ecomm_shelfPrice": 569.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "911689",
+                    "item_name": "ST Lab PCIe SATA 6G 2channel",
+                    "price": 455.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Sunsway",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Kontrollere",
+                    "item_category4": "Harddisk",
+                    "quantity": 1,
+                    "item_manufacturer_number": "A-480",
+                    "item_division_id": "42",
+                    "item_group_id": "24",
+                    "item_subgroup_id": "24-15",
+                    "item_group_name": "Mainboards",
+                    "item_subgroup_name": "Controllers",
+                    "item_division_name": "Components",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 16,
+                    "item_rating": 4.4,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "PCI-Express x1, SATA3.0, 2x ext. eSATA &#x2B; 2x int. SATA Ports",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "modell": "a-480",
+                "produktserie": "st lab",
+                "produkttype": "diskkontroller",
+                "garanti (måneder)": "24"
+            },
+            {
+                "caption": "diskkontroller",
+                "grensesnitt": "sata 6gb/s / esata 6gb/s",
+                "støttede enheter": "harddisk",
+                "produktformfaktor": "plugginnkort",
+                "maks. antall lagringsenheter": "4",
+                "dataoverføringshastighet": "6 gbit",
+                "vertsbuss": "pcie 2.0 x1"
+            },
+            {
+                "caption": "strømenhet",
+                "type": "ingen"
+            },
+            {
+                "caption": "diverse",
+                "tilpassede standarder": "fcc",
+                "fargekategori": "svart",
+                "egenskaper": "native command queuing (ncq)"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "2 x sata 6gb/s - sata (intern), 2 x esata 6gb/s - esata (ekstern)"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "microsoft windows 7, microsoft windows vista, microsoft windows xp"
+            }
+        ]
+    },
+    {
+        "productId": "911709",
+        "ecomm_prodid": "911709",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 1459.0,
+        "ecomm_shelfPrice": 1459.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "911709",
+                    "item_name": "ST Lab PCIe SATA 6G 8channel",
+                    "price": 1167.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Sunsway",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Kontrollere",
+                    "item_category4": "Harddisk",
+                    "quantity": 1,
+                    "item_manufacturer_number": "A-590",
+                    "item_division_id": "42",
+                    "item_group_id": "24",
+                    "item_subgroup_id": "24-15",
+                    "item_group_name": "Mainboards",
+                    "item_subgroup_name": "Controllers",
+                    "item_division_name": "Components",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 16,
+                    "item_rating": 3.4,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "PCI-Express x4, SATA3.0, 2x mini-SAS (SFF-8087), supports 8xSATA",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "st lab",
+                "modell": "a-590",
+                "produkttype": "diskkontroller",
+                "garanti (måneder)": "24"
+            },
+            {
+                "caption": "diskkontroller",
+                "kanal antall": "4",
+                "produktformfaktor": "plugginnkort",
+                "grensesnitt": "sata 6gb/s",
+                "vertsbuss": "pcie 2.1 x4",
+                "støttede enheter": "disk array (raid)",
+                "dataoverføringshastighet": "6 gbit"
+            },
+            {
+                "caption": "grensesnitt medfølger",
+                "grensesnitt": "8 x sata 6gb/s"
+            },
+            {
+                "caption": "strømenhet",
+                "type": "ingen"
+            },
+            {
+                "caption": "diverse",
+                "tilpassede standarder": "fcc",
+                "egenskaper": "native command queuing (ncq)",
+                "fargekategori": "svart, hvit"
+            },
+            {
+                "caption": "systemkrav",
+                "os påkrevd": "apple macos x 10.6.8 eller nyere, linux 2.6.32, microsoft windows xp / vista / 7 / 8 / 8.1 (32/64 bits)"
+            }
+        ]
+    },
+    {
+        "productId": "817644",
+        "ecomm_prodid": "817644",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 279.0,
+        "ecomm_shelfPrice": 279.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "817644",
+                    "item_name": "ST Lab PCIe Seriell, 2x RS-232",
+                    "price": 223.2,
+                    "discount": 0,
+                    "index": 0,
+                    "item_brand": "Sunsway",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Kontrollere",
+                    "item_category4": "Seriell-Parallell",
+                    "quantity": 1,
+                    "item_manufacturer_number": "IE-K10-5220-00-00014",
+                    "item_division_id": "42",
+                    "item_group_id": "24",
+                    "item_subgroup_id": "24-15",
+                    "item_group_name": "Mainboards",
+                    "item_subgroup_name": "Controllers",
+                    "item_division_name": "Components",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 1,
+                    "item_rating": 5.0,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "(PCI Express x1), Low Profile (PCI Express x1), Low Profile",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "garanti (måneder)": "24"
+            }
+        ]
+    },
+    {
+        "productId": "653777",
+        "ecomm_prodid": "653777",
+        "ecomm_pagetype": "product",
+        "ecomm_totalvalue": 299.0,
+        "ecomm_shelfPrice": 299.0,
+        "event": "view_item",
+        "ecommerce": {
+            "items": [
+                {
+                    "item_id": "653777",
+                    "item_name": "Deltaco SAS-kabel m-SAS til SATA",
+                    "price": 239.2,
+                    "discount": 216,
+                    "index": 0,
+                    "item_brand": "Aurdel",
+                    "item_category": "Datautstyr",
+                    "item_category2": "PC-komponenter",
+                    "item_category3": "Kontrollere",
+                    "item_category4": "Diverse",
+                    "quantity": 1,
+                    "item_manufacturer_number": "SAS-127",
+                    "item_division_id": "36",
+                    "item_group_id": "02",
+                    "item_subgroup_id": "02-6",
+                    "item_group_name": "Cables",
+                    "item_subgroup_name": "Data",
+                    "item_division_name": "Handheld Clients",
+                    "item_stock_status": "Stocked",
+                    "item_reviews": 8,
+                    "item_rating": 5.0,
+                    "item_bundle": false,
+                    "item_leasable": false
+                }
+            ]
+        },
+        "_clear": true,
+        "description": "SAS-kabel SFF-8087 till 4xSATA 7-pin, 50 cm",
+        "product_spec_sheet": [
+            {
+                "caption": "generelt",
+                "produktserie": "delock",
+                "modell": "sas-127",
+                "garanti (måneder)": "12",
+                "ean": "4043619830572"
+            },
+            {
+                "caption": "kabel",
+                "antall kontakter høyre": "4",
+                "lagerkabeltype": "seriell ata/sas-kabel",
+                "type venstrekontakt": "36-pins 4i mini multilane sas (sff-8087)",
+                "antall sas-kabler": "4-spors",
+                "grensesnittstype": "serial ata / sas",
+                "kontakttype høyre": "7-pins seriell ata",
+                "kjønn høyre kontakt": "hunn",
+                "venstrekontaktkjønn": "hann",
+                "antall venstrekontakter": "1"
+            },
+            {
+                "caption": "diverse",
+                "fargekategori": "rød"
+            },
+            {
+                "caption": "størrelser og vekt",
+                "lengde": "50 cm"
+            }
+        ]
+    }
+]

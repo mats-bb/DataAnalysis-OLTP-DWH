@@ -1,24 +1,41 @@
-import json
 import psycopg2
 import os
 
 os.sys.path.append('scripts')
 from util.utils import load_from_json, connect_db
 
-TRANSFORMED_DIR = fr"data\transformed"
+TRANSFORMED_DIR = r"data\dwh\transformed"
+FILE_NAME = "transformed_order_data.json"
 
-def load_order_rows():
+def load_order_data():
+    """Load data into database."""
 
-    order_rows = load_from_json(TRANSFORMED_DIR, "transformed_order_rows")
+    transformed_order_data = load_from_json(TRANSFORMED_DIR, FILE_NAME)
 
     try:
-        conn = connect_db('komplett_dwh')
+        conn = connect_db('komplett_v2_dwh')
         cursor = conn.cursor()
 
-        for row in order_rows:
-            row = json.dumps(row)
+        date_query = """
+            SELECT id 
+            FROM dim_date
+            WHERE date = %s;
+            """
 
-            cursor.execute("CALL insert_order_data(%s);", (row,))
+        query = """
+            INSERT INTO fact_product_sale (product_id, discount_id, payment_method, delivery_method, quantity, regular_unit_price, location_id, customer_id,
+                                            discount_unit_price, net_unit_price, extended_sales_amount, extended_discount_amount, date_id)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+            """
+
+        for order in transformed_order_data:
+            date = order["order_date"]
+            cursor.execute(date_query, (date,))
+            date_id = cursor.fetchone()
+            order["date_id"] = date_id[0]
+            del order["order_date"]
+            # print(order)
+            cursor.execute(query, tuple(order.values()))
 
         # Commit the transaction
         conn.commit()
@@ -35,4 +52,4 @@ def load_order_rows():
         if conn:
             conn.close()
 
-load_order_rows()
+load_order_data()

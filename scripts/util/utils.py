@@ -6,6 +6,7 @@ import requests as req
 import psycopg2
 
 def connect_db(db_name):
+    """Establish connection to database."""
     
     res = dotenv.load_dotenv()
     if not res:
@@ -27,12 +28,12 @@ def connect_db(db_name):
 def load_from_json(dir_, filename):
     """Load json file from directory."""
 
-    with open(fr'{dir_}/{filename}.json', 'r', encoding='utf-8') as f:
+    with open(fr'{dir_}/{filename}', 'r', encoding='utf-8') as f:
         return json.load(f)
 
 
 def get_resp(url):
-    """Get response from url."""
+    """Get response from url request."""
 
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
@@ -43,10 +44,12 @@ def get_resp(url):
 
 def get_soup(resp):
     """Get soup object from response."""
+    
     return bs(resp.content, "html.parser")
 
 
 def save_to_json(dir_, filename, data):
     """Save json file to directory."""
-    with open(fr'{dir_}/{filename}.json', 'w', encoding='utf-8') as f:
+    
+    with open(fr'{dir_}/{filename}', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
