@@ -9,18 +9,18 @@ The project will be updated continously. This is not it's final form.
 
 
 # Table of contents
-## 1. The idea
-## 2. The process
-## 3. Tools
-## 4. Future work
+- The idea
+- The process
+- Tools
+- Future work
 
-## 1. The idea
+## The idea
 
-## 2. The process
+## The process
 
-## 3. Tools
+## Tools
 
-## 4. Future work
+## Future work
 
 ## Ideas
 - Build operational database
