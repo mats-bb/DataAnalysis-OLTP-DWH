@@ -21,17 +21,17 @@ From there the idea only grew. I wanted to build the actual system itself and po
 
 # The process
 ## 1. Exploring the website
-In order to get the required instructions for building the data model, some exploration was needed. I clicked around on the webpage, checking out the different categories and products, different functions like the shoppingcart and wishlist, customer pages and more. After getting a good overview of the core functions I wanted the system to support, the modeling started.
+In order to get the required instructions for building the data model, some exploration was needed. I clicked around on the webpage, checking out the different categories and products, different functions like the shoppingcart and wishlist, customer pages and more. After getting a good overview of the core functions I wanted the system to support I could start the actual modeling.
 ## 2. Building the ERD
-
-3. Building the operational database
-4. Scraping the data
-5. Generating data
-6. ETL
-7. Building the data warehouse
-8. Generating data
-9. ETL
-10. Power Bi
+At the heart of every webshop is the products they offer. Customers buy the products, and everything gets recorded in an order. I decided to focus on these aspects for the data model as they are the most "important", and most fun to work with, in my opinion. The process itself was pretty straightforward: explore each aspect in depth, break them down into logical pieces, build the tables and iterate. Some data, of course, is not avaiable by just looking at a webpage, so some actual thinking was involved in designing parts of the schema, like the product inventory table, for example. You can see the current ERD [here](imgs/operations_ERD.drawio.png)
+## 3. Building the operational database
+## 4. Scraping the data
+## 5. Generating data
+## 6. ETL
+## 7. Building the data warehouse
+## 8. Generating data
+## 9. ETL
+## 10. Power Bi
 
 ## Ideas
 - Build operational database
