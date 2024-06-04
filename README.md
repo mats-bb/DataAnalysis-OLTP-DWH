@@ -21,8 +21,9 @@ From there the idea only grew. I wanted to build the actual system itself and po
 
 # The process
 ## 1. Exploring the website
-Testing testing
-2. Building the ERD
+In order to get the required instructions for building the data model, some exploration was needed. I clicked around on the webpage, checking out the different categories and products, different functions like the shoppingcart and wishlist, customer pages and more. After getting a good overview of the core functions I wanted the system to support, the modeling started.
+## 2. Building the ERD
+
 3. Building the operational database
 4. Scraping the data
 5. Generating data
