@@ -5,7 +5,22 @@ Finally I've built a data warehouse using a star schema approach, used for doing
 
 The project will be updated continously. This is not it's final form.
 
-![Alt Text](https://github.com/mats-bb/Reverse-engineered-Komplett-DB/blob/master/imgs/overview_1.png) 
+![Alt Text](https://github.com/mats-bb/Reverse-engineered-Komplett-DB/blob/master/imgs/overview_1.png)
+
+
+## Table of contents
+1. The idea
+2. The process
+3. Tools
+4. Future work
+
+# 1. The idea
+
+# 2. The process
+
+# 3. Tools
+
+# 4. Future work
 
 ## Ideas
 - Build operational database
