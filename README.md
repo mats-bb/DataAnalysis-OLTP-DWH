@@ -14,13 +14,12 @@ The project will be updated continously. This is not it's final form.
 - [Tools](#tools)
 - [Future work](#future-work)
 
+
 ## The idea
+
 
 ## The process
 
-## Tools
-
-## Future work
 
 ## Ideas
 - Build operational database
