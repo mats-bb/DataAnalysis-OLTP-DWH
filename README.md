@@ -22,8 +22,9 @@ The project will be updated continously. This is not it's final form.
   - [9. Extract, transform and load dwh data](#9-extract-transform-and-load-dwh-data)
   - [10. Power Bi](#10-power-bi)
   - [11. Final words](#11-final-words)
-- [Tools](#tools)
-- [Future work](#future-work)
+- [Technical]()
+  - [Tools]()
+- [Future work]()
 
 
 # The idea
