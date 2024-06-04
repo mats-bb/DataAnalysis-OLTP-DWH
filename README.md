@@ -24,6 +24,7 @@ The project will be updated continously. This is not it's final form.
   - [11. Final words](#11-final-words)
 - [Technical](#technical)
   - [Tools used](#tools-used)
+  - [Stats](#stats)
 - [Future work](#future-work)
 
 
@@ -49,7 +50,6 @@ The data scraping process was way more involved, using browser dev tools to insp
 ## 5. Generating operations data
 Next I needed some data for the customers and their orders. I will not go too much into detail here, but simply put, I used an [API](https://randomuser.me/) to generate the actual customer data, and some basic Python to generate the rest. See the code for more information.[^3]
 [^3]: The data generated is of a random nature. This will be reflected in the visualizations later.
-  Test
 
 ## 6. Transform and load operations data
 The data has been retrieved and generated! The next step is to transform the data into the correct format for loading into the operations database. The process involved some error handling, selecting only the necessary data and some small transformations for the products. The user data needed to be combined. Seeing as both products and customers have multiple tables associated with them, stored procedures had to be written for these operations. You can see them [here](sql/operattions_procedures.sql)!
@@ -82,6 +82,12 @@ I've had a lot of fun working on this project so far, and have learned a great d
 - Draw.io - ERD design
 - APIs
   - https://randomuser.me/
+
+## Stats
+- **1391** products were scraped
+- **19960** customers were generated
+- **13500** orders were generated
+- **74770** order lines were generated
     
 ## Future work
 - Continue building operations DB
