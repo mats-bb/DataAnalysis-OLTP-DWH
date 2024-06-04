@@ -11,7 +11,17 @@ The project will be updated continously. This is not it's final form.
 # Table of contents
 - [The idea](#the-idea)
 - [The process](#the-process)
--   - Hei
+-   - 1. Exploring the website
+    - 2. Building the ERD
+    - 3. Building the operational dabase
+    - 4. Scraping the data
+    - 5. Generating operations data
+      6. Transform and load operations data
+      7. Building the data warehouse
+      8. Generating dwh data
+      9. Extract, transform and load dwh data
+      10. Power Bi
+      11. Final words
 - [Tools](#tools)
 - [Future work](#future-work)
 
