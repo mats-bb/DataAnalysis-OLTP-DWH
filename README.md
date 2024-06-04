@@ -20,7 +20,16 @@ The idea for this project came to be because I wanted to dig deeper into data mo
 From there the idea only grew. I wanted to build the actual system itself and populate it with real data, hence the web scraping. Of course, I needed a data warehouse too, on which I would run analysis. I concluded the project would provide a good foundation for future learning, that I could add new functionalities as I learn about new technologies. A good part of the groundwork has been done in this current iteration of the project, and I will detail it all, step by step.
 
 ## The process
-
+1. Exploring the website
+2. Building the ERD
+3. Building the operational database
+4. Scraping the data
+5. Generating data
+6. ETL
+7. Building the data warehouse
+8. Generating data
+9. ETL
+10. Power Bi
 
 ## Ideas
 - Build operational database
