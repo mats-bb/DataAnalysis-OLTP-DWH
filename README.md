@@ -22,13 +22,18 @@ From there the idea only grew. I wanted to build the actual system itself and po
 # The process
 ## 1. Exploring the website
 In order to get the required instructions for building the data model, some exploration was needed. I clicked around on the webpage, checking out the different categories and products, different functions like the shoppingcart and wishlist, customer pages and more. After getting a good overview of the core functions I wanted the system to support I could start the actual modeling.
+
 ## 2. Building the ERD
 At the heart of every webshop is the products they offer. Customers buy the products, and everything gets recorded in an order. I decided to focus on these aspects for the data model as they are the most "important", and most fun to work with, in my opinion. The process itself was pretty straightforward: explore each aspect in depth, break them down into logical pieces, build the tables and relations, and iterate. Some data, of course, is not avaiable by just looking at a webpage, so some actual thinking was involved in designing parts of the schema, like the product inventory table, for example. You can see the current ERD [here](imgs/operations_ERD.drawio.png).
+
 ## 3. Building the operational database
 There is not very much to say about the actual creation of the database. The ERD is complete, just follow the recipe. The [DDL](sql/operations_DDL.sql) for the operations database. Don't worry about the cascades, I've deliberately kept them as they were a part of the process. Do be careful in a real environment though!
+
 ## 4. Scraping the data
+The data scraping process was way more involved, using browser dev tools to inspect the HTML of each webpage to get the actual data. Product data was the target here, and I chose to focus on computer parts only. The process simply described, extract the URL for each product and extract the relevant data from these URLs HTML. This was a lengthy process, and a lot of debugging and manual labour had to be done finding the correct HTML elements and writing the actual code for it. Ultimately though, this would be a one-time operation.
 
 ## 5. Generating data
+Next I needed some data for the customers and their orders.
 ## 6. ETL
 ## 7. Building the data warehouse
 ## 8. Generating data
