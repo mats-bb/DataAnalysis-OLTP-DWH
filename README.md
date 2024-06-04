@@ -21,6 +21,7 @@ From there the idea only grew. I wanted to build the actual system itself and po
 
 ## The process
 1. Exploring the website
+  -  Test
 2. Building the ERD
 3. Building the operational database
 4. Scraping the data
